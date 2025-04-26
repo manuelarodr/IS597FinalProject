@@ -1,0 +1,3144 @@
+fips,y2014,y2015,y2016,y2017,y2018,y2019,y2020,y2021,state,state_name,county_name
+1001,0,0,0,0,0,0,0,0,AL,Alabama,Autauga
+1003,3,2,0,2,1,7,3,3,AL,Alabama,Baldwin
+1005,0,0,1,0,0,0,0,0,AL,Alabama,Barbour
+1007,0,1,0,0,2,1,0,0,AL,Alabama,Bibb
+1009,1,0,1,0,1,0,1,2,AL,Alabama,Blount
+1011,0,0,0,0,0,0,0,0,AL,Alabama,Bullock
+1013,0,0,0,0,0,0,0,0,AL,Alabama,Butler
+1015,3,0,2,5,0,2,3,4,AL,Alabama,Calhoun
+1017,0,0,0,0,0,0,2,1,AL,Alabama,Chambers
+1019,0,0,0,1,2,0,0,0,AL,Alabama,Cherokee
+1021,0,1,1,2,0,0,1,1,AL,Alabama,Chilton
+1023,0,0,0,0,0,0,0,0,AL,Alabama,Choctaw
+1025,0,0,0,0,0,0,4,0,AL,Alabama,Clarke
+1027,1,0,0,0,0,0,0,0,AL,Alabama,Clay
+1029,0,2,0,1,1,1,0,1,AL,Alabama,Cleburne
+1031,0,0,0,0,0,0,1,0,AL,Alabama,Coffee
+1033,1,1,1,0,0,0,3,1,AL,Alabama,Colbert
+1035,0,1,0,0,0,0,0,0,AL,Alabama,Conecuh
+1037,0,0,0,0,0,0,0,0,AL,Alabama,Coosa
+1039,0,2,0,0,0,0,0,1,AL,Alabama,Covington
+1041,0,0,1,1,1,0,0,0,AL,Alabama,Crenshaw
+1043,1,2,1,0,1,1,0,2,AL,Alabama,Cullman
+1045,2,0,0,1,1,1,2,2,AL,Alabama,Dale
+1047,1,1,2,2,2,0,0,0,AL,Alabama,Dallas
+1049,0,1,0,0,1,2,0,0,AL,Alabama,DeKalb
+1051,1,1,0,1,0,5,0,4,AL,Alabama,Elmore
+1053,0,0,0,0,0,0,1,1,AL,Alabama,Escambia
+1055,0,0,3,0,2,1,0,0,AL,Alabama,Etowah
+1057,0,0,1,0,0,0,0,0,AL,Alabama,Fayette
+1059,1,0,0,0,0,0,0,0,AL,Alabama,Franklin
+1061,1,0,0,0,0,0,1,0,AL,Alabama,Geneva
+1063,0,0,0,0,0,0,0,0,AL,Alabama,Greene
+1065,0,0,0,0,0,1,0,0,AL,Alabama,Hale
+1067,0,0,0,1,0,0,0,0,AL,Alabama,Henry
+1069,3,0,1,0,0,2,1,3,AL,Alabama,Houston
+1071,1,0,0,1,0,2,0,1,AL,Alabama,Jackson
+1073,9,9,9,11,7,18,17,18,AL,Alabama,Jefferson
+1075,0,0,0,0,0,0,0,0,AL,Alabama,Lamar
+1077,1,0,4,1,1,1,3,0,AL,Alabama,Lauderdale
+1079,0,1,0,0,1,0,1,0,AL,Alabama,Lawrence
+1081,1,2,4,0,1,1,1,6,AL,Alabama,Lee
+1083,0,4,1,0,2,0,2,0,AL,Alabama,Limestone
+1085,0,0,0,0,1,0,0,0,AL,Alabama,Lowndes
+1087,1,0,1,1,0,0,0,0,AL,Alabama,Macon
+1089,5,7,4,5,2,7,4,2,AL,Alabama,Madison
+1091,0,0,0,0,1,0,0,0,AL,Alabama,Marengo
+1093,0,0,1,2,1,0,2,0,AL,Alabama,Marion
+1095,0,1,0,2,0,1,4,0,AL,Alabama,Marshall
+1097,3,5,4,5,10,8,9,2,AL,Alabama,Mobile
+1099,0,0,0,0,0,0,0,1,AL,Alabama,Monroe
+1101,2,0,2,1,3,1,5,3,AL,Alabama,Montgomery
+1103,1,2,0,0,0,0,0,2,AL,Alabama,Morgan
+1105,0,0,0,0,0,0,0,0,AL,Alabama,Perry
+1107,1,0,0,0,0,2,0,0,AL,Alabama,Pickens
+1109,0,0,0,0,0,1,0,0,AL,Alabama,Pike
+1111,0,0,1,1,0,0,0,0,AL,Alabama,Randolph
+1113,2,1,0,2,0,1,0,1,AL,Alabama,Russell
+1115,0,0,1,2,0,0,1,5,AL,Alabama,St. Clair
+1117,0,1,1,1,1,1,1,1,AL,Alabama,Shelby
+1119,0,0,0,0,0,0,0,0,AL,Alabama,Sumter
+1121,1,1,1,1,3,1,0,4,AL,Alabama,Talladega
+1123,1,1,0,0,0,0,0,1,AL,Alabama,Tallapoosa
+1125,1,2,2,1,1,2,1,4,AL,Alabama,Tuscaloosa
+1127,0,1,0,0,0,0,1,5,AL,Alabama,Walker
+1129,0,0,0,1,0,0,0,0,AL,Alabama,Washington
+1131,1,0,0,0,0,0,0,1,AL,Alabama,Wilcox
+1133,0,0,0,0,0,0,0,1,AL,Alabama,Winston
+2013,0,0,0,0,0,0,0,0,AK,Alaska,Aleutians East Borough
+2016,0,0,0,0,0,0,0,0,AK,Alaska,Aleutians West Census Area
+2020,2,1,5,5,2,4,7,1,AK,Alaska,Anchorage Municipality
+2050,1,0,0,0,0,0,1,0,AK,Alaska,Bethel Census Area
+2060,0,0,0,0,0,0,0,0,AK,Alaska,Bristol Bay Borough
+2068,0,0,0,0,0,0,0,0,AK,Alaska,Denali Borough
+2070,0,0,1,0,0,1,0,1,AK,Alaska,Dillingham Census Area
+2090,0,3,1,3,1,3,0,5,AK,Alaska,Fairbanks North Star Borough
+2100,0,0,1,0,0,0,0,0,AK,Alaska,Haines Borough
+2105,0,0,0,0,0,0,0,0,AK,Alaska,Hoonah-Angoon Census Area
+2110,0,0,1,0,0,2,0,0,AK,Alaska,Juneau City and Borough
+2122,1,1,1,2,1,0,4,1,AK,Alaska,Kenai Peninsula Borough
+2130,0,0,0,0,0,0,0,0,AK,Alaska,Ketchikan Gateway Borough
+2150,0,0,0,0,0,0,1,0,AK,Alaska,Kodiak Island Borough
+2158,0,0,0,0,2,0,0,0,AK,Alaska,Kusilvak Census Area
+2164,0,0,0,0,0,0,0,0,AK,Alaska,Lake and Peninsula Borough
+2170,3,0,3,2,2,0,5,3,AK,Alaska,Matanuska-Susitna Borough
+2180,0,0,0,0,0,0,0,0,AK,Alaska,Nome Census Area
+2185,0,0,1,0,0,0,0,0,AK,Alaska,North Slope Borough
+2188,0,1,0,0,0,0,0,2,AK,Alaska,Northwest Arctic Borough
+2195,0,0,0,0,0,0,0,0,AK,Alaska,Petersburg Borough
+2198,0,0,0,0,0,0,0,0,AK,Alaska,Prince of Wales-Hyder Census Area
+2220,0,0,0,0,0,0,0,0,AK,Alaska,Sitka City and Borough
+2230,0,0,0,0,0,0,0,0,AK,Alaska,Skagway Municipality
+2240,0,0,0,0,0,0,2,0,AK,Alaska,Southeast Fairbanks Census Area
+2261,0,0,0,0,1,0,0,0,AK,Alaska,Valdez-Cordova Census Area
+2275,0,0,0,0,0,0,0,0,AK,Alaska,Wrangell City and Borough
+2282,0,0,0,0,0,0,0,0,AK,Alaska,Yakutat City and Borough
+2290,1,0,0,0,0,0,0,2,AK,Alaska,Yukon-Koyukuk Census Area
+4001,0,3,1,1,1,0,4,1,AZ,Arizona,Apache
+4003,3,2,4,1,1,1,1,3,AZ,Arizona,Cochise
+4005,8,0,3,2,2,10,1,0,AZ,Arizona,Coconino
+4007,0,1,0,3,0,2,0,4,AZ,Arizona,Gila
+4009,0,0,0,0,0,0,0,0,AZ,Arizona,Graham
+4011,0,1,0,0,0,0,0,0,AZ,Arizona,Greenlee
+4012,0,2,1,1,1,1,0,0,AZ,Arizona,La Paz
+4013,40,37,41,54,77,45,62,69,AZ,Arizona,Maricopa
+4015,3,1,6,4,4,1,12,4,AZ,Arizona,Mohave
+4017,1,0,2,1,1,0,3,2,AZ,Arizona,Navajo
+4019,10,10,12,11,18,12,23,21,AZ,Arizona,Pima
+4021,3,5,3,1,2,4,5,4,AZ,Arizona,Pinal
+4023,0,0,1,0,1,1,2,2,AZ,Arizona,Santa Cruz
+4025,3,2,1,5,1,2,7,3,AZ,Arizona,Yavapai
+4027,0,1,3,0,3,1,1,1,AZ,Arizona,Yuma
+5001,0,0,0,0,0,0,1,0,AR,Arkansas,Arkansas
+5003,0,1,0,0,0,0,0,0,AR,Arkansas,Ashley
+5005,0,0,0,0,1,1,1,1,AR,Arkansas,Baxter
+5007,1,0,1,0,1,5,1,3,AR,Arkansas,Benton
+5009,0,2,0,0,0,0,0,1,AR,Arkansas,Boone
+5011,0,0,0,0,0,1,0,0,AR,Arkansas,Bradley
+5013,0,0,0,0,0,0,0,0,AR,Arkansas,Calhoun
+5015,0,1,0,0,0,0,0,1,AR,Arkansas,Carroll
+5017,0,0,0,0,0,0,0,1,AR,Arkansas,Chicot
+5019,0,0,0,0,0,0,0,0,AR,Arkansas,Clark
+5021,0,0,1,0,1,0,0,0,AR,Arkansas,Clay
+5023,0,0,1,1,0,0,0,0,AR,Arkansas,Cleburne
+5025,0,0,0,0,0,0,0,0,AR,Arkansas,Cleveland
+5027,0,0,0,0,1,0,1,0,AR,Arkansas,Columbia
+5029,0,0,0,1,1,0,0,0,AR,Arkansas,Conway
+5031,1,2,0,0,1,2,3,0,AR,Arkansas,Craighead
+5033,0,1,0,1,1,0,1,1,AR,Arkansas,Crawford
+5035,0,0,1,2,1,3,0,0,AR,Arkansas,Crittenden
+5037,0,0,0,1,0,0,0,0,AR,Arkansas,Cross
+5039,0,0,0,0,0,0,0,1,AR,Arkansas,Dallas
+5041,0,0,0,0,0,0,0,0,AR,Arkansas,Desha
+5043,0,0,1,0,0,0,0,0,AR,Arkansas,Drew
+5045,0,1,1,1,1,0,2,3,AR,Arkansas,Faulkner
+5047,1,0,0,0,1,0,0,1,AR,Arkansas,Franklin
+5049,0,0,0,0,1,0,0,0,AR,Arkansas,Fulton
+5051,0,1,1,1,3,2,1,3,AR,Arkansas,Garland
+5053,0,0,0,1,0,1,0,0,AR,Arkansas,Grant
+5055,1,0,0,0,0,0,0,1,AR,Arkansas,Greene
+5057,0,0,0,0,0,0,1,0,AR,Arkansas,Hempstead
+5059,0,0,0,0,1,0,0,1,AR,Arkansas,Hot Spring
+5061,0,0,0,0,0,0,0,0,AR,Arkansas,Howard
+5063,0,0,1,2,0,0,0,0,AR,Arkansas,Independence
+5065,0,0,0,0,0,0,1,0,AR,Arkansas,Izard
+5067,0,0,0,0,1,1,0,0,AR,Arkansas,Jackson
+5069,2,0,1,5,2,4,1,1,AR,Arkansas,Jefferson
+5071,0,1,0,1,0,0,0,1,AR,Arkansas,Johnson
+5073,0,0,0,0,0,0,0,0,AR,Arkansas,Lafayette
+5075,1,0,0,0,0,0,0,1,AR,Arkansas,Lawrence
+5077,0,0,0,0,0,0,0,2,AR,Arkansas,Lee
+5079,0,0,0,0,0,0,0,0,AR,Arkansas,Lincoln
+5081,1,0,0,0,0,0,0,0,AR,Arkansas,Little River
+5083,0,0,0,0,0,0,0,0,AR,Arkansas,Logan
+5085,0,4,2,0,1,0,2,7,AR,Arkansas,Lonoke
+5087,0,0,0,1,0,0,0,0,AR,Arkansas,Madison
+5089,0,0,0,1,0,0,1,0,AR,Arkansas,Marion
+5091,1,0,0,0,0,0,1,2,AR,Arkansas,Miller
+5093,0,2,0,1,1,2,1,0,AR,Arkansas,Mississippi
+5095,1,0,0,0,0,0,0,0,AR,Arkansas,Monroe
+5097,0,0,1,0,0,0,0,0,AR,Arkansas,Montgomery
+5099,0,0,0,0,0,0,0,0,AR,Arkansas,Nevada
+5101,0,0,0,0,0,0,0,0,AR,Arkansas,Newton
+5103,0,0,0,0,0,0,0,1,AR,Arkansas,Ouachita
+5105,0,0,1,0,0,0,0,1,AR,Arkansas,Perry
+5107,1,1,0,2,1,2,1,0,AR,Arkansas,Phillips
+5109,0,0,0,0,0,0,0,0,AR,Arkansas,Pike
+5111,1,0,0,0,2,0,0,0,AR,Arkansas,Poinsett
+5113,0,0,1,0,0,0,0,0,AR,Arkansas,Polk
+5115,1,0,1,0,1,0,3,0,AR,Arkansas,Pope
+5117,1,0,0,0,0,0,0,0,AR,Arkansas,Prairie
+5119,8,5,8,7,6,7,11,5,AR,Arkansas,Pulaski
+5121,0,0,0,0,0,0,0,0,AR,Arkansas,Randolph
+5123,0,2,1,2,1,0,4,0,AR,Arkansas,St. Francis
+5125,0,1,3,1,0,1,1,0,AR,Arkansas,Saline
+5127,0,0,0,0,0,0,0,0,AR,Arkansas,Scott
+5129,1,0,0,1,1,0,0,0,AR,Arkansas,Searcy
+5131,1,0,0,0,4,0,3,2,AR,Arkansas,Sebastian
+5133,2,0,0,0,0,0,0,0,AR,Arkansas,Sevier
+5135,0,0,0,0,0,0,1,1,AR,Arkansas,Sharp
+5137,0,0,0,0,0,1,0,0,AR,Arkansas,Stone
+5139,1,1,0,0,0,0,2,0,AR,Arkansas,Union
+5141,0,0,0,0,0,2,0,0,AR,Arkansas,Van Buren
+5143,0,0,7,1,3,2,4,2,AR,Arkansas,Washington
+5145,0,0,1,2,1,0,1,0,AR,Arkansas,White
+5147,0,0,0,0,0,0,0,0,AR,Arkansas,Woodruff
+5149,0,0,0,0,0,0,0,0,AR,Arkansas,Yell
+6001,16,21,11,16,12,6,20,18,CA,California,Alameda
+6003,0,0,0,0,0,0,0,0,CA,California,Alpine
+6005,0,0,0,0,2,0,0,0,CA,California,Amador
+6007,3,4,1,4,3,1,2,1,CA,California,Butte
+6009,0,0,0,0,2,0,1,1,CA,California,Calaveras
+6011,0,0,0,0,0,0,0,0,CA,California,Colusa
+6013,8,8,8,12,11,6,10,11,CA,California,Contra Costa
+6015,0,0,0,3,1,0,0,1,CA,California,Del Norte
+6017,0,2,1,0,1,0,0,1,CA,California,El Dorado
+6019,13,9,11,9,8,9,23,13,CA,California,Fresno
+6021,0,0,0,1,1,0,0,0,CA,California,Glenn
+6023,6,4,5,3,0,1,1,3,CA,California,Humboldt
+6025,3,2,1,0,1,2,2,2,CA,California,Imperial
+6027,0,0,0,0,1,0,0,0,CA,California,Inyo
+6029,9,17,9,15,11,8,29,19,CA,California,Kern
+6031,0,3,2,4,3,2,0,0,CA,California,Kings
+6033,1,0,1,2,1,1,0,0,CA,California,Lake
+6035,0,0,0,0,0,0,0,0,CA,California,Lassen
+6037,100,125,111,115,87,86,91,131,CA,California,Los Angeles
+6039,0,2,0,4,1,2,4,1,CA,California,Madera
+6041,0,0,1,1,2,0,1,1,CA,California,Marin
+6043,0,1,0,0,0,0,0,0,CA,California,Mariposa
+6045,2,0,0,2,1,1,0,1,CA,California,Mendocino
+6047,3,6,3,8,3,4,1,2,CA,California,Merced
+6049,0,0,1,0,0,0,0,1,CA,California,Modoc
+6051,0,0,0,0,0,0,0,0,CA,California,Mono
+6053,8,7,3,5,2,7,3,5,CA,California,Monterey
+6055,1,2,0,3,4,2,4,1,CA,California,Napa
+6057,1,0,2,0,1,0,2,1,CA,California,Nevada
+6059,15,17,18,23,25,18,27,23,CA,California,Orange
+6061,2,1,5,2,4,1,0,1,CA,California,Placer
+6063,0,0,0,0,0,0,0,0,CA,California,Plumas
+6065,20,19,22,24,28,26,28,31,CA,California,Riverside
+6067,16,17,17,17,12,14,17,14,CA,California,Sacramento
+6069,0,0,0,0,0,0,0,0,CA,California,San Benito
+6071,18,33,21,19,27,30,46,43,CA,California,San Bernardino
+6073,17,26,18,39,26,20,32,28,CA,California,San Diego
+6075,10,11,10,10,7,4,7,3,CA,California,San Francisco
+6077,8,9,13,10,1,9,16,7,CA,California,San Joaquin
+6079,0,0,2,2,0,0,4,3,CA,California,San Luis Obispo
+6081,3,2,2,6,4,3,5,4,CA,California,San Mateo
+6083,2,2,4,5,3,2,2,10,CA,California,Santa Barbara
+6085,5,17,8,14,7,12,10,9,CA,California,Santa Clara
+6087,0,1,2,1,3,0,1,2,CA,California,Santa Cruz
+6089,5,1,3,3,5,7,5,4,CA,California,Shasta
+6091,0,0,0,0,0,0,0,0,CA,California,Sierra
+6093,0,3,2,0,1,1,0,4,CA,California,Siskiyou
+6095,7,3,2,3,2,6,6,6,CA,California,Solano
+6097,1,3,3,6,4,5,2,0,CA,California,Sonoma
+6099,2,5,6,6,6,8,9,6,CA,California,Stanislaus
+6101,3,0,0,2,0,3,1,2,CA,California,Sutter
+6103,0,2,2,1,2,3,7,0,CA,California,Tehama
+6105,0,0,0,2,0,0,0,0,CA,California,Trinity
+6107,4,4,3,6,12,4,7,6,CA,California,Tulare
+6109,1,0,0,0,0,0,1,1,CA,California,Tuolumne
+6111,2,2,2,4,5,5,5,1,CA,California,Ventura
+6113,3,2,0,3,0,4,3,1,CA,California,Yolo
+6115,1,3,1,2,4,2,0,1,CA,California,Yuba
+8001,5,6,6,15,16,9,11,11,CO,Colorado,Adams
+8003,0,0,0,0,2,0,0,0,CO,Colorado,Alamosa
+8005,3,9,5,9,8,8,6,10,CO,Colorado,Arapahoe
+8007,0,0,0,0,0,0,0,0,CO,Colorado,Archuleta
+8009,0,0,0,0,0,0,1,0,CO,Colorado,Baca
+8011,0,0,0,0,0,0,0,0,CO,Colorado,Bent
+8013,1,2,3,0,3,1,4,2,CO,Colorado,Boulder
+8014,0,1,0,0,0,0,0,0,CO,Colorado,Broomfield
+8015,0,0,0,0,0,0,0,0,CO,Colorado,Chaffee
+8017,0,0,0,0,0,0,0,0,CO,Colorado,Cheyenne
+8019,1,1,0,0,0,0,1,1,CO,Colorado,Clear Creek
+8021,0,0,0,1,0,1,0,0,CO,Colorado,Conejos
+8023,0,0,0,0,0,1,0,0,CO,Colorado,Costilla
+8025,0,0,0,0,0,0,0,0,CO,Colorado,Crowley
+8027,0,0,0,0,0,0,0,0,CO,Colorado,Custer
+8029,0,0,0,0,0,0,0,1,CO,Colorado,Delta
+8031,9,12,12,10,11,11,15,10,CO,Colorado,Denver
+8033,0,0,0,0,0,0,0,0,CO,Colorado,Dolores
+8035,0,0,1,4,1,1,1,1,CO,Colorado,Douglas
+8037,1,0,0,0,0,1,0,0,CO,Colorado,Eagle
+8039,0,0,0,1,1,0,0,1,CO,Colorado,Elbert
+8041,1,9,7,6,11,9,14,13,CO,Colorado,El Paso
+8043,2,1,1,4,0,0,0,2,CO,Colorado,Fremont
+8045,0,1,0,0,0,1,3,0,CO,Colorado,Garfield
+8047,0,0,0,0,0,0,0,0,CO,Colorado,Gilpin
+8049,0,1,0,0,0,0,0,0,CO,Colorado,Grand
+8051,0,0,1,0,1,0,0,2,CO,Colorado,Gunnison
+8053,0,0,0,0,0,0,0,0,CO,Colorado,Hinsdale
+8055,0,0,0,0,0,0,0,0,CO,Colorado,Huerfano
+8057,0,0,0,0,0,0,0,0,CO,Colorado,Jackson
+8059,3,2,3,3,10,10,6,12,CO,Colorado,Jefferson
+8061,0,0,0,0,0,0,1,0,CO,Colorado,Kiowa
+8063,0,0,0,1,0,0,0,0,CO,Colorado,Kit Carson
+8065,0,0,0,0,1,0,0,0,CO,Colorado,Lake
+8067,0,0,0,0,0,0,1,0,CO,Colorado,La Plata
+8069,4,3,2,7,3,6,0,3,CO,Colorado,Larimer
+8071,0,1,0,1,1,1,0,0,CO,Colorado,Las Animas
+8073,0,0,0,0,0,0,0,0,CO,Colorado,Lincoln
+8075,0,0,0,0,1,0,3,0,CO,Colorado,Logan
+8077,3,1,3,0,4,3,6,5,CO,Colorado,Mesa
+8079,0,0,0,0,0,0,0,0,CO,Colorado,Mineral
+8081,0,1,0,0,0,0,0,0,CO,Colorado,Moffat
+8083,0,0,0,1,0,0,0,0,CO,Colorado,Montezuma
+8085,1,0,1,0,1,0,0,0,CO,Colorado,Montrose
+8087,0,0,0,0,1,0,1,0,CO,Colorado,Morgan
+8089,1,0,0,1,0,0,0,0,CO,Colorado,Otero
+8091,0,0,0,0,0,0,0,1,CO,Colorado,Ouray
+8093,0,0,2,0,0,0,1,0,CO,Colorado,Park
+8095,0,0,0,0,0,0,1,0,CO,Colorado,Phillips
+8097,0,0,0,0,0,0,0,0,CO,Colorado,Pitkin
+8099,0,0,0,0,0,0,0,0,CO,Colorado,Prowers
+8101,8,1,7,4,7,8,9,4,CO,Colorado,Pueblo
+8103,0,0,0,0,1,0,0,0,CO,Colorado,Rio Blanco
+8105,0,0,0,0,0,0,0,0,CO,Colorado,Rio Grande
+8107,0,0,0,0,1,0,0,0,CO,Colorado,Routt
+8109,0,0,0,1,0,0,0,0,CO,Colorado,Saguache
+8111,0,0,0,0,0,0,0,0,CO,Colorado,San Juan
+8113,0,0,0,0,0,0,0,0,CO,Colorado,San Miguel
+8115,0,0,0,0,0,0,0,0,CO,Colorado,Sedgwick
+8117,0,0,1,0,0,1,0,0,CO,Colorado,Summit
+8119,1,0,0,0,1,0,0,0,CO,Colorado,Teller
+8121,0,0,0,0,0,0,0,0,CO,Colorado,Washington
+8123,2,5,5,3,4,8,3,9,CO,Colorado,Weld
+8125,0,0,0,0,0,0,0,0,CO,Colorado,Yuma
+9001,2,1,11,7,5,5,1,4,CT,Connecticut,Fairfield
+9003,5,2,2,4,7,4,3,2,CT,Connecticut,Hartford
+9005,0,0,1,1,0,0,0,0,CT,Connecticut,Litchfield
+9007,0,1,0,0,1,0,1,0,CT,Connecticut,Middlesex
+9009,4,5,6,8,5,3,8,2,CT,Connecticut,New Haven
+9011,2,2,2,3,1,2,0,0,CT,Connecticut,New London
+9013,0,1,0,1,0,1,0,0,CT,Connecticut,Tolland
+9015,0,0,1,1,0,1,0,0,CT,Connecticut,Windham
+10001,3,3,3,1,1,0,3,0,DE,Delaware,Kent
+10003,3,9,1,9,1,3,11,2,DE,Delaware,New Castle
+10005,3,2,0,1,2,1,3,3,DE,Delaware,Sussex
+11001,9,13,15,13,7,8,17,30,DC,District of Columbia,District of Columbia
+12001,3,1,1,2,0,0,0,7,FL,Florida,Alachua
+12003,0,0,0,0,1,0,0,0,FL,Florida,Baker
+12005,4,4,1,3,7,3,3,1,FL,Florida,Bay
+12007,0,0,0,0,2,0,0,0,FL,Florida,Bradford
+12009,3,6,9,6,7,3,10,10,FL,Florida,Brevard
+12011,12,10,12,10,12,16,15,12,FL,Florida,Broward
+12013,0,0,1,1,0,0,1,0,FL,Florida,Calhoun
+12015,1,1,1,2,1,1,1,0,FL,Florida,Charlotte
+12017,3,0,0,3,5,3,2,2,FL,Florida,Citrus
+12019,1,0,3,3,0,2,0,3,FL,Florida,Clay
+12021,1,2,2,2,0,2,2,2,FL,Florida,Collier
+12023,2,1,0,0,0,0,0,2,FL,Florida,Columbia
+12027,0,0,0,0,0,0,0,0,FL,Florida,DeSoto
+12029,1,1,0,0,1,1,0,0,FL,Florida,Dixie
+12031,15,12,11,13,9,12,21,10,FL,Florida,Duval
+12033,3,2,5,5,2,8,9,7,FL,Florida,Escambia
+12035,3,0,0,1,0,0,1,0,FL,Florida,Flagler
+12037,0,0,0,0,0,0,0,0,FL,Florida,Franklin
+12039,1,0,1,0,1,0,1,1,FL,Florida,Gadsden
+12041,0,0,0,0,0,0,0,0,FL,Florida,Gilchrist
+12043,0,0,0,0,0,0,0,0,FL,Florida,Glades
+12045,0,0,0,0,0,2,0,0,FL,Florida,Gulf
+12047,0,0,0,0,0,0,0,0,FL,Florida,Hamilton
+12049,0,0,0,0,0,0,1,0,FL,Florida,Hardee
+12051,1,0,0,1,0,0,1,0,FL,Florida,Hendry
+12053,2,2,1,5,1,1,3,0,FL,Florida,Hernando
+12055,1,0,1,0,1,0,4,1,FL,Florida,Highlands
+12057,9,7,15,8,10,12,19,12,FL,Florida,Hillsborough
+12059,0,0,1,1,0,0,0,0,FL,Florida,Holmes
+12061,0,1,0,4,1,2,2,0,FL,Florida,Indian River
+12063,0,0,0,1,0,1,0,1,FL,Florida,Jackson
+12065,0,0,0,1,0,0,0,0,FL,Florida,Jefferson
+12067,0,0,0,1,0,0,0,0,FL,Florida,Lafayette
+12069,4,3,5,2,3,4,0,2,FL,Florida,Lake
+12071,5,2,11,6,6,3,5,11,FL,Florida,Lee
+12073,7,3,1,3,7,1,4,4,FL,Florida,Leon
+12075,0,0,0,1,2,0,0,1,FL,Florida,Levy
+12077,0,0,0,0,0,0,0,0,FL,Florida,Liberty
+12079,0,0,1,0,0,0,0,0,FL,Florida,Madison
+12081,3,1,4,4,2,0,4,1,FL,Florida,Manatee
+12083,2,1,4,5,1,3,2,3,FL,Florida,Marion
+12085,0,0,1,2,2,2,4,4,FL,Florida,Martin
+12086,29,28,28,29,17,18,34,32,FL,Florida,Miami-Dade
+12087,0,2,1,1,0,1,0,0,FL,Florida,Monroe
+12089,5,1,0,3,1,0,5,1,FL,Florida,Nassau
+12091,1,3,3,2,2,2,3,1,FL,Florida,Okaloosa
+12093,0,1,1,1,2,0,1,0,FL,Florida,Okeechobee
+12095,17,10,18,11,14,10,17,6,FL,Florida,Orange
+12097,1,0,1,4,3,2,1,1,FL,Florida,Osceola
+12099,13,10,6,8,10,8,5,15,FL,Florida,Palm Beach
+12101,3,1,4,5,3,3,3,4,FL,Florida,Pasco
+12103,3,5,15,8,5,8,9,12,FL,Florida,Pinellas
+12105,5,5,4,3,12,8,7,14,FL,Florida,Polk
+12107,3,3,0,2,1,0,2,0,FL,Florida,Putnam
+12109,4,4,1,1,2,0,6,2,FL,Florida,St. Johns
+12111,3,2,5,0,3,3,3,0,FL,Florida,St. Lucie
+12113,0,1,1,0,3,1,2,0,FL,Florida,Santa Rosa
+12115,3,1,1,0,3,5,4,3,FL,Florida,Sarasota
+12117,2,3,4,1,5,0,0,3,FL,Florida,Seminole
+12119,0,0,0,1,4,2,1,0,FL,Florida,Sumter
+12121,0,0,0,0,0,0,1,0,FL,Florida,Suwannee
+12123,1,0,0,0,0,0,0,0,FL,Florida,Taylor
+12125,0,0,0,0,0,0,0,0,FL,Florida,Union
+12127,4,6,11,11,8,6,11,4,FL,Florida,Volusia
+12129,0,1,0,0,0,0,0,0,FL,Florida,Wakulla
+12131,0,0,0,0,0,1,0,0,FL,Florida,Walton
+12133,2,0,0,0,0,0,0,0,FL,Florida,Washington
+13001,0,0,0,0,0,0,0,0,GA,Georgia,Appling
+13003,0,0,0,0,0,1,0,0,GA,Georgia,Atkinson
+13005,0,0,0,0,0,0,0,0,GA,Georgia,Bacon
+13007,0,0,0,0,0,0,0,0,GA,Georgia,Baker
+13009,0,0,0,2,0,0,2,0,GA,Georgia,Baldwin
+13011,0,0,0,0,0,0,0,1,GA,Georgia,Banks
+13013,0,1,0,1,2,1,0,1,GA,Georgia,Barrow
+13015,3,2,2,0,2,3,1,2,GA,Georgia,Bartow
+13017,0,0,0,0,0,0,0,1,GA,Georgia,Ben Hill
+13019,1,0,0,0,0,0,1,1,GA,Georgia,Berrien
+13021,2,2,2,1,3,2,4,3,GA,Georgia,Bibb
+13023,0,0,0,0,0,1,0,0,GA,Georgia,Bleckley
+13025,0,0,0,0,0,0,0,0,GA,Georgia,Brantley
+13027,0,0,0,0,1,0,0,0,GA,Georgia,Brooks
+13029,0,0,0,0,0,0,0,0,GA,Georgia,Bryan
+13031,0,0,1,1,0,0,1,1,GA,Georgia,Bulloch
+13033,0,0,0,3,0,1,0,0,GA,Georgia,Burke
+13035,0,0,1,1,0,5,0,0,GA,Georgia,Butts
+13037,0,0,0,0,0,0,0,0,GA,Georgia,Calhoun
+13039,1,1,0,0,2,0,1,3,GA,Georgia,Camden
+13043,0,1,0,0,0,0,0,0,GA,Georgia,Candler
+13045,1,1,2,1,3,1,0,3,GA,Georgia,Carroll
+13047,0,0,1,1,1,0,1,1,GA,Georgia,Catoosa
+13049,0,0,0,0,0,0,0,0,GA,Georgia,Charlton
+13051,2,4,1,5,4,3,4,11,GA,Georgia,Chatham
+13053,0,0,0,0,0,0,0,0,GA,Georgia,Chattahoochee
+13055,1,0,0,1,0,0,0,0,GA,Georgia,Chattooga
+13057,3,1,1,0,0,1,0,3,GA,Georgia,Cherokee
+13059,1,0,1,2,0,8,0,5,GA,Georgia,Clarke
+13061,0,0,0,1,0,0,0,0,GA,Georgia,Clay
+13063,2,1,3,7,3,4,6,3,GA,Georgia,Clayton
+13065,0,1,0,0,0,1,0,1,GA,Georgia,Clinch
+13067,0,2,5,6,4,3,8,14,GA,Georgia,Cobb
+13069,2,1,0,0,0,0,1,0,GA,Georgia,Coffee
+13071,0,2,0,1,1,1,0,0,GA,Georgia,Colquitt
+13073,0,0,0,0,0,2,0,0,GA,Georgia,Columbia
+13075,0,0,0,2,0,0,1,1,GA,Georgia,Cook
+13077,0,0,1,1,1,1,4,2,GA,Georgia,Coweta
+13079,0,1,2,1,0,0,1,2,GA,Georgia,Crawford
+13081,0,0,1,0,1,0,2,2,GA,Georgia,Crisp
+13083,0,0,1,0,1,0,0,0,GA,Georgia,Dade
+13085,0,0,0,0,0,0,0,0,GA,Georgia,Dawson
+13087,0,1,0,0,0,0,2,1,GA,Georgia,Decatur
+13089,11,6,2,3,11,10,9,21,GA,Georgia,DeKalb
+13091,0,0,1,1,3,0,0,0,GA,Georgia,Dodge
+13093,0,0,1,0,0,0,0,0,GA,Georgia,Dooly
+13095,0,0,1,0,0,0,2,2,GA,Georgia,Dougherty
+13097,0,1,2,1,3,2,4,6,GA,Georgia,Douglas
+13099,0,0,0,0,0,0,0,0,GA,Georgia,Early
+13101,0,0,0,0,0,0,0,0,GA,Georgia,Echols
+13103,1,1,0,1,0,1,0,0,GA,Georgia,Effingham
+13105,0,0,1,0,0,0,1,0,GA,Georgia,Elbert
+13107,0,0,0,1,0,0,0,0,GA,Georgia,Emanuel
+13109,0,0,0,0,0,0,2,2,GA,Georgia,Evans
+13111,0,0,0,0,0,1,0,0,GA,Georgia,Fannin
+13113,0,0,0,1,1,0,1,0,GA,Georgia,Fayette
+13115,1,2,0,0,1,2,0,0,GA,Georgia,Floyd
+13117,2,1,0,2,2,1,0,2,GA,Georgia,Forsyth
+13119,0,0,1,0,1,0,0,0,GA,Georgia,Franklin
+13121,13,11,14,16,28,20,29,30,GA,Georgia,Fulton
+13123,0,0,0,0,0,0,0,0,GA,Georgia,Gilmer
+13125,0,0,0,0,0,0,0,0,GA,Georgia,Glascock
+13127,0,0,0,3,2,1,1,0,GA,Georgia,Glynn
+13129,0,0,0,0,2,1,1,1,GA,Georgia,Gordon
+13131,1,0,0,0,0,1,0,2,GA,Georgia,Grady
+13133,0,0,0,1,0,0,0,0,GA,Georgia,Greene
+13135,6,5,5,3,7,3,7,2,GA,Georgia,Gwinnett
+13137,0,1,0,1,0,0,0,1,GA,Georgia,Habersham
+13139,0,1,1,3,3,4,4,2,GA,Georgia,Hall
+13141,0,0,0,0,1,0,1,0,GA,Georgia,Hancock
+13143,0,0,0,1,1,0,0,1,GA,Georgia,Haralson
+13145,0,0,0,0,0,0,0,0,GA,Georgia,Harris
+13147,0,0,1,0,0,0,0,0,GA,Georgia,Hart
+13149,0,0,0,0,0,0,1,0,GA,Georgia,Heard
+13151,1,1,4,1,3,6,0,1,GA,Georgia,Henry
+13153,0,0,0,1,1,0,3,4,GA,Georgia,Houston
+13155,0,0,0,0,0,0,0,1,GA,Georgia,Irwin
+13157,0,1,1,3,1,0,0,2,GA,Georgia,Jackson
+13159,0,0,0,1,0,0,0,0,GA,Georgia,Jasper
+13161,1,0,0,0,0,0,0,0,GA,Georgia,Jeff Davis
+13163,0,0,0,0,0,0,0,0,GA,Georgia,Jefferson
+13165,0,0,2,1,0,0,0,0,GA,Georgia,Jenkins
+13167,0,0,0,0,0,0,0,0,GA,Georgia,Johnson
+13169,0,0,0,0,0,0,0,0,GA,Georgia,Jones
+13171,1,0,1,0,0,0,0,0,GA,Georgia,Lamar
+13173,0,0,0,0,0,0,1,0,GA,Georgia,Lanier
+13175,1,0,1,0,0,2,0,0,GA,Georgia,Laurens
+13177,0,0,0,1,0,0,2,0,GA,Georgia,Lee
+13179,0,0,0,0,1,0,5,3,GA,Georgia,Liberty
+13181,0,0,0,0,0,0,0,0,GA,Georgia,Lincoln
+13183,0,0,1,0,1,0,0,0,GA,Georgia,Long
+13185,1,1,3,0,0,1,1,2,GA,Georgia,Lowndes
+13187,0,1,0,0,0,2,0,0,GA,Georgia,Lumpkin
+13189,0,0,0,0,0,0,0,0,GA,Georgia,McDuffie
+13191,0,0,0,0,2,1,0,0,GA,Georgia,McIntosh
+13193,0,0,0,0,0,0,0,0,GA,Georgia,Macon
+13195,0,0,0,0,0,0,1,0,GA,Georgia,Madison
+13197,0,0,0,0,0,0,0,0,GA,Georgia,Marion
+13199,0,0,0,0,0,0,1,0,GA,Georgia,Meriwether
+13201,0,0,0,0,0,0,0,0,GA,Georgia,Miller
+13205,0,0,1,0,0,1,2,0,GA,Georgia,Mitchell
+13207,1,0,1,0,2,0,3,0,GA,Georgia,Monroe
+13209,0,0,0,0,0,1,0,0,GA,Georgia,Montgomery
+13211,0,0,0,0,0,0,1,1,GA,Georgia,Morgan
+13213,0,1,0,0,0,0,0,0,GA,Georgia,Murray
+13215,2,0,1,7,1,2,2,4,GA,Georgia,Muscogee
+13217,1,2,0,0,1,0,3,3,GA,Georgia,Newton
+13219,0,1,0,0,0,0,1,0,GA,Georgia,Oconee
+13221,0,1,0,0,0,0,0,0,GA,Georgia,Oglethorpe
+13223,0,1,1,2,0,1,0,2,GA,Georgia,Paulding
+13225,0,0,2,1,0,0,0,0,GA,Georgia,Peach
+13227,1,1,0,1,0,1,1,1,GA,Georgia,Pickens
+13229,0,0,0,0,0,1,0,0,GA,Georgia,Pierce
+13231,0,0,0,0,1,0,0,0,GA,Georgia,Pike
+13233,1,0,0,1,0,0,0,0,GA,Georgia,Polk
+13235,0,0,0,0,0,0,0,0,GA,Georgia,Pulaski
+13237,0,1,0,0,0,0,0,0,GA,Georgia,Putnam
+13239,0,0,0,0,0,0,0,0,GA,Georgia,Quitman
+13241,0,0,0,0,1,0,0,0,GA,Georgia,Rabun
+13243,0,0,0,0,0,0,1,0,GA,Georgia,Randolph
+13245,1,1,3,0,1,4,2,3,GA,Georgia,Richmond
+13247,1,1,0,0,1,2,1,1,GA,Georgia,Rockdale
+13249,0,0,0,0,0,0,0,0,GA,Georgia,Schley
+13251,0,0,0,0,0,0,1,0,GA,Georgia,Screven
+13253,0,0,0,0,0,0,0,0,GA,Georgia,Seminole
+13255,0,0,0,1,1,1,1,1,GA,Georgia,Spalding
+13257,0,0,0,0,0,1,1,0,GA,Georgia,Stephens
+13259,0,0,0,2,0,0,0,0,GA,Georgia,Stewart
+13261,1,0,2,0,0,0,0,0,GA,Georgia,Sumter
+13263,0,0,0,0,0,0,0,0,GA,Georgia,Talbot
+13265,0,0,0,0,0,0,0,0,GA,Georgia,Taliaferro
+13267,0,0,0,0,0,1,0,0,GA,Georgia,Tattnall
+13269,0,0,0,0,0,0,0,0,GA,Georgia,Taylor
+13271,0,0,0,0,0,0,1,0,GA,Georgia,Telfair
+13273,0,0,0,0,1,0,0,0,GA,Georgia,Terrell
+13275,0,0,0,2,0,1,1,0,GA,Georgia,Thomas
+13277,0,1,0,1,1,1,0,1,GA,Georgia,Tift
+13279,0,1,0,0,0,0,0,0,GA,Georgia,Toombs
+13281,1,0,0,0,0,0,0,0,GA,Georgia,Towns
+13283,0,0,0,0,0,0,0,0,GA,Georgia,Treutlen
+13285,0,1,0,2,1,1,3,2,GA,Georgia,Troup
+13287,0,0,1,0,1,0,0,0,GA,Georgia,Turner
+13289,0,0,0,0,0,0,1,0,GA,Georgia,Twiggs
+13291,0,0,0,0,0,0,0,0,GA,Georgia,Union
+13293,0,0,0,0,0,0,1,0,GA,Georgia,Upson
+13295,0,1,1,2,2,1,0,0,GA,Georgia,Walker
+13297,0,0,1,0,3,2,0,3,GA,Georgia,Walton
+13299,0,0,0,0,1,0,1,0,GA,Georgia,Ware
+13301,0,0,0,0,0,0,0,0,GA,Georgia,Warren
+13303,0,0,0,1,0,0,0,0,GA,Georgia,Washington
+13305,0,1,0,0,0,0,0,0,GA,Georgia,Wayne
+13307,0,0,0,0,0,0,0,0,GA,Georgia,Webster
+13309,0,0,0,0,0,1,0,0,GA,Georgia,Wheeler
+13311,0,0,0,0,0,0,0,0,GA,Georgia,White
+13313,1,1,0,2,1,2,1,5,GA,Georgia,Whitfield
+13315,0,0,0,1,0,0,0,0,GA,Georgia,Wilcox
+13317,0,0,0,0,0,0,0,0,GA,Georgia,Wilkes
+13319,0,0,0,0,0,0,0,0,GA,Georgia,Wilkinson
+13321,0,0,0,0,1,0,1,1,GA,Georgia,Worth
+15001,3,4,5,3,10,5,1,4,HI,Hawaii,Hawaii
+15003,4,4,4,4,11,15,5,9,HI,Hawaii,Honolulu
+15005,0,0,0,0,0,0,0,0,HI,Hawaii,Kalawao
+15007,0,1,0,0,0,0,0,0,HI,Hawaii,Kauai
+15009,0,2,0,1,1,0,1,0,HI,Hawaii,Maui
+16001,0,2,8,7,5,1,2,8,ID,Idaho,Ada
+16003,0,1,0,0,0,0,1,0,ID,Idaho,Adams
+16005,1,0,0,3,1,1,3,3,ID,Idaho,Bannock
+16007,0,0,0,0,0,0,0,0,ID,Idaho,Bear Lake
+16009,0,0,0,0,0,0,0,0,ID,Idaho,Benewah
+16011,0,0,0,0,2,0,1,4,ID,Idaho,Bingham
+16013,0,0,0,0,0,0,0,0,ID,Idaho,Blaine
+16015,0,0,0,0,0,0,0,0,ID,Idaho,Boise
+16017,1,1,0,3,1,0,0,0,ID,Idaho,Bonner
+16019,0,1,2,0,3,1,2,3,ID,Idaho,Bonneville
+16021,0,0,0,0,0,0,0,0,ID,Idaho,Boundary
+16023,0,0,0,0,0,0,1,0,ID,Idaho,Butte
+16025,0,0,0,0,0,0,0,0,ID,Idaho,Camas
+16027,0,3,2,2,4,1,4,7,ID,Idaho,Canyon
+16029,0,0,0,0,0,0,0,0,ID,Idaho,Caribou
+16031,0,0,0,0,0,0,0,0,ID,Idaho,Cassia
+16033,0,0,0,0,0,0,0,0,ID,Idaho,Clark
+16035,0,1,0,0,0,0,1,0,ID,Idaho,Clearwater
+16037,0,0,0,0,0,0,1,0,ID,Idaho,Custer
+16039,0,0,1,1,2,0,0,0,ID,Idaho,Elmore
+16041,0,0,0,0,0,1,0,0,ID,Idaho,Franklin
+16043,0,0,0,0,0,0,1,0,ID,Idaho,Fremont
+16045,0,0,0,0,0,0,0,0,ID,Idaho,Gem
+16047,0,0,0,0,1,1,0,1,ID,Idaho,Gooding
+16049,0,0,0,0,0,0,1,0,ID,Idaho,Idaho
+16051,0,1,0,0,0,1,1,0,ID,Idaho,Jefferson
+16053,1,0,0,0,0,0,0,0,ID,Idaho,Jerome
+16055,3,0,0,0,3,2,2,2,ID,Idaho,Kootenai
+16057,0,0,0,0,0,0,0,0,ID,Idaho,Latah
+16059,0,1,0,0,0,0,0,0,ID,Idaho,Lemhi
+16061,0,0,0,0,0,0,0,0,ID,Idaho,Lewis
+16063,0,0,0,0,1,0,0,0,ID,Idaho,Lincoln
+16065,0,1,0,0,0,1,0,1,ID,Idaho,Madison
+16067,0,0,0,0,0,0,0,0,ID,Idaho,Minidoka
+16069,0,3,1,0,0,1,1,0,ID,Idaho,Nez Perce
+16071,0,0,0,0,0,0,0,0,ID,Idaho,Oneida
+16073,0,2,0,1,0,1,1,0,ID,Idaho,Owyhee
+16075,1,0,1,0,0,0,0,0,ID,Idaho,Payette
+16077,0,0,0,0,0,0,0,0,ID,Idaho,Power
+16079,0,0,0,0,1,0,0,1,ID,Idaho,Shoshone
+16081,0,0,0,0,0,0,0,1,ID,Idaho,Teton
+16083,0,0,1,1,0,1,0,2,ID,Idaho,Twin Falls
+16085,0,0,0,0,0,0,0,0,ID,Idaho,Valley
+16087,0,0,0,0,0,1,0,0,ID,Idaho,Washington
+17001,0,1,1,0,1,0,0,0,IL,Illinois,Adams
+17003,0,0,0,0,0,0,0,0,IL,Illinois,Alexander
+17005,0,0,0,0,0,0,0,0,IL,Illinois,Bond
+17007,0,0,0,1,0,0,0,0,IL,Illinois,Boone
+17009,0,0,0,0,0,0,0,0,IL,Illinois,Brown
+17011,0,0,0,0,0,0,0,0,IL,Illinois,Bureau
+17013,0,0,0,0,0,0,0,0,IL,Illinois,Calhoun
+17015,0,0,0,0,0,0,0,0,IL,Illinois,Carroll
+17017,0,0,0,0,0,0,0,0,IL,Illinois,Cass
+17019,0,3,1,1,1,0,0,1,IL,Illinois,Champaign
+17021,1,0,0,1,1,0,0,0,IL,Illinois,Christian
+17023,0,0,0,0,0,0,0,1,IL,Illinois,Clark
+17025,0,0,0,0,0,0,0,0,IL,Illinois,Clay
+17027,0,0,1,0,0,0,0,0,IL,Illinois,Clinton
+17029,0,0,0,0,0,0,0,0,IL,Illinois,Coles
+17031,65,53,67,51,53,33,60,53,IL,Illinois,Cook
+17033,0,0,0,0,0,0,0,0,IL,Illinois,Crawford
+17035,0,0,0,0,0,0,0,0,IL,Illinois,Cumberland
+17037,1,0,0,0,1,0,0,2,IL,Illinois,DeKalb
+17039,0,0,1,0,0,0,0,0,IL,Illinois,De Witt
+17041,0,1,0,0,0,0,0,0,IL,Illinois,Douglas
+17043,0,1,0,1,3,4,2,1,IL,Illinois,DuPage
+17045,0,0,0,0,0,0,0,0,IL,Illinois,Edgar
+17047,0,0,0,0,0,0,0,0,IL,Illinois,Edwards
+17049,0,0,0,0,0,0,0,0,IL,Illinois,Effingham
+17051,0,0,0,0,0,0,0,0,IL,Illinois,Fayette
+17053,0,0,0,0,0,0,0,0,IL,Illinois,Ford
+17055,0,0,1,0,0,0,0,0,IL,Illinois,Franklin
+17057,1,0,1,0,0,0,1,0,IL,Illinois,Fulton
+17059,0,0,0,0,0,0,0,0,IL,Illinois,Gallatin
+17061,0,0,0,0,0,0,0,0,IL,Illinois,Greene
+17063,0,0,1,0,0,0,0,0,IL,Illinois,Grundy
+17065,0,0,0,0,0,0,0,1,IL,Illinois,Hamilton
+17067,0,0,0,0,0,0,0,0,IL,Illinois,Hancock
+17069,0,0,0,0,0,0,0,0,IL,Illinois,Hardin
+17071,0,0,0,0,0,0,0,0,IL,Illinois,Henderson
+17073,1,0,0,0,0,0,1,0,IL,Illinois,Henry
+17075,0,0,0,0,0,0,0,1,IL,Illinois,Iroquois
+17077,0,0,0,1,0,0,0,0,IL,Illinois,Jackson
+17079,0,0,0,0,0,0,0,0,IL,Illinois,Jasper
+17081,0,0,0,0,0,0,0,1,IL,Illinois,Jefferson
+17083,0,0,0,1,0,0,0,2,IL,Illinois,Jersey
+17085,0,1,0,1,0,0,0,0,IL,Illinois,Jo Daviess
+17087,0,0,0,0,0,0,0,0,IL,Illinois,Johnson
+17089,1,1,1,5,4,3,3,2,IL,Illinois,Kane
+17091,0,0,0,0,0,0,0,0,IL,Illinois,Kankakee
+17093,0,1,0,1,0,0,0,1,IL,Illinois,Kendall
+17095,0,0,0,0,0,0,0,0,IL,Illinois,Knox
+17097,6,1,5,1,3,3,7,2,IL,Illinois,Lake
+17099,0,0,0,0,0,0,1,0,IL,Illinois,LaSalle
+17101,0,0,0,0,0,0,0,0,IL,Illinois,Lawrence
+17103,0,0,1,0,1,0,0,0,IL,Illinois,Lee
+17105,0,0,0,0,0,0,0,0,IL,Illinois,Livingston
+17107,1,0,0,0,0,0,0,0,IL,Illinois,Logan
+17109,0,0,0,0,0,0,0,0,IL,Illinois,McDonough
+17111,1,1,0,1,0,0,0,0,IL,Illinois,McHenry
+17113,0,0,1,0,0,0,0,1,IL,Illinois,McLean
+17115,0,0,2,1,0,1,0,2,IL,Illinois,Macon
+17117,0,0,0,0,0,0,0,1,IL,Illinois,Macoupin
+17119,2,2,2,0,4,2,3,3,IL,Illinois,Madison
+17121,0,0,0,0,0,0,0,0,IL,Illinois,Marion
+17123,0,0,0,0,0,0,0,0,IL,Illinois,Marshall
+17125,0,0,0,0,0,0,1,0,IL,Illinois,Mason
+17127,0,1,1,0,0,0,0,0,IL,Illinois,Massac
+17129,0,0,0,0,0,0,0,0,IL,Illinois,Menard
+17131,0,0,0,0,1,0,0,0,IL,Illinois,Mercer
+17133,0,0,0,1,0,0,0,0,IL,Illinois,Monroe
+17135,0,0,0,0,1,0,0,0,IL,Illinois,Montgomery
+17137,0,0,0,0,0,0,1,0,IL,Illinois,Morgan
+17139,1,0,0,0,0,0,0,0,IL,Illinois,Moultrie
+17141,0,0,1,0,0,0,0,0,IL,Illinois,Ogle
+17143,0,0,0,1,3,3,2,2,IL,Illinois,Peoria
+17145,0,0,0,0,0,0,0,0,IL,Illinois,Perry
+17147,0,0,0,0,0,0,0,0,IL,Illinois,Piatt
+17149,0,0,0,0,0,0,0,1,IL,Illinois,Pike
+17151,0,0,1,0,0,0,0,0,IL,Illinois,Pope
+17153,0,1,0,0,0,0,0,0,IL,Illinois,Pulaski
+17155,0,0,0,0,0,0,0,0,IL,Illinois,Putnam
+17157,0,0,0,0,0,0,0,1,IL,Illinois,Randolph
+17159,0,0,0,0,0,0,0,0,IL,Illinois,Richland
+17161,0,1,0,0,2,1,3,1,IL,Illinois,Rock Island
+17163,2,2,5,1,1,7,2,2,IL,Illinois,St. Clair
+17165,0,0,0,0,0,0,0,1,IL,Illinois,Saline
+17167,1,0,0,1,0,1,0,1,IL,Illinois,Sangamon
+17169,0,0,0,0,0,0,0,0,IL,Illinois,Schuyler
+17171,0,0,0,0,0,0,0,0,IL,Illinois,Scott
+17173,0,0,0,0,0,0,0,0,IL,Illinois,Shelby
+17175,0,0,0,0,0,0,0,0,IL,Illinois,Stark
+17177,0,1,1,0,0,0,0,1,IL,Illinois,Stephenson
+17179,1,1,0,0,1,0,0,1,IL,Illinois,Tazewell
+17181,0,0,0,0,0,0,0,0,IL,Illinois,Union
+17183,2,1,1,0,1,0,0,1,IL,Illinois,Vermilion
+17185,0,0,0,0,0,0,0,0,IL,Illinois,Wabash
+17187,0,0,0,0,0,0,0,0,IL,Illinois,Warren
+17189,0,0,0,0,1,0,0,0,IL,Illinois,Washington
+17191,0,0,0,0,0,1,0,0,IL,Illinois,Wayne
+17193,0,1,0,0,0,0,0,0,IL,Illinois,White
+17195,0,0,1,0,1,0,0,1,IL,Illinois,Whiteside
+17197,2,3,2,0,0,4,4,4,IL,Illinois,Will
+17199,0,2,2,0,0,2,0,1,IL,Illinois,Williamson
+17201,2,3,5,2,2,2,1,3,IL,Illinois,Winnebago
+17203,0,1,0,0,0,0,0,0,IL,Illinois,Woodford
+18001,0,0,0,0,0,0,0,0,IN,Indiana,Adams
+18003,2,4,11,4,1,3,6,5,IN,Indiana,Allen
+18005,0,0,1,1,0,0,0,3,IN,Indiana,Bartholomew
+18007,0,0,0,0,0,0,0,0,IN,Indiana,Benton
+18009,0,0,0,0,0,0,0,0,IN,Indiana,Blackford
+18011,0,0,2,0,1,1,0,2,IN,Indiana,Boone
+18013,0,0,1,0,0,0,0,0,IN,Indiana,Brown
+18015,0,0,0,0,0,0,0,0,IN,Indiana,Carroll
+18017,0,0,0,0,1,0,0,0,IN,Indiana,Cass
+18019,0,0,0,2,0,3,2,0,IN,Indiana,Clark
+18021,0,1,0,0,0,0,1,0,IN,Indiana,Clay
+18023,0,0,1,0,0,0,0,0,IN,Indiana,Clinton
+18025,0,0,0,2,0,0,0,0,IN,Indiana,Crawford
+18027,0,0,0,0,0,0,0,0,IN,Indiana,Daviess
+18029,1,0,1,0,0,1,1,0,IN,Indiana,Dearborn
+18031,0,0,0,0,0,1,0,0,IN,Indiana,Decatur
+18033,0,1,0,0,1,0,1,0,IN,Indiana,DeKalb
+18035,0,2,4,2,2,0,4,3,IN,Indiana,Delaware
+18037,0,0,1,0,0,0,0,0,IN,Indiana,Dubois
+18039,2,0,2,3,0,3,1,4,IN,Indiana,Elkhart
+18041,0,0,0,1,0,0,0,2,IN,Indiana,Fayette
+18043,0,0,0,0,0,1,2,0,IN,Indiana,Floyd
+18045,0,0,0,0,0,0,0,0,IN,Indiana,Fountain
+18047,0,0,0,1,0,0,0,0,IN,Indiana,Franklin
+18049,0,0,0,0,0,0,0,0,IN,Indiana,Fulton
+18051,0,0,0,0,0,0,0,0,IN,Indiana,Gibson
+18053,1,0,1,0,1,0,2,2,IN,Indiana,Grant
+18055,0,0,0,0,0,0,0,0,IN,Indiana,Greene
+18057,0,1,0,1,0,0,1,3,IN,Indiana,Hamilton
+18059,1,0,0,2,0,0,1,0,IN,Indiana,Hancock
+18061,0,0,0,0,0,0,2,0,IN,Indiana,Harrison
+18063,0,0,1,1,0,0,0,1,IN,Indiana,Hendricks
+18065,0,0,0,3,0,2,1,0,IN,Indiana,Henry
+18067,0,3,2,0,1,1,1,1,IN,Indiana,Howard
+18069,0,1,0,1,0,2,1,0,IN,Indiana,Huntington
+18071,1,0,1,0,0,1,1,0,IN,Indiana,Jackson
+18073,1,0,0,0,0,0,1,0,IN,Indiana,Jasper
+18075,0,0,0,0,0,0,2,0,IN,Indiana,Jay
+18077,0,1,0,0,0,1,2,1,IN,Indiana,Jefferson
+18079,1,0,0,1,0,0,0,0,IN,Indiana,Jennings
+18081,0,1,3,0,1,0,1,1,IN,Indiana,Johnson
+18083,0,1,0,1,1,0,0,0,IN,Indiana,Knox
+18085,0,1,2,0,3,0,0,0,IN,Indiana,Kosciusko
+18087,0,0,1,0,0,0,1,0,IN,Indiana,LaGrange
+18089,6,3,6,5,7,5,9,9,IN,Indiana,Lake
+18091,0,0,3,2,0,0,1,0,IN,Indiana,LaPorte
+18093,0,0,0,1,0,1,0,0,IN,Indiana,Lawrence
+18095,1,1,1,4,1,2,0,1,IN,Indiana,Madison
+18097,20,27,20,14,10,16,12,26,IN,Indiana,Marion
+18099,1,0,0,0,0,0,0,2,IN,Indiana,Marshall
+18101,0,0,0,1,0,0,0,0,IN,Indiana,Martin
+18103,0,0,0,0,0,0,0,0,IN,Indiana,Miami
+18105,2,0,0,0,1,0,0,2,IN,Indiana,Monroe
+18107,0,0,0,1,2,2,2,0,IN,Indiana,Montgomery
+18109,2,0,0,0,0,0,0,0,IN,Indiana,Morgan
+18111,0,0,0,0,0,0,0,0,IN,Indiana,Newton
+18113,0,0,0,1,1,1,0,1,IN,Indiana,Noble
+18115,0,0,0,1,0,0,0,0,IN,Indiana,Ohio
+18117,1,1,0,0,0,0,0,0,IN,Indiana,Orange
+18119,0,0,0,1,0,0,0,0,IN,Indiana,Owen
+18121,0,0,0,1,0,0,0,1,IN,Indiana,Parke
+18123,0,1,0,0,0,0,0,0,IN,Indiana,Perry
+18125,0,0,0,0,0,0,4,0,IN,Indiana,Pike
+18127,0,1,1,1,1,2,0,3,IN,Indiana,Porter
+18129,0,0,0,0,0,0,0,1,IN,Indiana,Posey
+18131,0,0,0,1,0,0,0,0,IN,Indiana,Pulaski
+18133,0,0,1,1,0,1,0,0,IN,Indiana,Putnam
+18135,0,0,0,0,0,1,0,0,IN,Indiana,Randolph
+18137,0,0,1,0,0,0,1,1,IN,Indiana,Ripley
+18139,0,0,0,0,0,1,0,2,IN,Indiana,Rush
+18141,3,0,0,3,6,2,8,1,IN,Indiana,St. Joseph
+18143,0,0,0,0,0,1,0,0,IN,Indiana,Scott
+18145,0,1,0,2,0,0,0,0,IN,Indiana,Shelby
+18147,0,0,0,0,0,1,0,0,IN,Indiana,Spencer
+18149,0,1,1,1,0,0,1,0,IN,Indiana,Starke
+18151,0,0,0,1,0,0,0,0,IN,Indiana,Steuben
+18153,0,0,0,0,1,2,0,0,IN,Indiana,Sullivan
+18155,0,0,0,0,0,0,0,0,IN,Indiana,Switzerland
+18157,0,2,0,0,0,3,2,1,IN,Indiana,Tippecanoe
+18159,0,0,0,0,0,0,0,0,IN,Indiana,Tipton
+18161,0,0,0,0,0,0,0,2,IN,Indiana,Union
+18163,2,1,3,6,4,5,9,3,IN,Indiana,Vanderburgh
+18165,0,0,0,0,0,0,1,0,IN,Indiana,Vermillion
+18167,0,2,0,0,3,0,5,2,IN,Indiana,Vigo
+18169,0,0,0,0,2,0,2,2,IN,Indiana,Wabash
+18171,0,0,0,0,0,0,0,0,IN,Indiana,Warren
+18173,0,0,0,0,1,0,0,0,IN,Indiana,Warrick
+18175,0,0,0,0,0,1,0,0,IN,Indiana,Washington
+18177,0,0,1,1,1,0,2,1,IN,Indiana,Wayne
+18179,0,0,0,0,0,0,0,0,IN,Indiana,Wells
+18181,0,1,0,0,0,0,0,3,IN,Indiana,White
+18183,0,0,0,0,0,0,0,0,IN,Indiana,Whitley
+19001,0,0,0,0,0,1,0,1,IA,Iowa,Adair
+19003,0,0,0,0,0,0,0,0,IA,Iowa,Adams
+19005,0,0,0,0,0,0,0,0,IA,Iowa,Allamakee
+19007,0,0,0,0,0,0,1,1,IA,Iowa,Appanoose
+19009,0,0,0,0,0,0,0,0,IA,Iowa,Audubon
+19011,0,0,1,0,1,0,0,2,IA,Iowa,Benton
+19013,1,2,0,3,2,0,0,3,IA,Iowa,Black Hawk
+19015,0,0,1,0,1,0,0,0,IA,Iowa,Boone
+19017,0,0,0,0,0,0,0,0,IA,Iowa,Bremer
+19019,0,0,0,0,0,0,0,0,IA,Iowa,Buchanan
+19021,0,0,0,0,0,0,0,0,IA,Iowa,Buena Vista
+19023,0,0,0,0,0,0,0,0,IA,Iowa,Butler
+19025,0,0,0,0,0,0,0,0,IA,Iowa,Calhoun
+19027,0,0,0,0,0,0,0,0,IA,Iowa,Carroll
+19029,0,0,0,0,0,0,0,0,IA,Iowa,Cass
+19031,0,0,0,0,1,0,0,0,IA,Iowa,Cedar
+19033,0,0,0,2,1,0,0,1,IA,Iowa,Cerro Gordo
+19035,0,0,0,0,0,0,0,0,IA,Iowa,Cherokee
+19037,0,0,0,0,1,0,0,0,IA,Iowa,Chickasaw
+19039,0,0,0,0,0,0,0,0,IA,Iowa,Clarke
+19041,0,0,0,0,0,0,0,0,IA,Iowa,Clay
+19043,0,0,0,0,0,0,0,0,IA,Iowa,Clayton
+19045,0,1,0,0,0,0,2,0,IA,Iowa,Clinton
+19047,0,0,1,0,0,0,0,0,IA,Iowa,Crawford
+19049,0,0,0,0,0,0,2,0,IA,Iowa,Dallas
+19051,0,0,0,0,0,0,0,0,IA,Iowa,Davis
+19053,0,0,0,0,0,1,0,0,IA,Iowa,Decatur
+19055,0,0,0,0,0,0,1,0,IA,Iowa,Delaware
+19057,1,2,0,1,0,2,0,0,IA,Iowa,Des Moines
+19059,0,0,0,2,0,0,0,0,IA,Iowa,Dickinson
+19061,0,0,1,1,0,0,0,0,IA,Iowa,Dubuque
+19063,0,0,0,0,0,0,0,0,IA,Iowa,Emmet
+19065,2,0,0,0,0,0,0,0,IA,Iowa,Fayette
+19067,0,0,0,0,1,0,0,0,IA,Iowa,Floyd
+19069,0,0,0,0,0,0,0,0,IA,Iowa,Franklin
+19071,0,0,0,0,0,0,0,0,IA,Iowa,Fremont
+19073,0,0,0,0,0,0,0,0,IA,Iowa,Greene
+19075,0,0,0,0,0,0,0,1,IA,Iowa,Grundy
+19077,0,0,0,0,1,0,0,0,IA,Iowa,Guthrie
+19079,0,0,0,0,0,0,1,0,IA,Iowa,Hamilton
+19081,0,0,0,0,0,0,0,0,IA,Iowa,Hancock
+19083,1,0,0,0,0,0,0,1,IA,Iowa,Hardin
+19085,0,0,0,0,0,0,0,0,IA,Iowa,Harrison
+19087,0,0,0,0,0,0,0,0,IA,Iowa,Henry
+19089,0,0,0,0,0,0,0,0,IA,Iowa,Howard
+19091,0,0,0,1,0,0,0,0,IA,Iowa,Humboldt
+19093,0,0,0,0,0,0,0,0,IA,Iowa,Ida
+19095,0,0,0,1,0,0,1,0,IA,Iowa,Iowa
+19097,1,1,0,0,0,1,0,0,IA,Iowa,Jackson
+19099,1,0,1,0,0,0,0,0,IA,Iowa,Jasper
+19101,0,1,0,0,0,0,0,0,IA,Iowa,Jefferson
+19103,2,0,0,0,0,2,1,0,IA,Iowa,Johnson
+19105,0,0,0,1,0,0,1,2,IA,Iowa,Jones
+19107,0,0,0,0,0,0,0,0,IA,Iowa,Keokuk
+19109,0,0,0,0,0,0,0,0,IA,Iowa,Kossuth
+19111,1,0,1,1,0,2,0,0,IA,Iowa,Lee
+19113,0,3,2,0,0,2,1,2,IA,Iowa,Linn
+19115,0,0,0,0,1,0,0,0,IA,Iowa,Louisa
+19117,0,0,0,0,0,0,1,0,IA,Iowa,Lucas
+19119,0,0,0,0,0,0,0,0,IA,Iowa,Lyon
+19121,0,0,0,0,0,0,1,0,IA,Iowa,Madison
+19123,0,0,0,0,0,0,1,0,IA,Iowa,Mahaska
+19125,0,0,0,0,0,1,0,0,IA,Iowa,Marion
+19127,1,0,0,0,0,0,1,0,IA,Iowa,Marshall
+19129,0,0,0,0,0,0,0,0,IA,Iowa,Mills
+19131,0,0,0,0,0,0,0,0,IA,Iowa,Mitchell
+19133,1,0,0,0,0,0,0,0,IA,Iowa,Monona
+19135,0,0,0,0,0,0,0,0,IA,Iowa,Monroe
+19137,0,0,0,0,1,0,0,0,IA,Iowa,Montgomery
+19139,0,1,1,0,0,0,0,0,IA,Iowa,Muscatine
+19141,0,0,0,0,0,0,0,0,IA,Iowa,O'Brien
+19143,0,0,0,0,0,0,0,0,IA,Iowa,Osceola
+19145,0,0,0,0,0,0,0,0,IA,Iowa,Page
+19147,0,0,0,0,0,0,0,0,IA,Iowa,Palo Alto
+19149,0,0,0,0,0,0,0,0,IA,Iowa,Plymouth
+19151,0,0,0,0,0,0,0,0,IA,Iowa,Pocahontas
+19153,5,4,6,1,6,6,6,10,IA,Iowa,Polk
+19155,1,0,3,1,1,1,2,0,IA,Iowa,Pottawattamie
+19157,0,0,0,0,0,0,0,0,IA,Iowa,Poweshiek
+19159,0,0,0,0,0,0,0,2,IA,Iowa,Ringgold
+19161,0,0,0,0,0,0,0,0,IA,Iowa,Sac
+19163,2,1,3,2,3,4,5,5,IA,Iowa,Scott
+19165,0,0,0,0,0,0,0,0,IA,Iowa,Shelby
+19167,0,0,0,0,0,0,0,0,IA,Iowa,Sioux
+19169,0,0,0,1,0,1,1,0,IA,Iowa,Story
+19171,0,0,0,2,0,1,0,1,IA,Iowa,Tama
+19173,0,0,0,0,0,0,0,0,IA,Iowa,Taylor
+19175,0,0,0,0,1,0,0,0,IA,Iowa,Union
+19177,1,0,0,0,0,0,0,0,IA,Iowa,Van Buren
+19179,0,0,1,1,1,0,0,0,IA,Iowa,Wapello
+19181,1,0,0,0,0,1,0,0,IA,Iowa,Warren
+19183,0,2,0,0,0,0,0,0,IA,Iowa,Washington
+19185,0,0,0,0,0,0,0,0,IA,Iowa,Wayne
+19187,0,0,1,0,2,1,2,1,IA,Iowa,Webster
+19189,0,1,0,0,0,0,0,1,IA,Iowa,Winnebago
+19191,0,0,0,0,0,0,0,0,IA,Iowa,Winneshiek
+19193,1,1,4,1,0,1,0,0,IA,Iowa,Woodbury
+19195,0,0,0,0,0,0,0,0,IA,Iowa,Worth
+19197,0,0,0,0,0,0,1,0,IA,Iowa,Wright
+20001,0,0,0,0,0,0,0,0,KS,Kansas,Allen
+20003,0,0,0,0,0,0,0,0,KS,Kansas,Anderson
+20005,0,0,0,0,2,0,0,0,KS,Kansas,Atchison
+20007,0,0,1,1,0,1,0,0,KS,Kansas,Barber
+20009,1,1,0,0,0,1,1,0,KS,Kansas,Barton
+20011,0,0,0,1,0,0,0,0,KS,Kansas,Bourbon
+20013,1,0,0,0,0,0,0,0,KS,Kansas,Brown
+20015,0,0,1,1,0,0,2,2,KS,Kansas,Butler
+20017,0,0,0,1,0,0,1,0,KS,Kansas,Chase
+20019,0,0,0,0,0,0,0,0,KS,Kansas,Chautauqua
+20021,1,0,0,0,0,0,0,0,KS,Kansas,Cherokee
+20023,0,0,0,0,0,0,0,0,KS,Kansas,Cheyenne
+20025,0,0,0,0,0,0,0,1,KS,Kansas,Clark
+20027,0,0,0,0,0,0,0,0,KS,Kansas,Clay
+20029,0,0,0,0,0,0,0,0,KS,Kansas,Cloud
+20031,0,0,0,0,0,0,0,0,KS,Kansas,Coffey
+20033,0,0,0,0,0,0,0,0,KS,Kansas,Comanche
+20035,2,0,0,0,0,0,0,0,KS,Kansas,Cowley
+20037,0,0,2,1,0,0,0,0,KS,Kansas,Crawford
+20039,1,0,0,2,0,0,0,0,KS,Kansas,Decatur
+20041,0,0,0,0,1,0,0,0,KS,Kansas,Dickinson
+20043,0,0,0,0,0,0,0,0,KS,Kansas,Doniphan
+20045,0,0,0,1,4,1,1,0,KS,Kansas,Douglas
+20047,0,0,0,0,0,0,0,0,KS,Kansas,Edwards
+20049,0,0,0,0,0,0,0,0,KS,Kansas,Elk
+20051,0,0,2,0,0,0,0,0,KS,Kansas,Ellis
+20053,0,0,1,0,0,0,0,0,KS,Kansas,Ellsworth
+20055,0,0,0,1,0,0,0,0,KS,Kansas,Finney
+20057,0,0,0,0,0,0,0,0,KS,Kansas,Ford
+20059,1,0,0,0,0,0,0,0,KS,Kansas,Franklin
+20061,0,0,1,1,0,0,1,0,KS,Kansas,Geary
+20063,0,0,0,0,0,0,0,0,KS,Kansas,Gove
+20065,0,0,0,0,0,0,0,0,KS,Kansas,Graham
+20067,0,0,0,0,0,0,0,0,KS,Kansas,Grant
+20069,0,0,0,0,0,0,1,0,KS,Kansas,Gray
+20071,0,0,0,0,0,0,0,0,KS,Kansas,Greeley
+20073,0,0,0,0,0,0,0,0,KS,Kansas,Greenwood
+20075,0,0,0,0,0,0,0,0,KS,Kansas,Hamilton
+20077,0,0,0,0,0,0,0,1,KS,Kansas,Harper
+20079,1,0,2,1,0,0,0,0,KS,Kansas,Harvey
+20081,0,0,0,0,0,0,0,0,KS,Kansas,Haskell
+20083,0,0,0,0,0,0,0,0,KS,Kansas,Hodgeman
+20085,0,0,0,1,0,0,1,1,KS,Kansas,Jackson
+20087,0,0,0,0,0,0,0,0,KS,Kansas,Jefferson
+20089,0,0,0,0,1,0,0,0,KS,Kansas,Jewell
+20091,2,2,4,5,4,5,3,3,KS,Kansas,Johnson
+20093,0,0,0,0,0,0,0,0,KS,Kansas,Kearny
+20095,0,1,0,0,0,0,0,0,KS,Kansas,Kingman
+20097,0,0,0,0,0,0,0,0,KS,Kansas,Kiowa
+20099,0,0,0,1,0,1,0,0,KS,Kansas,Labette
+20101,0,0,0,0,0,0,0,0,KS,Kansas,Lane
+20103,1,0,1,1,0,0,0,0,KS,Kansas,Leavenworth
+20105,0,0,0,0,0,0,0,0,KS,Kansas,Lincoln
+20107,0,0,0,0,0,0,0,0,KS,Kansas,Linn
+20109,0,0,0,0,0,0,0,0,KS,Kansas,Logan
+20111,1,0,0,0,0,0,0,1,KS,Kansas,Lyon
+20113,1,1,1,1,0,0,0,0,KS,Kansas,McPherson
+20115,0,0,0,1,0,0,0,0,KS,Kansas,Marion
+20117,0,0,0,1,0,0,0,0,KS,Kansas,Marshall
+20119,0,0,0,0,0,0,0,0,KS,Kansas,Meade
+20121,0,0,0,0,0,0,0,0,KS,Kansas,Miami
+20123,0,0,0,0,0,0,0,0,KS,Kansas,Mitchell
+20125,1,1,0,0,0,3,1,1,KS,Kansas,Montgomery
+20127,0,0,1,0,0,0,0,0,KS,Kansas,Morris
+20129,0,0,0,0,0,0,0,0,KS,Kansas,Morton
+20131,0,0,0,0,0,0,0,1,KS,Kansas,Nemaha
+20133,1,0,0,0,1,0,0,2,KS,Kansas,Neosho
+20135,0,0,0,0,0,0,0,0,KS,Kansas,Ness
+20137,0,0,0,0,0,0,0,0,KS,Kansas,Norton
+20139,0,2,0,0,2,0,0,0,KS,Kansas,Osage
+20141,0,0,0,0,0,0,0,0,KS,Kansas,Osborne
+20143,0,0,0,0,0,0,0,0,KS,Kansas,Ottawa
+20145,0,0,0,1,0,0,0,0,KS,Kansas,Pawnee
+20147,0,0,0,0,0,0,0,0,KS,Kansas,Phillips
+20149,0,0,0,0,1,0,0,0,KS,Kansas,Pottawatomie
+20151,0,1,0,0,1,0,0,0,KS,Kansas,Pratt
+20153,0,0,0,0,0,0,0,0,KS,Kansas,Rawlins
+20155,1,2,1,1,1,1,0,0,KS,Kansas,Reno
+20157,0,0,0,0,0,0,0,0,KS,Kansas,Republic
+20159,0,0,0,0,0,1,1,0,KS,Kansas,Rice
+20161,0,0,0,0,0,0,2,0,KS,Kansas,Riley
+20163,0,0,0,0,0,0,0,2,KS,Kansas,Rooks
+20165,0,0,0,0,0,0,1,0,KS,Kansas,Rush
+20167,0,0,0,0,0,0,0,0,KS,Kansas,Russell
+20169,2,1,0,0,0,1,4,0,KS,Kansas,Saline
+20171,0,0,0,0,0,0,0,0,KS,Kansas,Scott
+20173,10,9,6,5,5,10,5,13,KS,Kansas,Sedgwick
+20175,0,0,0,0,0,0,0,0,KS,Kansas,Seward
+20177,1,2,6,2,2,2,5,2,KS,Kansas,Shawnee
+20179,0,0,0,1,0,0,0,0,KS,Kansas,Sheridan
+20181,0,0,1,0,0,0,0,0,KS,Kansas,Sherman
+20183,0,0,0,0,0,0,0,0,KS,Kansas,Smith
+20185,0,0,0,0,0,0,0,0,KS,Kansas,Stafford
+20187,0,0,0,0,0,0,0,0,KS,Kansas,Stanton
+20189,0,0,0,0,0,0,0,0,KS,Kansas,Stevens
+20191,0,0,0,0,0,0,0,0,KS,Kansas,Sumner
+20193,0,1,0,0,0,0,1,0,KS,Kansas,Thomas
+20195,0,0,0,0,0,0,0,0,KS,Kansas,Trego
+20197,0,0,0,0,0,0,0,0,KS,Kansas,Wabaunsee
+20199,0,0,0,0,0,0,0,0,KS,Kansas,Wallace
+20201,0,0,0,0,0,0,0,0,KS,Kansas,Washington
+20203,0,0,0,0,0,0,0,0,KS,Kansas,Wichita
+20205,0,0,0,0,0,0,0,0,KS,Kansas,Wilson
+20207,0,0,0,0,0,0,1,0,KS,Kansas,Woodson
+20209,7,5,5,4,5,4,8,3,KS,Kansas,Wyandotte
+21001,0,0,0,0,0,0,0,0,KY,Kentucky,Adair
+21003,0,0,0,0,1,0,0,0,KY,Kentucky,Allen
+21005,0,1,0,1,0,1,0,0,KY,Kentucky,Anderson
+21007,0,0,0,0,0,0,0,0,KY,Kentucky,Ballard
+21009,1,0,2,0,0,0,0,1,KY,Kentucky,Barren
+21011,0,0,0,1,0,1,0,0,KY,Kentucky,Bath
+21013,0,0,0,1,1,0,1,3,KY,Kentucky,Bell
+21015,2,2,0,0,1,0,1,1,KY,Kentucky,Boone
+21017,0,0,1,0,1,0,0,0,KY,Kentucky,Bourbon
+21019,0,0,0,1,1,0,0,1,KY,Kentucky,Boyd
+21021,0,0,0,0,0,0,0,2,KY,Kentucky,Boyle
+21023,0,0,0,0,0,0,0,0,KY,Kentucky,Bracken
+21025,0,0,0,0,0,0,0,0,KY,Kentucky,Breathitt
+21027,0,0,0,0,0,0,0,0,KY,Kentucky,Breckinridge
+21029,0,0,1,0,0,0,1,1,KY,Kentucky,Bullitt
+21031,0,0,1,0,1,1,0,0,KY,Kentucky,Butler
+21033,1,0,0,0,0,0,1,0,KY,Kentucky,Caldwell
+21035,0,0,0,1,0,1,0,0,KY,Kentucky,Calloway
+21037,0,0,0,0,0,0,2,2,KY,Kentucky,Campbell
+21039,0,0,0,0,0,0,0,0,KY,Kentucky,Carlisle
+21041,0,0,0,0,0,0,0,0,KY,Kentucky,Carroll
+21043,1,0,0,0,0,2,0,0,KY,Kentucky,Carter
+21045,0,1,0,0,0,0,0,0,KY,Kentucky,Casey
+21047,0,0,0,0,2,0,0,2,KY,Kentucky,Christian
+21049,1,0,0,0,0,0,0,0,KY,Kentucky,Clark
+21051,0,0,0,0,0,0,0,0,KY,Kentucky,Clay
+21053,0,0,0,0,0,0,0,0,KY,Kentucky,Clinton
+21055,1,0,0,0,0,0,0,0,KY,Kentucky,Crittenden
+21057,0,1,0,0,1,0,2,0,KY,Kentucky,Cumberland
+21059,0,1,3,1,3,0,1,1,KY,Kentucky,Daviess
+21061,1,0,0,0,0,0,0,1,KY,Kentucky,Edmonson
+21063,0,0,0,0,0,0,0,0,KY,Kentucky,Elliott
+21065,0,0,0,0,0,0,0,0,KY,Kentucky,Estill
+21067,3,0,2,2,0,6,1,3,KY,Kentucky,Fayette
+21069,0,0,0,0,0,0,1,0,KY,Kentucky,Fleming
+21071,0,1,0,0,0,0,0,1,KY,Kentucky,Floyd
+21073,0,1,0,0,1,0,1,1,KY,Kentucky,Franklin
+21075,0,0,0,1,0,0,0,0,KY,Kentucky,Fulton
+21077,1,0,0,0,0,0,0,2,KY,Kentucky,Gallatin
+21079,0,0,0,1,0,0,0,1,KY,Kentucky,Garrard
+21081,1,1,0,0,0,0,0,2,KY,Kentucky,Grant
+21083,0,0,2,1,0,0,0,1,KY,Kentucky,Graves
+21085,0,1,0,0,0,1,0,1,KY,Kentucky,Grayson
+21087,0,0,0,0,0,0,0,0,KY,Kentucky,Green
+21089,0,0,0,1,0,0,1,0,KY,Kentucky,Greenup
+21091,1,0,0,0,0,0,0,0,KY,Kentucky,Hancock
+21093,1,2,0,0,4,1,1,3,KY,Kentucky,Hardin
+21095,1,0,1,0,1,0,0,0,KY,Kentucky,Harlan
+21097,0,0,0,0,1,0,0,0,KY,Kentucky,Harrison
+21099,0,1,0,0,1,0,1,0,KY,Kentucky,Hart
+21101,0,0,0,1,0,2,0,0,KY,Kentucky,Henderson
+21103,0,0,0,0,0,0,0,0,KY,Kentucky,Henry
+21105,1,0,0,0,0,0,0,0,KY,Kentucky,Hickman
+21107,2,4,1,0,0,0,0,0,KY,Kentucky,Hopkins
+21109,0,0,0,0,0,1,0,0,KY,Kentucky,Jackson
+21111,9,8,8,17,10,8,16,12,KY,Kentucky,Jefferson
+21113,0,1,1,0,0,2,0,0,KY,Kentucky,Jessamine
+21115,0,0,0,0,1,0,1,0,KY,Kentucky,Johnson
+21117,2,3,0,1,2,0,2,3,KY,Kentucky,Kenton
+21119,0,1,1,2,0,1,0,1,KY,Kentucky,Knott
+21121,0,0,1,2,1,0,4,0,KY,Kentucky,Knox
+21123,0,0,0,0,0,0,0,0,KY,Kentucky,Larue
+21125,0,0,1,1,2,0,1,1,KY,Kentucky,Laurel
+21127,0,0,0,0,0,0,0,1,KY,Kentucky,Lawrence
+21129,0,0,0,0,1,0,0,0,KY,Kentucky,Lee
+21131,0,0,0,0,0,0,1,0,KY,Kentucky,Leslie
+21133,0,0,0,0,0,0,0,1,KY,Kentucky,Letcher
+21135,0,0,0,0,0,0,1,0,KY,Kentucky,Lewis
+21137,0,0,0,0,0,0,1,1,KY,Kentucky,Lincoln
+21139,0,0,0,0,0,0,0,0,KY,Kentucky,Livingston
+21141,0,0,1,0,0,1,0,1,KY,Kentucky,Logan
+21143,0,1,0,1,0,0,0,0,KY,Kentucky,Lyon
+21145,0,1,0,0,1,3,3,0,KY,Kentucky,McCracken
+21147,0,0,0,1,1,0,1,0,KY,Kentucky,McCreary
+21149,0,0,0,0,0,0,0,0,KY,Kentucky,McLean
+21151,1,2,1,1,1,1,0,0,KY,Kentucky,Madison
+21153,0,1,0,0,0,0,0,0,KY,Kentucky,Magoffin
+21155,1,0,0,0,0,0,0,1,KY,Kentucky,Marion
+21157,0,0,0,1,0,0,0,0,KY,Kentucky,Marshall
+21159,0,0,0,0,0,0,0,0,KY,Kentucky,Martin
+21161,0,0,0,0,0,0,0,1,KY,Kentucky,Mason
+21163,0,0,0,0,0,0,0,0,KY,Kentucky,Meade
+21165,0,0,0,0,0,0,0,0,KY,Kentucky,Menifee
+21167,0,0,0,0,1,0,0,0,KY,Kentucky,Mercer
+21169,0,0,1,0,0,0,0,0,KY,Kentucky,Metcalfe
+21171,0,1,0,0,0,0,0,0,KY,Kentucky,Monroe
+21173,0,0,0,0,0,0,0,1,KY,Kentucky,Montgomery
+21175,0,0,0,0,0,0,0,1,KY,Kentucky,Morgan
+21177,1,0,0,0,1,0,1,0,KY,Kentucky,Muhlenberg
+21179,0,1,1,1,0,0,0,0,KY,Kentucky,Nelson
+21181,0,0,0,0,0,0,0,0,KY,Kentucky,Nicholas
+21183,0,2,0,0,0,0,0,1,KY,Kentucky,Ohio
+21185,0,0,1,0,0,2,2,0,KY,Kentucky,Oldham
+21187,0,0,0,0,0,0,0,0,KY,Kentucky,Owen
+21189,0,0,0,1,0,0,0,0,KY,Kentucky,Owsley
+21191,0,0,0,0,1,0,0,0,KY,Kentucky,Pendleton
+21193,2,1,1,0,0,1,0,0,KY,Kentucky,Perry
+21195,1,0,1,0,0,1,4,0,KY,Kentucky,Pike
+21197,0,0,1,0,0,4,0,0,KY,Kentucky,Powell
+21199,1,0,0,0,3,0,2,0,KY,Kentucky,Pulaski
+21201,0,0,0,0,0,0,0,0,KY,Kentucky,Robertson
+21203,0,1,0,0,1,0,0,0,KY,Kentucky,Rockcastle
+21205,0,0,1,0,0,0,0,0,KY,Kentucky,Rowan
+21207,0,0,0,0,0,0,0,0,KY,Kentucky,Russell
+21209,0,2,3,0,2,0,2,2,KY,Kentucky,Scott
+21211,2,0,1,1,0,0,0,2,KY,Kentucky,Shelby
+21213,0,0,1,0,2,0,0,0,KY,Kentucky,Simpson
+21215,0,0,0,0,0,0,0,0,KY,Kentucky,Spencer
+21217,0,0,1,0,0,0,0,0,KY,Kentucky,Taylor
+21219,0,0,0,0,0,1,0,0,KY,Kentucky,Todd
+21221,0,0,0,1,0,0,1,2,KY,Kentucky,Trigg
+21223,0,0,0,0,0,0,0,0,KY,Kentucky,Trimble
+21225,0,0,0,0,0,0,0,0,KY,Kentucky,Union
+21227,2,1,1,4,1,1,1,0,KY,Kentucky,Warren
+21229,0,0,0,0,0,0,0,0,KY,Kentucky,Washington
+21231,0,0,0,1,0,0,0,0,KY,Kentucky,Wayne
+21233,0,0,0,1,0,0,0,0,KY,Kentucky,Webster
+21235,0,1,0,3,1,0,1,2,KY,Kentucky,Whitley
+21237,0,1,0,0,0,1,0,1,KY,Kentucky,Wolfe
+21239,0,0,0,1,0,0,0,0,KY,Kentucky,Woodford
+22001,2,1,0,1,0,0,3,2,LA,Louisiana,Acadia Parish
+22003,0,0,1,2,0,0,0,0,LA,Louisiana,Allen Parish
+22005,1,0,0,0,0,0,0,1,LA,Louisiana,Ascension Parish
+22007,0,0,0,0,0,0,0,0,LA,Louisiana,Assumption Parish
+22009,0,1,0,2,0,1,1,1,LA,Louisiana,Avoyelles Parish
+22011,2,0,1,0,0,2,0,0,LA,Louisiana,Beauregard Parish
+22013,0,0,0,0,0,0,0,0,LA,Louisiana,Bienville Parish
+22015,2,1,1,0,3,2,2,1,LA,Louisiana,Bossier Parish
+22017,7,11,2,4,8,3,13,3,LA,Louisiana,Caddo Parish
+22019,1,2,3,4,2,3,3,7,LA,Louisiana,Calcasieu Parish
+22021,0,0,0,0,0,0,0,0,LA,Louisiana,Caldwell Parish
+22023,0,0,0,0,0,0,0,0,LA,Louisiana,Cameron Parish
+22025,0,0,0,0,0,0,0,0,LA,Louisiana,Catahoula Parish
+22027,0,0,0,1,0,0,0,0,LA,Louisiana,Claiborne Parish
+22029,0,0,0,0,0,2,0,0,LA,Louisiana,Concordia Parish
+22031,0,0,0,1,0,1,0,2,LA,Louisiana,De Soto Parish
+22033,6,9,8,7,3,6,5,4,LA,Louisiana,East Baton Rouge Parish
+22035,0,0,0,0,0,0,0,0,LA,Louisiana,East Carroll Parish
+22037,0,0,0,0,0,2,0,1,LA,Louisiana,East Feliciana Parish
+22039,1,1,0,1,0,1,1,0,LA,Louisiana,Evangeline Parish
+22041,0,1,0,0,0,0,0,1,LA,Louisiana,Franklin Parish
+22043,0,0,0,0,0,0,0,0,LA,Louisiana,Grant Parish
+22045,2,0,1,1,1,1,2,1,LA,Louisiana,Iberia Parish
+22047,2,1,1,1,0,0,1,1,LA,Louisiana,Iberville Parish
+22049,0,0,0,0,0,0,0,0,LA,Louisiana,Jackson Parish
+22051,11,6,9,8,8,5,5,9,LA,Louisiana,Jefferson Parish
+22053,0,1,0,0,1,1,1,0,LA,Louisiana,Jefferson Davis Parish
+22055,3,2,4,1,3,2,6,5,LA,Louisiana,Lafayette Parish
+22057,0,0,1,0,0,1,0,2,LA,Louisiana,Lafourche Parish
+22059,0,0,0,0,0,0,1,0,LA,Louisiana,La Salle Parish
+22061,0,0,0,1,0,0,0,0,LA,Louisiana,Lincoln Parish
+22063,3,3,2,0,1,1,0,2,LA,Louisiana,Livingston Parish
+22065,0,0,0,1,0,0,2,1,LA,Louisiana,Madison Parish
+22067,1,1,0,0,0,1,1,0,LA,Louisiana,Morehouse Parish
+22069,2,0,0,0,0,0,0,0,LA,Louisiana,Natchitoches Parish
+22071,5,19,9,8,2,14,10,4,LA,Louisiana,Orleans Parish
+22073,2,2,1,6,3,1,5,0,LA,Louisiana,Ouachita Parish
+22075,0,0,0,0,1,0,0,0,LA,Louisiana,Plaquemines Parish
+22077,0,0,1,1,0,0,0,2,LA,Louisiana,Pointe Coupee Parish
+22079,2,2,1,1,1,1,5,0,LA,Louisiana,Rapides Parish
+22081,0,0,0,1,0,0,0,0,LA,Louisiana,Red River Parish
+22083,0,0,0,0,0,0,0,0,LA,Louisiana,Richland Parish
+22085,0,0,0,1,0,1,0,0,LA,Louisiana,Sabine Parish
+22087,0,2,0,0,2,0,0,0,LA,Louisiana,St. Bernard Parish
+22089,0,1,0,0,0,0,0,0,LA,Louisiana,St. Charles Parish
+22091,0,0,0,0,0,1,0,0,LA,Louisiana,St. Helena Parish
+22093,0,1,0,0,0,0,0,0,LA,Louisiana,St. James Parish
+22095,4,0,0,1,0,0,0,0,LA,Louisiana,St. John the Baptist Parish
+22097,2,1,1,1,1,0,1,1,LA,Louisiana,St. Landry Parish
+22099,0,2,0,2,0,0,0,0,LA,Louisiana,St. Martin Parish
+22101,1,1,0,0,1,0,2,2,LA,Louisiana,St. Mary Parish
+22103,0,5,1,4,2,2,1,2,LA,Louisiana,St. Tammany Parish
+22105,2,1,2,2,2,0,2,0,LA,Louisiana,Tangipahoa Parish
+22107,0,0,0,0,0,0,0,0,LA,Louisiana,Tensas Parish
+22109,2,2,1,2,0,2,2,5,LA,Louisiana,Terrebonne Parish
+22111,2,1,0,1,0,1,0,0,LA,Louisiana,Union Parish
+22113,0,0,1,2,0,0,0,4,LA,Louisiana,Vermilion Parish
+22115,0,0,0,0,1,0,0,3,LA,Louisiana,Vernon Parish
+22117,0,0,0,0,1,0,1,2,LA,Louisiana,Washington Parish
+22119,0,0,0,0,1,0,0,1,LA,Louisiana,Webster Parish
+22121,0,0,1,0,0,1,1,0,LA,Louisiana,West Baton Rouge Parish
+22123,0,0,0,0,0,0,0,1,LA,Louisiana,West Carroll Parish
+22125,0,0,0,0,0,0,0,0,LA,Louisiana,West Feliciana Parish
+22127,0,0,0,0,2,0,1,0,LA,Louisiana,Winn Parish
+23001,1,0,1,0,1,1,3,4,ME,Maine,Androscoggin
+23003,1,1,2,1,1,1,0,3,ME,Maine,Aroostook
+23005,1,2,3,4,0,1,1,3,ME,Maine,Cumberland
+23007,0,0,0,0,0,0,0,0,ME,Maine,Franklin
+23009,1,0,0,1,1,0,0,0,ME,Maine,Hancock
+23011,0,3,0,4,1,1,1,4,ME,Maine,Kennebec
+23013,0,0,0,0,0,0,0,0,ME,Maine,Knox
+23015,0,0,1,1,0,0,1,0,ME,Maine,Lincoln
+23017,2,1,0,0,0,0,1,1,ME,Maine,Oxford
+23019,4,2,0,1,5,0,1,0,ME,Maine,Penobscot
+23021,0,1,0,0,0,1,0,0,ME,Maine,Piscataquis
+23023,0,0,0,0,0,1,0,1,ME,Maine,Sagadahoc
+23025,0,1,1,1,1,1,0,1,ME,Maine,Somerset
+23027,0,0,0,1,0,1,0,0,ME,Maine,Waldo
+23029,0,0,0,1,0,0,0,0,ME,Maine,Washington
+23031,1,0,1,1,0,1,0,0,ME,Maine,York
+24001,0,0,0,1,2,0,0,0,MD,Maryland,Allegany
+24003,3,4,1,1,3,3,4,4,MD,Maryland,Anne Arundel
+24005,4,7,8,8,5,7,3,7,MD,Maryland,Baltimore
+24009,0,1,0,1,1,0,2,1,MD,Maryland,Calvert
+24011,0,0,0,0,1,0,0,0,MD,Maryland,Caroline
+24013,0,0,0,0,0,1,3,0,MD,Maryland,Carroll
+24015,0,2,4,2,0,1,0,2,MD,Maryland,Cecil
+24017,0,2,1,3,2,1,2,2,MD,Maryland,Charles
+24019,0,0,0,1,1,0,1,0,MD,Maryland,Dorchester
+24021,1,1,0,2,2,1,1,1,MD,Maryland,Frederick
+24023,0,0,0,0,0,0,0,0,MD,Maryland,Garrett
+24025,5,0,3,0,2,1,0,0,MD,Maryland,Harford
+24027,3,1,2,2,2,2,2,1,MD,Maryland,Howard
+24029,1,0,0,0,0,0,0,1,MD,Maryland,Kent
+24031,4,1,0,2,3,2,4,9,MD,Maryland,Montgomery
+24033,7,7,9,5,10,7,17,5,MD,Maryland,Prince George's
+24035,0,0,1,0,0,0,0,0,MD,Maryland,Queen Anne's
+24037,0,0,0,0,1,3,3,2,MD,Maryland,St. Mary's
+24039,0,0,0,0,0,0,0,0,MD,Maryland,Somerset
+24041,0,0,0,0,0,0,1,0,MD,Maryland,Talbot
+24043,2,1,0,0,2,0,0,0,MD,Maryland,Washington
+24045,3,1,0,4,0,3,1,1,MD,Maryland,Wicomico
+24047,0,0,0,1,0,0,0,0,MD,Maryland,Worcester
+24510,6,13,15,12,6,9,16,16,MD,Maryland,Baltimore city
+25001,0,2,1,0,4,0,1,1,MA,Massachusetts,Barnstable
+25003,0,0,0,2,1,0,2,0,MA,Massachusetts,Berkshire
+25005,1,1,3,2,6,0,1,7,MA,Massachusetts,Bristol
+25007,0,0,0,0,0,0,0,0,MA,Massachusetts,Dukes
+25009,3,3,6,2,1,3,5,2,MA,Massachusetts,Essex
+25011,0,0,0,0,1,0,1,0,MA,Massachusetts,Franklin
+25013,6,0,4,3,3,8,3,0,MA,Massachusetts,Hampden
+25015,1,0,1,0,0,0,0,0,MA,Massachusetts,Hampshire
+25017,1,5,4,2,1,3,5,5,MA,Massachusetts,Middlesex
+25019,0,0,0,0,0,0,0,0,MA,Massachusetts,Nantucket
+25021,1,5,3,1,4,0,3,4,MA,Massachusetts,Norfolk
+25023,2,1,1,0,3,2,2,2,MA,Massachusetts,Plymouth
+25025,5,7,4,4,2,4,7,6,MA,Massachusetts,Suffolk
+25027,0,5,5,3,3,4,3,5,MA,Massachusetts,Worcester
+26001,0,0,0,0,0,0,0,0,MI,Michigan,Alcona
+26003,0,0,0,0,0,0,0,0,MI,Michigan,Alger
+26005,3,0,1,1,0,1,0,1,MI,Michigan,Allegan
+26007,0,0,0,0,0,0,0,0,MI,Michigan,Alpena
+26009,0,0,0,0,0,0,0,0,MI,Michigan,Antrim
+26011,0,0,0,0,0,0,0,1,MI,Michigan,Arenac
+26013,0,0,0,0,0,0,0,0,MI,Michigan,Baraga
+26015,0,0,1,0,1,1,0,2,MI,Michigan,Barry
+26017,0,2,2,0,0,0,0,0,MI,Michigan,Bay
+26019,0,0,0,0,0,0,0,0,MI,Michigan,Benzie
+26021,2,1,3,0,5,0,0,2,MI,Michigan,Berrien
+26023,0,0,0,0,1,0,0,0,MI,Michigan,Branch
+26025,0,2,4,4,1,5,5,5,MI,Michigan,Calhoun
+26027,0,0,0,1,0,1,0,0,MI,Michigan,Cass
+26029,0,1,1,0,0,1,0,0,MI,Michigan,Charlevoix
+26031,0,0,0,0,0,0,0,0,MI,Michigan,Cheboygan
+26033,0,1,1,0,0,0,0,1,MI,Michigan,Chippewa
+26035,0,0,2,0,1,0,0,0,MI,Michigan,Clare
+26037,0,1,0,0,0,1,0,0,MI,Michigan,Clinton
+26039,0,0,0,0,0,0,0,0,MI,Michigan,Crawford
+26041,0,0,0,0,0,0,0,0,MI,Michigan,Delta
+26043,0,0,0,0,1,0,0,0,MI,Michigan,Dickinson
+26045,0,2,1,1,0,1,1,2,MI,Michigan,Eaton
+26047,0,1,0,0,0,0,0,0,MI,Michigan,Emmet
+26049,6,7,1,0,4,3,4,6,MI,Michigan,Genesee
+26051,0,1,0,0,0,0,0,0,MI,Michigan,Gladwin
+26053,0,0,0,0,0,0,0,0,MI,Michigan,Gogebic
+26055,0,0,0,1,2,0,0,0,MI,Michigan,Grand Traverse
+26057,0,0,0,0,1,0,0,1,MI,Michigan,Gratiot
+26059,0,0,0,0,0,0,0,2,MI,Michigan,Hillsdale
+26061,0,0,0,0,0,0,0,1,MI,Michigan,Houghton
+26063,0,0,0,0,0,1,0,0,MI,Michigan,Huron
+26065,1,4,0,0,1,0,1,1,MI,Michigan,Ingham
+26067,1,0,0,0,0,0,1,0,MI,Michigan,Ionia
+26069,0,0,0,0,0,0,0,0,MI,Michigan,Iosco
+26071,0,0,0,0,0,0,0,2,MI,Michigan,Iron
+26073,1,0,0,0,0,0,1,1,MI,Michigan,Isabella
+26075,0,0,3,0,1,2,0,2,MI,Michigan,Jackson
+26077,1,2,2,5,3,3,1,9,MI,Michigan,Kalamazoo
+26079,0,0,0,0,0,0,0,0,MI,Michigan,Kalkaska
+26081,2,2,5,8,6,3,0,4,MI,Michigan,Kent
+26083,0,0,0,0,0,0,0,0,MI,Michigan,Keweenaw
+26085,0,0,0,0,0,1,0,0,MI,Michigan,Lake
+26087,0,1,0,0,0,0,0,0,MI,Michigan,Lapeer
+26089,0,0,0,0,0,0,0,0,MI,Michigan,Leelanau
+26091,2,0,0,0,0,0,0,0,MI,Michigan,Lenawee
+26093,0,0,0,2,2,0,1,1,MI,Michigan,Livingston
+26095,0,0,0,0,0,0,0,1,MI,Michigan,Luce
+26097,0,0,1,0,1,0,0,0,MI,Michigan,Mackinac
+26099,5,3,2,4,6,6,1,3,MI,Michigan,Macomb
+26101,0,0,0,1,0,0,1,0,MI,Michigan,Manistee
+26103,0,0,1,0,0,1,0,1,MI,Michigan,Marquette
+26105,2,0,0,0,0,0,0,0,MI,Michigan,Mason
+26107,0,0,0,0,0,0,0,0,MI,Michigan,Mecosta
+26109,0,0,0,0,0,0,0,0,MI,Michigan,Menominee
+26111,0,0,0,0,1,0,0,0,MI,Michigan,Midland
+26113,0,0,0,0,1,0,1,1,MI,Michigan,Missaukee
+26115,0,2,0,0,1,1,1,0,MI,Michigan,Monroe
+26117,0,1,0,0,0,0,0,1,MI,Michigan,Montcalm
+26119,0,0,0,0,0,0,0,0,MI,Michigan,Montmorency
+26121,0,0,3,1,0,1,1,0,MI,Michigan,Muskegon
+26123,0,0,0,0,0,0,0,1,MI,Michigan,Newaygo
+26125,6,6,5,5,7,3,7,7,MI,Michigan,Oakland
+26127,0,0,0,0,0,0,0,0,MI,Michigan,Oceana
+26129,0,0,0,0,0,0,0,0,MI,Michigan,Ogemaw
+26131,0,0,1,0,0,0,0,0,MI,Michigan,Ontonagon
+26133,0,1,0,0,0,0,0,0,MI,Michigan,Osceola
+26135,0,0,0,0,0,0,0,0,MI,Michigan,Oscoda
+26137,0,1,0,0,0,1,0,0,MI,Michigan,Otsego
+26139,0,1,2,0,1,0,0,0,MI,Michigan,Ottawa
+26141,0,0,0,0,0,0,0,1,MI,Michigan,Presque Isle
+26143,1,0,0,0,0,0,0,0,MI,Michigan,Roscommon
+26145,0,1,1,4,3,1,2,3,MI,Michigan,Saginaw
+26147,1,0,0,1,1,1,0,0,MI,Michigan,St. Clair
+26149,0,0,0,1,0,1,0,0,MI,Michigan,St. Joseph
+26151,0,0,0,0,0,1,0,0,MI,Michigan,Sanilac
+26153,1,0,0,0,0,0,0,2,MI,Michigan,Schoolcraft
+26155,1,1,0,0,0,0,0,1,MI,Michigan,Shiawassee
+26157,0,0,0,0,0,0,0,0,MI,Michigan,Tuscola
+26159,0,0,1,2,0,0,1,3,MI,Michigan,Van Buren
+26161,1,2,0,2,0,0,0,0,MI,Michigan,Washtenaw
+26163,18,21,24,27,20,18,27,17,MI,Michigan,Wayne
+26165,1,0,0,0,0,0,1,0,MI,Michigan,Wexford
+27001,0,0,1,0,1,1,0,0,MN,Minnesota,Aitkin
+27003,2,3,1,1,1,1,4,1,MN,Minnesota,Anoka
+27005,1,0,0,1,0,1,0,0,MN,Minnesota,Becker
+27007,2,0,0,1,2,0,0,1,MN,Minnesota,Beltrami
+27009,1,0,0,0,0,0,1,0,MN,Minnesota,Benton
+27011,0,0,0,0,0,0,0,0,MN,Minnesota,Big Stone
+27013,1,0,1,0,0,0,0,0,MN,Minnesota,Blue Earth
+27015,0,0,0,0,0,0,0,0,MN,Minnesota,Brown
+27017,0,1,0,0,0,1,0,1,MN,Minnesota,Carlton
+27019,0,1,0,0,1,1,0,0,MN,Minnesota,Carver
+27021,0,0,0,0,0,0,2,0,MN,Minnesota,Cass
+27023,0,0,0,0,0,0,0,0,MN,Minnesota,Chippewa
+27025,0,0,1,2,0,0,1,2,MN,Minnesota,Chisago
+27027,0,0,0,0,3,0,2,1,MN,Minnesota,Clay
+27029,0,0,0,0,0,0,0,0,MN,Minnesota,Clearwater
+27031,0,0,0,0,0,0,0,0,MN,Minnesota,Cook
+27033,0,0,0,0,0,0,0,0,MN,Minnesota,Cottonwood
+27035,0,0,0,0,0,0,0,0,MN,Minnesota,Crow Wing
+27037,2,0,5,0,2,1,2,2,MN,Minnesota,Dakota
+27039,0,0,1,0,1,0,1,0,MN,Minnesota,Dodge
+27041,0,0,1,0,0,2,0,0,MN,Minnesota,Douglas
+27043,0,0,0,0,0,0,0,0,MN,Minnesota,Faribault
+27045,0,0,1,0,0,0,0,1,MN,Minnesota,Fillmore
+27047,0,0,0,0,0,2,1,0,MN,Minnesota,Freeborn
+27049,3,0,0,0,0,0,0,0,MN,Minnesota,Goodhue
+27051,1,0,0,0,0,0,0,0,MN,Minnesota,Grant
+27053,4,14,5,11,11,8,15,16,MN,Minnesota,Hennepin
+27055,0,0,0,2,0,0,0,0,MN,Minnesota,Houston
+27057,0,0,0,0,0,1,0,0,MN,Minnesota,Hubbard
+27059,0,0,0,0,1,0,0,1,MN,Minnesota,Isanti
+27061,0,1,0,0,0,0,0,0,MN,Minnesota,Itasca
+27063,0,0,0,0,0,0,0,0,MN,Minnesota,Jackson
+27065,0,1,0,0,0,0,0,0,MN,Minnesota,Kanabec
+27067,0,0,0,1,0,0,2,1,MN,Minnesota,Kandiyohi
+27069,0,0,0,0,0,0,0,0,MN,Minnesota,Kittson
+27071,0,0,0,0,0,0,0,0,MN,Minnesota,Koochiching
+27073,0,0,0,0,0,0,0,0,MN,Minnesota,Lac qui Parle
+27075,0,0,0,0,0,0,0,0,MN,Minnesota,Lake
+27077,0,0,0,0,0,0,0,0,MN,Minnesota,Lake of the Woods
+27079,0,0,0,0,0,0,0,0,MN,Minnesota,Le Sueur
+27081,0,0,0,0,0,0,0,0,MN,Minnesota,Lincoln
+27083,0,0,0,0,0,0,0,0,MN,Minnesota,Lyon
+27085,0,1,0,0,0,0,0,0,MN,Minnesota,McLeod
+27087,0,0,0,0,0,0,0,0,MN,Minnesota,Mahnomen
+27089,0,0,0,0,0,0,0,0,MN,Minnesota,Marshall
+27091,0,0,0,0,1,0,0,0,MN,Minnesota,Martin
+27093,0,0,0,0,0,1,0,1,MN,Minnesota,Meeker
+27095,0,0,1,1,0,2,0,0,MN,Minnesota,Mille Lacs
+27097,0,0,0,0,0,1,0,0,MN,Minnesota,Morrison
+27099,0,0,1,1,0,0,0,2,MN,Minnesota,Mower
+27101,0,0,0,0,0,0,0,0,MN,Minnesota,Murray
+27103,0,0,0,0,0,0,1,0,MN,Minnesota,Nicollet
+27105,0,0,0,0,0,0,0,0,MN,Minnesota,Nobles
+27107,1,0,0,0,0,0,0,0,MN,Minnesota,Norman
+27109,0,1,0,0,0,1,1,0,MN,Minnesota,Olmsted
+27111,0,1,0,0,0,0,2,0,MN,Minnesota,Otter Tail
+27113,0,0,0,0,0,0,0,0,MN,Minnesota,Pennington
+27115,0,0,0,0,0,0,2,0,MN,Minnesota,Pine
+27117,0,0,0,0,0,0,0,0,MN,Minnesota,Pipestone
+27119,2,0,0,2,0,0,0,0,MN,Minnesota,Polk
+27121,0,0,0,0,0,0,0,0,MN,Minnesota,Pope
+27123,7,5,6,7,2,3,3,7,MN,Minnesota,Ramsey
+27125,0,0,0,0,0,0,0,0,MN,Minnesota,Red Lake
+27127,0,0,0,0,0,0,0,0,MN,Minnesota,Redwood
+27129,0,0,0,0,0,0,0,1,MN,Minnesota,Renville
+27131,0,0,0,0,0,0,0,0,MN,Minnesota,Rice
+27133,1,0,0,0,0,0,0,0,MN,Minnesota,Rock
+27135,0,0,1,0,0,0,0,0,MN,Minnesota,Roseau
+27137,2,1,2,2,1,2,2,4,MN,Minnesota,St. Louis
+27139,0,1,1,0,1,0,1,0,MN,Minnesota,Scott
+27141,0,0,0,0,0,0,1,1,MN,Minnesota,Sherburne
+27143,0,0,0,0,0,0,0,0,MN,Minnesota,Sibley
+27145,0,1,1,1,1,0,3,0,MN,Minnesota,Stearns
+27147,0,0,0,1,0,2,0,0,MN,Minnesota,Steele
+27149,0,0,0,0,0,0,0,0,MN,Minnesota,Stevens
+27151,1,0,0,0,0,0,0,0,MN,Minnesota,Swift
+27153,0,0,0,0,0,0,0,0,MN,Minnesota,Todd
+27155,0,0,1,0,0,0,0,0,MN,Minnesota,Traverse
+27157,0,0,0,0,0,0,0,0,MN,Minnesota,Wabasha
+27159,0,0,0,0,0,0,0,2,MN,Minnesota,Wadena
+27161,0,0,0,0,0,0,1,0,MN,Minnesota,Waseca
+27163,0,0,1,1,2,1,0,1,MN,Minnesota,Washington
+27165,0,0,0,0,1,0,0,0,MN,Minnesota,Watonwan
+27167,0,0,0,0,0,0,0,0,MN,Minnesota,Wilkin
+27169,0,0,1,0,0,0,0,0,MN,Minnesota,Winona
+27171,0,0,0,0,0,0,0,1,MN,Minnesota,Wright
+27173,0,0,0,0,0,0,0,0,MN,Minnesota,Yellow Medicine
+28001,1,0,0,0,0,0,1,0,MS,Mississippi,Adams
+28003,1,1,0,0,0,0,0,2,MS,Mississippi,Alcorn
+28005,0,0,0,0,0,0,0,0,MS,Mississippi,Amite
+28007,0,0,0,0,0,0,1,0,MS,Mississippi,Attala
+28009,0,0,0,0,0,0,0,0,MS,Mississippi,Benton
+28011,0,1,0,0,1,0,0,0,MS,Mississippi,Bolivar
+28013,0,0,0,0,0,0,0,0,MS,Mississippi,Calhoun
+28015,0,0,0,0,0,0,0,0,MS,Mississippi,Carroll
+28017,0,1,0,0,0,0,0,0,MS,Mississippi,Chickasaw
+28019,0,0,0,0,0,0,1,0,MS,Mississippi,Choctaw
+28021,1,0,0,0,0,0,0,0,MS,Mississippi,Claiborne
+28023,0,1,0,0,0,0,0,0,MS,Mississippi,Clarke
+28025,0,0,0,0,0,0,0,1,MS,Mississippi,Clay
+28027,0,0,0,1,1,0,1,0,MS,Mississippi,Coahoma
+28029,0,0,0,0,0,0,0,0,MS,Mississippi,Copiah
+28031,1,0,3,0,0,0,0,0,MS,Mississippi,Covington
+28033,2,1,2,4,3,9,1,1,MS,Mississippi,DeSoto
+28035,0,0,2,2,1,0,0,1,MS,Mississippi,Forrest
+28037,0,0,0,0,0,0,0,0,MS,Mississippi,Franklin
+28039,1,2,0,0,0,0,0,0,MS,Mississippi,George
+28041,0,0,0,0,0,0,0,0,MS,Mississippi,Greene
+28043,0,0,0,1,3,0,1,0,MS,Mississippi,Grenada
+28045,0,0,0,0,0,1,2,2,MS,Mississippi,Hancock
+28047,1,2,6,3,5,0,6,8,MS,Mississippi,Harrison
+28049,10,4,9,9,8,10,6,6,MS,Mississippi,Hinds
+28051,0,0,0,0,0,1,2,0,MS,Mississippi,Holmes
+28053,0,0,0,0,0,0,0,0,MS,Mississippi,Humphreys
+28055,0,0,0,0,0,0,0,0,MS,Mississippi,Issaquena
+28057,0,0,0,0,1,0,0,0,MS,Mississippi,Itawamba
+28059,2,4,2,3,1,3,3,1,MS,Mississippi,Jackson
+28061,0,0,0,0,0,1,0,0,MS,Mississippi,Jasper
+28063,0,0,0,0,0,1,0,0,MS,Mississippi,Jefferson
+28065,0,0,0,0,0,1,0,0,MS,Mississippi,Jefferson Davis
+28067,0,0,1,0,1,1,0,1,MS,Mississippi,Jones
+28069,0,0,0,0,0,1,0,0,MS,Mississippi,Kemper
+28071,0,0,0,0,0,1,3,2,MS,Mississippi,Lafayette
+28073,0,0,0,0,1,3,0,2,MS,Mississippi,Lamar
+28075,1,2,1,2,3,0,2,2,MS,Mississippi,Lauderdale
+28077,0,0,0,0,0,0,0,0,MS,Mississippi,Lawrence
+28079,0,0,0,0,0,0,0,0,MS,Mississippi,Leake
+28081,0,0,2,2,1,2,1,2,MS,Mississippi,Lee
+28083,0,0,0,0,0,0,0,0,MS,Mississippi,Leflore
+28085,0,3,0,1,1,1,2,0,MS,Mississippi,Lincoln
+28087,0,1,1,1,0,0,2,0,MS,Mississippi,Lowndes
+28089,3,0,3,3,1,1,0,5,MS,Mississippi,Madison
+28091,1,0,0,0,2,0,1,0,MS,Mississippi,Marion
+28093,0,0,0,0,1,1,0,0,MS,Mississippi,Marshall
+28095,1,1,0,0,0,1,0,0,MS,Mississippi,Monroe
+28097,0,0,0,0,0,0,0,0,MS,Mississippi,Montgomery
+28099,2,0,0,1,0,1,0,0,MS,Mississippi,Neshoba
+28101,2,1,0,0,0,2,0,0,MS,Mississippi,Newton
+28103,1,0,0,0,0,0,0,0,MS,Mississippi,Noxubee
+28105,0,0,0,1,1,0,0,0,MS,Mississippi,Oktibbeha
+28107,0,0,0,0,0,1,1,0,MS,Mississippi,Panola
+28109,0,0,1,0,0,1,0,0,MS,Mississippi,Pearl River
+28111,0,0,0,0,0,0,0,0,MS,Mississippi,Perry
+28113,0,1,0,0,0,0,0,0,MS,Mississippi,Pike
+28115,0,0,0,0,0,1,0,0,MS,Mississippi,Pontotoc
+28117,0,0,0,0,0,0,0,0,MS,Mississippi,Prentiss
+28119,0,0,0,0,0,0,0,0,MS,Mississippi,Quitman
+28121,5,1,0,1,2,6,1,4,MS,Mississippi,Rankin
+28123,2,0,0,0,0,0,0,3,MS,Mississippi,Scott
+28125,0,0,0,0,0,0,0,0,MS,Mississippi,Sharkey
+28127,0,1,0,0,0,1,0,1,MS,Mississippi,Simpson
+28129,0,0,0,0,0,0,0,0,MS,Mississippi,Smith
+28131,1,0,0,0,0,1,0,0,MS,Mississippi,Stone
+28133,0,0,0,0,0,0,0,0,MS,Mississippi,Sunflower
+28135,0,0,0,0,0,0,0,0,MS,Mississippi,Tallahatchie
+28137,0,0,0,1,0,0,1,1,MS,Mississippi,Tate
+28139,0,0,0,0,0,2,0,1,MS,Mississippi,Tippah
+28141,0,1,1,2,2,0,0,0,MS,Mississippi,Tishomingo
+28143,0,1,0,0,1,0,1,0,MS,Mississippi,Tunica
+28145,0,1,0,0,2,0,0,0,MS,Mississippi,Union
+28147,0,0,0,0,0,0,0,0,MS,Mississippi,Walthall
+28149,0,0,0,0,0,1,0,0,MS,Mississippi,Warren
+28151,0,0,0,1,2,1,0,1,MS,Mississippi,Washington
+28153,0,0,0,0,0,0,0,2,MS,Mississippi,Wayne
+28155,0,0,0,1,0,1,0,0,MS,Mississippi,Webster
+28157,0,0,0,0,0,0,0,1,MS,Mississippi,Wilkinson
+28159,0,0,0,0,0,0,0,0,MS,Mississippi,Winston
+28161,0,0,0,2,1,0,1,0,MS,Mississippi,Yalobusha
+28163,0,0,0,1,0,1,0,2,MS,Mississippi,Yazoo
+29001,0,0,1,0,0,0,0,0,MO,Missouri,Adair
+29003,0,0,0,0,0,0,0,0,MO,Missouri,Andrew
+29005,0,0,0,0,0,0,0,0,MO,Missouri,Atchison
+29007,0,0,1,0,0,2,0,0,MO,Missouri,Audrain
+29009,1,0,0,1,1,0,0,0,MO,Missouri,Barry
+29011,0,0,0,0,0,2,0,0,MO,Missouri,Barton
+29013,0,0,0,0,0,0,3,0,MO,Missouri,Bates
+29015,0,1,0,0,1,0,0,0,MO,Missouri,Benton
+29017,0,0,0,0,0,0,0,0,MO,Missouri,Bollinger
+29019,0,2,1,2,2,1,3,4,MO,Missouri,Boone
+29021,1,0,1,2,1,1,0,0,MO,Missouri,Buchanan
+29023,2,0,0,1,0,0,0,2,MO,Missouri,Butler
+29025,0,0,0,0,0,0,0,0,MO,Missouri,Caldwell
+29027,0,1,1,0,0,1,2,0,MO,Missouri,Callaway
+29029,0,0,0,0,0,0,0,0,MO,Missouri,Camden
+29031,1,1,1,1,0,1,0,0,MO,Missouri,Cape Girardeau
+29033,0,0,1,0,0,0,0,0,MO,Missouri,Carroll
+29035,0,0,0,0,0,0,0,0,MO,Missouri,Carter
+29037,0,1,1,1,2,0,6,1,MO,Missouri,Cass
+29039,1,0,0,0,0,0,0,0,MO,Missouri,Cedar
+29041,0,0,0,0,0,0,0,0,MO,Missouri,Chariton
+29043,0,1,0,0,2,0,1,1,MO,Missouri,Christian
+29045,1,0,0,0,0,0,0,0,MO,Missouri,Clark
+29047,3,0,3,2,6,6,4,1,MO,Missouri,Clay
+29049,0,0,0,1,0,0,0,0,MO,Missouri,Clinton
+29051,0,0,0,1,0,4,1,2,MO,Missouri,Cole
+29053,1,0,0,1,0,0,0,0,MO,Missouri,Cooper
+29055,1,0,1,0,0,2,1,1,MO,Missouri,Crawford
+29057,0,0,0,0,1,0,0,1,MO,Missouri,Dade
+29059,0,0,1,0,0,0,1,0,MO,Missouri,Dallas
+29061,0,0,0,0,1,1,0,0,MO,Missouri,Daviess
+29063,0,1,0,0,0,0,1,0,MO,Missouri,DeKalb
+29065,0,0,0,0,0,0,0,0,MO,Missouri,Dent
+29067,0,0,0,0,0,2,0,0,MO,Missouri,Douglas
+29069,1,0,0,0,0,0,0,0,MO,Missouri,Dunklin
+29071,0,2,0,1,0,0,2,2,MO,Missouri,Franklin
+29073,0,1,0,0,0,0,0,0,MO,Missouri,Gasconade
+29075,0,0,0,0,0,0,0,0,MO,Missouri,Gentry
+29077,2,5,2,8,5,10,3,7,MO,Missouri,Greene
+29079,0,0,0,0,0,0,0,0,MO,Missouri,Grundy
+29081,0,0,0,0,0,0,0,0,MO,Missouri,Harrison
+29083,0,0,0,2,1,0,0,0,MO,Missouri,Henry
+29085,0,0,0,0,0,0,0,1,MO,Missouri,Hickory
+29087,0,0,0,0,0,0,0,0,MO,Missouri,Holt
+29089,0,0,0,0,0,0,0,0,MO,Missouri,Howard
+29091,0,0,0,1,0,1,0,0,MO,Missouri,Howell
+29093,0,0,0,0,0,0,0,1,MO,Missouri,Iron
+29095,11,12,14,18,26,13,28,11,MO,Missouri,Jackson
+29097,0,0,2,0,1,2,2,4,MO,Missouri,Jasper
+29099,3,1,0,1,1,2,3,4,MO,Missouri,Jefferson
+29101,1,1,0,0,1,0,1,0,MO,Missouri,Johnson
+29103,0,0,0,0,0,0,0,0,MO,Missouri,Knox
+29105,0,0,0,1,0,0,0,0,MO,Missouri,Laclede
+29107,0,0,1,0,0,0,0,0,MO,Missouri,Lafayette
+29109,0,0,1,0,2,0,0,0,MO,Missouri,Lawrence
+29111,0,0,0,0,0,0,0,0,MO,Missouri,Lewis
+29113,1,0,0,0,0,0,0,2,MO,Missouri,Lincoln
+29115,0,0,0,1,0,0,0,0,MO,Missouri,Linn
+29117,0,0,0,1,1,0,1,1,MO,Missouri,Livingston
+29119,0,2,0,0,0,0,0,1,MO,Missouri,McDonald
+29121,0,0,0,0,1,0,0,0,MO,Missouri,Macon
+29123,0,0,0,0,0,0,0,0,MO,Missouri,Madison
+29125,0,0,0,0,0,0,0,0,MO,Missouri,Maries
+29127,0,1,0,0,0,0,0,0,MO,Missouri,Marion
+29129,0,0,0,0,0,0,0,0,MO,Missouri,Mercer
+29131,0,0,0,0,0,0,2,1,MO,Missouri,Miller
+29133,0,0,0,1,0,0,0,0,MO,Missouri,Mississippi
+29135,0,1,0,0,0,2,0,0,MO,Missouri,Moniteau
+29137,0,0,1,0,0,0,0,0,MO,Missouri,Monroe
+29139,0,0,1,0,0,1,0,0,MO,Missouri,Montgomery
+29141,2,0,1,0,0,0,0,0,MO,Missouri,Morgan
+29143,1,0,0,1,1,0,0,0,MO,Missouri,New Madrid
+29145,0,1,0,1,1,0,0,1,MO,Missouri,Newton
+29147,0,0,0,0,0,0,0,0,MO,Missouri,Nodaway
+29149,0,0,0,0,0,0,0,0,MO,Missouri,Oregon
+29151,0,0,0,0,0,0,0,0,MO,Missouri,Osage
+29153,0,0,0,0,0,0,0,0,MO,Missouri,Ozark
+29155,0,0,0,0,1,0,1,1,MO,Missouri,Pemiscot
+29157,0,0,0,0,0,0,0,0,MO,Missouri,Perry
+29159,0,0,0,1,0,1,2,0,MO,Missouri,Pettis
+29161,0,0,0,1,0,1,2,0,MO,Missouri,Phelps
+29163,0,0,0,0,0,0,0,0,MO,Missouri,Pike
+29165,2,1,0,1,0,0,0,0,MO,Missouri,Platte
+29167,0,0,0,0,0,0,0,0,MO,Missouri,Polk
+29169,0,0,0,0,0,0,1,0,MO,Missouri,Pulaski
+29171,0,0,0,0,0,0,0,0,MO,Missouri,Putnam
+29173,0,0,0,0,0,1,0,0,MO,Missouri,Ralls
+29175,0,0,0,1,0,0,0,2,MO,Missouri,Randolph
+29177,0,1,0,0,0,0,0,0,MO,Missouri,Ray
+29179,0,0,0,0,0,0,0,0,MO,Missouri,Reynolds
+29181,0,0,0,0,0,0,0,0,MO,Missouri,Ripley
+29183,3,4,1,0,3,4,4,5,MO,Missouri,St. Charles
+29185,0,0,0,0,0,2,0,0,MO,Missouri,St. Clair
+29186,0,1,0,0,0,0,0,0,MO,Missouri,Ste. Genevieve
+29187,0,0,3,1,0,2,1,0,MO,Missouri,St. Francois
+29189,18,17,12,9,12,19,17,5,MO,Missouri,St. Louis
+29195,0,0,0,1,0,0,0,0,MO,Missouri,Saline
+29197,0,0,0,0,0,0,0,0,MO,Missouri,Schuyler
+29199,0,0,0,0,0,0,0,0,MO,Missouri,Scotland
+29201,0,0,0,0,1,0,1,0,MO,Missouri,Scott
+29203,0,0,0,0,0,0,0,0,MO,Missouri,Shannon
+29205,0,0,0,0,0,0,0,0,MO,Missouri,Shelby
+29207,0,0,0,0,0,0,0,0,MO,Missouri,Stoddard
+29209,0,2,1,0,0,1,0,3,MO,Missouri,Stone
+29211,0,0,0,0,0,0,0,0,MO,Missouri,Sullivan
+29213,0,0,1,0,0,1,0,0,MO,Missouri,Taney
+29215,0,0,0,0,1,0,0,0,MO,Missouri,Texas
+29217,0,0,0,1,0,0,0,0,MO,Missouri,Vernon
+29219,0,0,0,0,0,0,1,0,MO,Missouri,Warren
+29221,1,0,0,0,0,0,1,0,MO,Missouri,Washington
+29223,0,0,0,0,0,0,0,0,MO,Missouri,Wayne
+29225,0,0,0,1,0,0,1,1,MO,Missouri,Webster
+29227,0,0,0,0,0,0,0,0,MO,Missouri,Worth
+29229,0,0,0,0,1,1,0,1,MO,Missouri,Wright
+29510,8,13,19,28,13,14,14,5,MO,Missouri,St. Louis city
+30001,0,1,0,0,0,0,0,1,MT,Montana,Beaverhead
+30003,0,0,0,0,1,1,0,1,MT,Montana,Big Horn
+30005,0,0,0,0,0,0,0,2,MT,Montana,Blaine
+30007,0,0,0,0,0,0,0,0,MT,Montana,Broadwater
+30009,0,0,1,0,0,0,0,0,MT,Montana,Carbon
+30011,0,0,0,0,0,0,0,0,MT,Montana,Carter
+30013,0,0,0,3,2,2,0,0,MT,Montana,Cascade
+30015,0,0,0,0,0,0,0,0,MT,Montana,Chouteau
+30017,0,0,0,0,0,0,0,0,MT,Montana,Custer
+30019,0,0,0,0,0,0,0,0,MT,Montana,Daniels
+30021,0,0,0,0,0,0,0,0,MT,Montana,Dawson
+30023,0,0,0,0,0,0,0,0,MT,Montana,Deer Lodge
+30025,0,0,0,0,0,0,0,0,MT,Montana,Fallon
+30027,0,0,0,0,0,0,2,0,MT,Montana,Fergus
+30029,0,1,1,0,0,3,3,4,MT,Montana,Flathead
+30031,0,0,0,0,0,1,0,2,MT,Montana,Gallatin
+30033,0,0,0,0,0,0,0,0,MT,Montana,Garfield
+30035,2,0,0,0,0,1,1,0,MT,Montana,Glacier
+30037,0,0,0,0,0,0,0,0,MT,Montana,Golden Valley
+30039,0,0,0,0,0,0,1,0,MT,Montana,Granite
+30041,0,0,0,0,0,1,0,0,MT,Montana,Hill
+30043,0,0,0,0,0,0,0,0,MT,Montana,Jefferson
+30045,0,0,0,0,0,0,0,0,MT,Montana,Judith Basin
+30047,0,0,0,1,0,0,2,1,MT,Montana,Lake
+30049,0,0,0,0,3,0,0,0,MT,Montana,Lewis and Clark
+30051,0,0,0,0,0,0,0,0,MT,Montana,Liberty
+30053,0,0,0,0,1,0,0,0,MT,Montana,Lincoln
+30055,0,0,0,0,0,0,0,0,MT,Montana,McCone
+30057,0,0,0,0,0,0,0,0,MT,Montana,Madison
+30059,0,0,0,0,0,0,0,0,MT,Montana,Meagher
+30061,0,1,0,0,0,0,0,0,MT,Montana,Mineral
+30063,1,2,0,1,3,2,3,5,MT,Montana,Missoula
+30065,0,0,0,0,0,0,0,0,MT,Montana,Musselshell
+30067,0,0,1,0,0,0,0,0,MT,Montana,Park
+30069,0,0,0,0,0,0,0,0,MT,Montana,Petroleum
+30071,0,0,1,0,0,0,0,0,MT,Montana,Phillips
+30073,0,0,0,0,0,0,1,0,MT,Montana,Pondera
+30075,0,0,0,0,0,0,0,0,MT,Montana,Powder River
+30077,1,0,0,1,1,0,0,1,MT,Montana,Powell
+30079,0,0,0,0,0,0,0,0,MT,Montana,Prairie
+30081,1,0,0,0,0,0,0,1,MT,Montana,Ravalli
+30083,1,0,0,0,0,0,0,0,MT,Montana,Richland
+30085,0,0,0,0,0,0,0,0,MT,Montana,Roosevelt
+30087,0,0,0,0,2,0,1,1,MT,Montana,Rosebud
+30089,0,0,0,0,0,0,1,0,MT,Montana,Sanders
+30091,0,0,0,0,0,0,0,0,MT,Montana,Sheridan
+30093,0,1,1,1,1,0,0,0,MT,Montana,Silver Bow
+30095,0,0,0,0,0,0,1,2,MT,Montana,Stillwater
+30097,0,0,0,0,0,0,0,0,MT,Montana,Sweet Grass
+30099,0,0,0,0,0,0,0,0,MT,Montana,Teton
+30101,0,0,0,0,0,1,0,0,MT,Montana,Toole
+30103,0,0,0,0,0,0,0,0,MT,Montana,Treasure
+30105,0,0,0,0,0,0,0,0,MT,Montana,Valley
+30107,0,0,0,0,0,0,0,0,MT,Montana,Wheatland
+30109,0,0,0,0,0,0,0,0,MT,Montana,Wibaux
+30111,2,3,1,4,4,2,4,2,MT,Montana,Yellowstone
+31001,0,0,0,0,0,0,0,1,NE,Nebraska,Adams
+31003,0,0,0,0,0,0,0,0,NE,Nebraska,Antelope
+31005,0,0,0,0,0,0,0,0,NE,Nebraska,Arthur
+31007,0,0,0,0,0,0,0,0,NE,Nebraska,Banner
+31009,0,0,0,0,0,0,0,0,NE,Nebraska,Blaine
+31011,0,0,0,0,0,0,0,0,NE,Nebraska,Boone
+31013,0,0,0,0,0,0,0,1,NE,Nebraska,Box Butte
+31015,0,0,0,0,0,0,0,0,NE,Nebraska,Boyd
+31017,0,0,0,0,0,0,0,0,NE,Nebraska,Brown
+31019,0,0,1,0,0,0,0,0,NE,Nebraska,Buffalo
+31021,0,0,0,0,0,0,0,0,NE,Nebraska,Burt
+31023,0,0,0,0,0,0,0,0,NE,Nebraska,Butler
+31025,1,0,1,0,0,0,1,0,NE,Nebraska,Cass
+31027,0,0,0,0,0,0,0,0,NE,Nebraska,Cedar
+31029,0,0,0,0,0,0,0,0,NE,Nebraska,Chase
+31031,0,0,0,0,0,0,0,0,NE,Nebraska,Cherry
+31033,0,1,0,0,0,0,0,0,NE,Nebraska,Cheyenne
+31035,0,0,0,0,0,0,1,0,NE,Nebraska,Clay
+31037,0,0,0,0,0,0,0,0,NE,Nebraska,Colfax
+31039,0,0,0,0,0,0,0,0,NE,Nebraska,Cuming
+31041,0,0,0,0,0,0,1,0,NE,Nebraska,Custer
+31043,0,0,0,0,0,1,0,0,NE,Nebraska,Dakota
+31045,0,0,1,0,0,0,0,0,NE,Nebraska,Dawes
+31047,1,0,0,0,0,0,0,0,NE,Nebraska,Dawson
+31049,0,1,0,0,0,0,0,0,NE,Nebraska,Deuel
+31051,0,0,0,0,0,0,0,0,NE,Nebraska,Dixon
+31053,0,1,0,0,0,0,0,2,NE,Nebraska,Dodge
+31055,9,6,7,5,5,5,2,8,NE,Nebraska,Douglas
+31057,0,0,0,0,0,0,0,0,NE,Nebraska,Dundy
+31059,0,0,0,0,0,0,0,0,NE,Nebraska,Fillmore
+31061,0,0,0,0,0,0,0,0,NE,Nebraska,Franklin
+31063,0,0,0,0,0,0,0,0,NE,Nebraska,Frontier
+31065,0,0,0,0,0,0,0,0,NE,Nebraska,Furnas
+31067,0,0,0,0,0,0,0,0,NE,Nebraska,Gage
+31069,0,0,0,0,0,0,0,0,NE,Nebraska,Garden
+31071,0,0,0,0,0,0,0,0,NE,Nebraska,Garfield
+31073,0,0,0,0,0,0,0,0,NE,Nebraska,Gosper
+31075,0,0,0,0,0,0,0,0,NE,Nebraska,Grant
+31077,0,0,0,0,0,0,0,0,NE,Nebraska,Greeley
+31079,0,0,0,0,0,2,4,0,NE,Nebraska,Hall
+31081,0,0,0,0,0,0,0,0,NE,Nebraska,Hamilton
+31083,0,0,0,0,0,0,0,0,NE,Nebraska,Harlan
+31085,0,0,0,0,0,0,0,0,NE,Nebraska,Hayes
+31087,0,1,0,0,0,0,0,0,NE,Nebraska,Hitchcock
+31089,0,0,0,0,0,0,0,0,NE,Nebraska,Holt
+31091,0,0,0,0,0,0,0,0,NE,Nebraska,Hooker
+31093,0,0,0,0,1,0,0,1,NE,Nebraska,Howard
+31095,0,0,0,0,0,0,0,0,NE,Nebraska,Jefferson
+31097,0,0,0,0,0,0,0,0,NE,Nebraska,Johnson
+31099,0,0,0,0,0,0,0,0,NE,Nebraska,Kearney
+31101,0,0,0,0,0,1,0,0,NE,Nebraska,Keith
+31103,0,0,0,0,0,0,0,0,NE,Nebraska,Keya Paha
+31105,0,0,0,0,0,0,0,0,NE,Nebraska,Kimball
+31107,0,0,1,0,0,0,0,0,NE,Nebraska,Knox
+31109,1,3,2,1,4,2,1,7,NE,Nebraska,Lancaster
+31111,0,0,0,1,1,0,0,1,NE,Nebraska,Lincoln
+31113,0,0,0,0,0,0,0,0,NE,Nebraska,Logan
+31115,0,0,0,0,0,0,0,0,NE,Nebraska,Loup
+31117,0,0,0,0,0,0,0,0,NE,Nebraska,McPherson
+31119,0,1,0,0,0,0,0,0,NE,Nebraska,Madison
+31121,0,0,0,0,0,0,0,0,NE,Nebraska,Merrick
+31123,0,0,0,0,0,0,0,1,NE,Nebraska,Morrill
+31125,0,0,0,0,0,0,0,0,NE,Nebraska,Nance
+31127,0,0,0,0,0,0,0,0,NE,Nebraska,Nemaha
+31129,0,0,0,0,0,0,0,0,NE,Nebraska,Nuckolls
+31131,1,0,0,0,0,0,0,0,NE,Nebraska,Otoe
+31133,0,0,0,0,1,0,0,0,NE,Nebraska,Pawnee
+31135,0,0,0,0,0,0,0,0,NE,Nebraska,Perkins
+31137,0,0,0,0,0,0,0,0,NE,Nebraska,Phelps
+31139,0,0,0,0,0,0,0,0,NE,Nebraska,Pierce
+31141,1,0,0,0,2,0,0,0,NE,Nebraska,Platte
+31143,0,0,0,1,0,0,0,0,NE,Nebraska,Polk
+31145,0,0,0,1,0,0,0,0,NE,Nebraska,Red Willow
+31147,1,0,0,0,0,0,0,0,NE,Nebraska,Richardson
+31149,0,0,0,0,0,0,0,0,NE,Nebraska,Rock
+31151,0,0,0,0,0,0,0,0,NE,Nebraska,Saline
+31153,2,0,1,0,2,1,1,0,NE,Nebraska,Sarpy
+31155,0,0,0,0,0,0,0,0,NE,Nebraska,Saunders
+31157,0,0,0,0,0,0,0,1,NE,Nebraska,Scotts Bluff
+31159,0,0,0,0,1,0,0,1,NE,Nebraska,Seward
+31161,0,0,1,0,0,1,0,0,NE,Nebraska,Sheridan
+31163,0,0,0,0,0,1,0,0,NE,Nebraska,Sherman
+31165,0,0,0,0,0,0,0,0,NE,Nebraska,Sioux
+31167,0,0,0,0,0,0,0,0,NE,Nebraska,Stanton
+31169,0,0,0,0,0,0,0,0,NE,Nebraska,Thayer
+31171,0,0,0,0,0,0,0,0,NE,Nebraska,Thomas
+31173,1,0,0,0,0,0,0,0,NE,Nebraska,Thurston
+31175,0,0,0,0,0,0,0,0,NE,Nebraska,Valley
+31177,0,0,0,0,0,0,1,0,NE,Nebraska,Washington
+31179,0,0,0,0,0,0,0,0,NE,Nebraska,Wayne
+31181,0,0,0,0,0,0,0,0,NE,Nebraska,Webster
+31183,0,0,0,0,0,0,0,0,NE,Nebraska,Wheeler
+31185,0,0,1,0,0,0,0,0,NE,Nebraska,York
+32001,2,0,0,0,0,0,1,0,NV,Nevada,Churchill
+32003,33,24,16,32,31,31,50,29,NV,Nevada,Clark
+32005,0,2,0,0,1,0,1,1,NV,Nevada,Douglas
+32007,2,0,1,0,3,0,2,1,NV,Nevada,Elko
+32009,0,0,0,0,0,0,0,1,NV,Nevada,Esmeralda
+32011,0,0,0,0,0,0,0,2,NV,Nevada,Eureka
+32013,1,0,0,0,0,1,0,0,NV,Nevada,Humboldt
+32015,0,0,0,0,0,0,0,0,NV,Nevada,Lander
+32017,0,0,0,0,0,0,0,0,NV,Nevada,Lincoln
+32019,0,0,2,0,0,1,1,1,NV,Nevada,Lyon
+32021,0,0,0,0,0,0,0,0,NV,Nevada,Mineral
+32023,0,0,0,2,1,1,2,2,NV,Nevada,Nye
+32027,0,0,0,0,0,0,0,0,NV,Nevada,Pershing
+32029,0,0,2,0,0,0,0,0,NV,Nevada,Storey
+32031,5,7,8,6,7,5,11,6,NV,Nevada,Washoe
+32033,0,0,0,0,0,0,0,0,NV,Nevada,White Pine
+32510,0,1,1,1,1,2,0,1,NV,Nevada,Carson City
+33001,0,0,2,2,0,1,1,0,NH,New Hampshire,Belknap
+33003,0,0,0,0,0,1,0,0,NH,New Hampshire,Carroll
+33005,0,0,0,1,0,0,0,1,NH,New Hampshire,Cheshire
+33007,0,0,0,0,0,1,1,0,NH,New Hampshire,Coos
+33009,0,1,0,1,0,0,1,0,NH,New Hampshire,Grafton
+33011,1,1,3,1,2,5,3,1,NH,New Hampshire,Hillsborough
+33013,1,0,1,1,0,1,2,2,NH,New Hampshire,Merrimack
+33015,1,5,2,2,2,1,0,2,NH,New Hampshire,Rockingham
+33017,0,0,1,1,2,2,0,2,NH,New Hampshire,Strafford
+33019,0,0,1,0,0,1,0,1,NH,New Hampshire,Sullivan
+34001,2,1,2,0,2,0,2,2,NJ,New Jersey,Atlantic
+34003,3,6,1,4,2,0,0,2,NJ,New Jersey,Bergen
+34005,4,0,0,4,0,2,2,0,NJ,New Jersey,Burlington
+34007,5,4,1,4,3,1,1,3,NJ,New Jersey,Camden
+34009,0,0,0,0,0,0,0,0,NJ,New Jersey,Cape May
+34011,1,1,3,5,4,0,0,1,NJ,New Jersey,Cumberland
+34013,9,8,6,15,9,6,1,6,NJ,New Jersey,Essex
+34015,1,0,1,0,2,1,0,2,NJ,New Jersey,Gloucester
+34017,7,2,2,5,3,4,2,5,NJ,New Jersey,Hudson
+34019,1,0,0,1,0,0,0,0,NJ,New Jersey,Hunterdon
+34021,2,5,3,4,2,3,1,2,NJ,New Jersey,Mercer
+34023,0,3,1,1,2,2,0,1,NJ,New Jersey,Middlesex
+34025,2,4,1,1,0,2,2,2,NJ,New Jersey,Monmouth
+34027,0,0,0,2,0,3,1,0,NJ,New Jersey,Morris
+34029,0,2,5,3,6,2,0,1,NJ,New Jersey,Ocean
+34031,5,0,6,5,1,5,9,2,NJ,New Jersey,Passaic
+34033,0,0,0,0,1,1,1,1,NJ,New Jersey,Salem
+34035,0,2,0,0,1,1,0,2,NJ,New Jersey,Somerset
+34037,0,1,0,0,0,0,0,2,NJ,New Jersey,Sussex
+34039,4,5,5,3,4,2,0,2,NJ,New Jersey,Union
+34041,1,0,0,0,2,1,0,1,NJ,New Jersey,Warren
+35001,17,18,10,34,16,18,24,23,NM,New Mexico,Bernalillo
+35003,0,0,0,0,1,0,0,0,NM,New Mexico,Catron
+35005,0,2,1,4,0,1,0,9,NM,New Mexico,Chaves
+35006,0,0,2,1,1,1,4,0,NM,New Mexico,Cibola
+35007,0,0,0,0,0,1,0,0,NM,New Mexico,Colfax
+35009,0,0,0,0,1,1,1,0,NM,New Mexico,Curry
+35011,0,0,0,0,1,0,0,1,NM,New Mexico,De Baca
+35013,4,3,5,9,5,8,12,10,NM,New Mexico,Doï¿½a Ana
+35015,1,2,2,0,1,2,3,0,NM,New Mexico,Eddy
+35017,0,0,2,1,0,0,1,1,NM,New Mexico,Grant
+35019,0,0,0,0,0,0,0,1,NM,New Mexico,Guadalupe
+35021,0,0,0,0,0,0,0,0,NM,New Mexico,Harding
+35023,0,1,0,1,0,0,1,0,NM,New Mexico,Hidalgo
+35025,0,5,2,1,1,1,2,1,NM,New Mexico,Lea
+35027,0,2,2,1,0,0,0,1,NM,New Mexico,Lincoln
+35028,0,0,0,0,1,0,0,0,NM,New Mexico,Los Alamos
+35029,0,1,0,0,0,0,4,1,NM,New Mexico,Luna
+35031,0,1,1,1,0,0,5,0,NM,New Mexico,McKinley
+35033,0,0,0,0,0,0,0,0,NM,New Mexico,Mora
+35035,0,0,1,0,2,3,0,0,NM,New Mexico,Otero
+35037,0,0,1,0,1,0,0,0,NM,New Mexico,Quay
+35039,1,1,0,1,2,0,0,2,NM,New Mexico,Rio Arriba
+35041,0,0,1,0,1,0,0,1,NM,New Mexico,Roosevelt
+35043,5,0,0,1,1,1,0,0,NM,New Mexico,Sandoval
+35045,3,5,0,3,2,4,3,7,NM,New Mexico,San Juan
+35047,1,1,1,3,0,0,1,3,NM,New Mexico,San Miguel
+35049,2,3,2,2,4,1,4,9,NM,New Mexico,Santa Fe
+35051,0,1,0,0,0,0,0,0,NM,New Mexico,Sierra
+35053,0,1,2,0,0,2,1,2,NM,New Mexico,Socorro
+35055,0,2,0,3,0,0,3,4,NM,New Mexico,Taos
+35057,2,0,1,0,0,0,0,5,NM,New Mexico,Torrance
+35059,0,0,0,0,0,0,0,0,NM,New Mexico,Union
+35061,0,2,2,1,3,2,2,4,NM,New Mexico,Valencia
+36001,0,1,4,0,2,1,0,1,NY,New York,Albany
+36003,0,0,1,0,0,0,0,0,NY,New York,Allegany
+36005,5,5,13,8,5,8,8,10,NY,New York,Bronx
+36007,1,0,0,0,1,1,1,2,NY,New York,Broome
+36009,0,0,0,0,0,0,0,2,NY,New York,Cattaraugus
+36011,1,0,0,0,0,0,0,1,NY,New York,Cayuga
+36013,1,0,1,0,2,0,0,0,NY,New York,Chautauqua
+36015,0,0,0,3,0,1,0,3,NY,New York,Chemung
+36017,1,0,0,0,0,0,0,0,NY,New York,Chenango
+36019,0,0,1,0,0,0,1,0,NY,New York,Clinton
+36021,1,0,0,0,0,0,0,1,NY,New York,Columbia
+36023,1,0,0,0,0,0,1,1,NY,New York,Cortland
+36025,0,0,0,0,0,0,1,3,NY,New York,Delaware
+36027,2,1,0,0,1,1,0,0,NY,New York,Dutchess
+36029,0,2,4,3,5,1,8,2,NY,New York,Erie
+36031,2,0,0,0,0,0,1,0,NY,New York,Essex
+36033,0,2,0,0,0,0,2,1,NY,New York,Franklin
+36035,0,0,0,0,0,1,0,0,NY,New York,Fulton
+36037,0,0,0,0,2,0,1,1,NY,New York,Genesee
+36039,1,0,0,0,0,0,0,0,NY,New York,Greene
+36041,0,0,0,0,0,1,0,0,NY,New York,Hamilton
+36043,0,0,0,0,0,0,0,2,NY,New York,Herkimer
+36045,0,0,0,0,0,0,0,0,NY,New York,Jefferson
+36047,21,15,14,10,7,9,8,15,NY,New York,Kings
+36049,0,0,0,1,0,0,0,0,NY,New York,Lewis
+36051,0,0,0,0,2,0,1,0,NY,New York,Livingston
+36053,0,0,0,0,1,0,1,0,NY,New York,Madison
+36055,2,3,5,2,6,4,3,13,NY,New York,Monroe
+36057,0,0,0,0,0,0,0,0,NY,New York,Montgomery
+36059,1,2,0,3,5,3,2,0,NY,New York,Nassau
+36061,7,5,3,3,5,6,7,9,NY,New York,New York
+36063,1,1,1,2,0,1,1,0,NY,New York,Niagara
+36065,1,0,2,0,0,2,1,1,NY,New York,Oneida
+36067,1,2,7,6,2,4,10,5,NY,New York,Onondaga
+36069,1,0,1,1,0,0,2,0,NY,New York,Ontario
+36071,0,0,1,2,3,1,5,2,NY,New York,Orange
+36073,0,1,0,0,0,0,0,0,NY,New York,Orleans
+36075,0,1,0,0,0,1,1,1,NY,New York,Oswego
+36077,0,0,0,0,0,1,0,4,NY,New York,Otsego
+36079,0,1,0,0,0,0,0,0,NY,New York,Putnam
+36081,6,4,6,5,6,7,6,4,NY,New York,Queens
+36083,0,2,1,1,0,0,2,2,NY,New York,Rensselaer
+36085,3,2,0,1,3,2,0,2,NY,New York,Richmond
+36087,1,2,0,1,0,0,2,0,NY,New York,Rockland
+36089,0,2,0,0,0,0,0,0,NY,New York,St. Lawrence
+36091,1,1,0,0,0,0,0,1,NY,New York,Saratoga
+36093,1,0,2,3,0,1,1,0,NY,New York,Schenectady
+36095,0,0,1,0,1,0,0,0,NY,New York,Schoharie
+36097,0,1,0,0,0,0,0,0,NY,New York,Schuyler
+36099,0,0,0,0,0,0,0,0,NY,New York,Seneca
+36101,0,0,0,0,2,0,0,0,NY,New York,Steuben
+36103,4,1,4,4,7,8,9,7,NY,New York,Suffolk
+36105,0,0,0,0,0,0,0,0,NY,New York,Sullivan
+36107,0,0,0,0,0,0,1,0,NY,New York,Tioga
+36109,0,0,1,0,0,2,0,0,NY,New York,Tompkins
+36111,1,3,1,0,0,1,1,0,NY,New York,Ulster
+36113,0,1,0,0,0,1,0,0,NY,New York,Warren
+36115,0,0,0,0,0,0,0,0,NY,New York,Washington
+36117,0,0,0,0,0,0,1,1,NY,New York,Wayne
+36119,1,3,2,3,1,2,8,1,NY,New York,Westchester
+36121,0,0,0,0,0,0,0,0,NY,New York,Wyoming
+36123,0,0,0,0,0,0,0,0,NY,New York,Yates
+37001,0,0,1,3,2,3,7,1,NC,North Carolina,Alamance
+37003,0,0,0,0,0,0,1,0,NC,North Carolina,Alexander
+37005,0,0,0,0,1,0,0,0,NC,North Carolina,Alleghany
+37007,0,1,3,2,0,0,2,0,NC,North Carolina,Anson
+37009,0,1,0,0,0,0,1,0,NC,North Carolina,Ashe
+37011,0,0,0,0,0,0,1,0,NC,North Carolina,Avery
+37013,0,0,0,0,1,0,0,0,NC,North Carolina,Beaufort
+37015,0,0,0,0,0,0,0,0,NC,North Carolina,Bertie
+37017,0,1,1,0,0,1,0,0,NC,North Carolina,Bladen
+37019,1,0,1,1,0,1,0,2,NC,North Carolina,Brunswick
+37021,0,2,2,0,3,1,3,1,NC,North Carolina,Buncombe
+37023,1,0,0,1,0,1,1,0,NC,North Carolina,Burke
+37025,0,1,1,1,1,0,1,1,NC,North Carolina,Cabarrus
+37027,0,1,3,1,1,1,2,3,NC,North Carolina,Caldwell
+37029,0,0,0,0,0,0,0,0,NC,North Carolina,Camden
+37031,0,0,0,0,0,0,0,2,NC,North Carolina,Carteret
+37033,0,0,0,0,0,0,0,0,NC,North Carolina,Caswell
+37035,3,0,3,1,0,0,2,2,NC,North Carolina,Catawba
+37037,0,0,0,0,0,0,0,0,NC,North Carolina,Chatham
+37039,0,0,0,0,0,0,0,0,NC,North Carolina,Cherokee
+37041,0,0,0,0,0,0,0,0,NC,North Carolina,Chowan
+37043,0,0,0,0,0,0,0,0,NC,North Carolina,Clay
+37045,2,0,1,2,2,0,1,0,NC,North Carolina,Cleveland
+37047,0,0,0,0,1,0,0,2,NC,North Carolina,Columbus
+37049,2,0,0,0,2,1,0,2,NC,North Carolina,Craven
+37051,6,0,1,3,4,3,7,0,NC,North Carolina,Cumberland
+37053,0,1,0,0,0,0,0,0,NC,North Carolina,Currituck
+37055,0,1,0,0,0,0,0,0,NC,North Carolina,Dare
+37057,1,0,2,0,2,3,2,2,NC,North Carolina,Davidson
+37059,1,0,0,1,0,0,1,0,NC,North Carolina,Davie
+37061,0,0,0,0,0,0,1,5,NC,North Carolina,Duplin
+37063,3,3,2,5,2,2,1,0,NC,North Carolina,Durham
+37065,1,1,0,0,1,1,0,3,NC,North Carolina,Edgecombe
+37067,3,3,3,2,4,2,3,5,NC,North Carolina,Forsyth
+37069,0,0,0,0,0,0,0,0,NC,North Carolina,Franklin
+37071,0,6,3,1,2,5,1,6,NC,North Carolina,Gaston
+37073,0,0,0,0,0,0,0,0,NC,North Carolina,Gates
+37075,0,0,0,0,0,0,0,2,NC,North Carolina,Graham
+37077,0,0,0,1,0,0,0,1,NC,North Carolina,Granville
+37079,0,0,0,0,0,0,0,0,NC,North Carolina,Greene
+37081,5,2,4,4,6,10,9,6,NC,North Carolina,Guilford
+37083,0,1,0,1,0,0,0,0,NC,North Carolina,Halifax
+37085,0,1,0,0,1,0,1,0,NC,North Carolina,Harnett
+37087,0,1,1,0,1,0,1,1,NC,North Carolina,Haywood
+37089,2,2,2,1,2,2,1,2,NC,North Carolina,Henderson
+37091,0,0,0,0,0,1,1,0,NC,North Carolina,Hertford
+37093,1,0,0,0,0,0,1,0,NC,North Carolina,Hoke
+37095,0,0,0,0,0,0,0,0,NC,North Carolina,Hyde
+37097,1,0,3,0,4,2,2,0,NC,North Carolina,Iredell
+37099,0,0,0,0,0,0,0,0,NC,North Carolina,Jackson
+37101,0,0,3,1,0,3,0,0,NC,North Carolina,Johnston
+37103,0,0,0,0,0,0,1,0,NC,North Carolina,Jones
+37105,1,0,0,0,1,1,0,1,NC,North Carolina,Lee
+37107,0,0,1,0,0,0,1,0,NC,North Carolina,Lenoir
+37109,1,0,0,1,1,1,0,0,NC,North Carolina,Lincoln
+37111,0,0,0,1,0,0,0,1,NC,North Carolina,McDowell
+37113,0,1,0,0,0,0,0,0,NC,North Carolina,Macon
+37115,0,0,0,0,0,0,0,0,NC,North Carolina,Madison
+37117,0,0,0,0,0,0,0,0,NC,North Carolina,Martin
+37119,6,6,16,7,8,8,4,8,NC,North Carolina,Mecklenburg
+37121,0,0,0,0,0,0,1,0,NC,North Carolina,Mitchell
+37123,1,0,0,0,0,0,0,0,NC,North Carolina,Montgomery
+37125,0,1,0,1,3,0,4,0,NC,North Carolina,Moore
+37127,0,0,0,1,0,1,2,2,NC,North Carolina,Nash
+37129,1,1,1,2,1,4,1,4,NC,North Carolina,New Hanover
+37131,0,0,1,0,0,0,0,0,NC,North Carolina,Northampton
+37133,1,0,0,0,1,1,1,0,NC,North Carolina,Onslow
+37135,2,1,0,1,0,0,0,0,NC,North Carolina,Orange
+37137,0,0,0,0,0,0,0,1,NC,North Carolina,Pamlico
+37139,1,0,0,1,0,0,0,2,NC,North Carolina,Pasquotank
+37141,1,0,0,0,0,0,0,1,NC,North Carolina,Pender
+37143,0,0,0,0,0,0,0,0,NC,North Carolina,Perquimans
+37145,0,0,0,0,1,0,2,2,NC,North Carolina,Person
+37147,1,3,0,2,4,3,0,1,NC,North Carolina,Pitt
+37149,0,0,0,0,0,1,0,0,NC,North Carolina,Polk
+37151,0,2,1,1,1,3,4,0,NC,North Carolina,Randolph
+37153,0,0,0,0,0,0,0,0,NC,North Carolina,Richmond
+37155,6,0,2,3,3,0,1,3,NC,North Carolina,Robeson
+37157,0,0,3,2,2,0,1,0,NC,North Carolina,Rockingham
+37159,1,1,2,2,1,1,2,3,NC,North Carolina,Rowan
+37161,1,0,2,1,1,0,1,4,NC,North Carolina,Rutherford
+37163,0,1,1,0,1,1,0,2,NC,North Carolina,Sampson
+37165,0,0,0,0,1,0,0,0,NC,North Carolina,Scotland
+37167,0,0,1,1,1,0,1,0,NC,North Carolina,Stanly
+37169,0,1,0,0,0,0,0,0,NC,North Carolina,Stokes
+37171,1,0,0,1,1,0,1,1,NC,North Carolina,Surry
+37173,0,0,0,0,0,0,1,0,NC,North Carolina,Swain
+37175,0,1,0,0,0,0,0,0,NC,North Carolina,Transylvania
+37177,0,0,0,0,1,0,0,0,NC,North Carolina,Tyrrell
+37179,1,0,0,1,0,0,1,0,NC,North Carolina,Union
+37181,0,1,0,1,1,0,0,0,NC,North Carolina,Vance
+37183,4,2,4,5,4,10,5,0,NC,North Carolina,Wake
+37185,0,0,0,0,0,0,0,0,NC,North Carolina,Warren
+37187,0,0,0,0,0,0,0,0,NC,North Carolina,Washington
+37189,0,0,0,0,0,1,0,0,NC,North Carolina,Watauga
+37191,1,0,1,0,0,0,2,2,NC,North Carolina,Wayne
+37193,0,1,1,1,0,1,1,2,NC,North Carolina,Wilkes
+37195,0,0,1,0,1,1,0,0,NC,North Carolina,Wilson
+37197,0,0,0,0,2,0,0,0,NC,North Carolina,Yadkin
+37199,0,0,0,0,1,0,0,1,NC,North Carolina,Yancey
+38001,0,0,0,0,0,0,0,0,ND,North Dakota,Adams
+38003,0,0,0,0,0,0,0,0,ND,North Dakota,Barnes
+38005,0,1,0,0,0,0,0,1,ND,North Dakota,Benson
+38007,0,0,0,0,0,0,0,0,ND,North Dakota,Billings
+38009,0,0,0,0,0,0,0,0,ND,North Dakota,Bottineau
+38011,0,0,0,0,0,0,0,0,ND,North Dakota,Bowman
+38013,0,0,0,0,0,0,0,0,ND,North Dakota,Burke
+38015,0,1,4,1,1,1,1,1,ND,North Dakota,Burleigh
+38017,0,2,1,0,3,1,2,0,ND,North Dakota,Cass
+38019,0,0,0,0,0,0,0,0,ND,North Dakota,Cavalier
+38021,0,0,0,0,0,0,0,0,ND,North Dakota,Dickey
+38023,0,0,0,0,0,0,0,0,ND,North Dakota,Divide
+38025,0,0,0,0,0,0,0,0,ND,North Dakota,Dunn
+38027,0,0,0,0,0,0,0,0,ND,North Dakota,Eddy
+38029,0,0,0,0,0,0,0,0,ND,North Dakota,Emmons
+38031,0,0,0,0,0,0,0,0,ND,North Dakota,Foster
+38033,0,0,0,0,0,0,0,0,ND,North Dakota,Golden Valley
+38035,0,1,0,0,2,1,1,0,ND,North Dakota,Grand Forks
+38037,0,0,0,0,0,0,0,0,ND,North Dakota,Grant
+38039,0,0,0,0,0,0,0,0,ND,North Dakota,Griggs
+38041,0,0,0,0,0,0,0,0,ND,North Dakota,Hettinger
+38043,0,0,0,0,0,0,0,0,ND,North Dakota,Kidder
+38045,0,0,0,0,0,0,0,0,ND,North Dakota,LaMoure
+38047,0,0,0,0,0,0,0,0,ND,North Dakota,Logan
+38049,0,0,0,0,0,0,0,0,ND,North Dakota,McHenry
+38051,0,0,0,0,1,0,0,0,ND,North Dakota,McIntosh
+38053,0,1,0,0,1,0,0,0,ND,North Dakota,McKenzie
+38055,0,0,0,0,0,0,0,0,ND,North Dakota,McLean
+38057,0,0,0,1,0,0,0,0,ND,North Dakota,Mercer
+38059,0,0,1,1,1,0,0,1,ND,North Dakota,Morton
+38061,0,0,0,0,0,0,0,0,ND,North Dakota,Mountrail
+38063,0,0,0,0,0,0,0,0,ND,North Dakota,Nelson
+38065,0,0,0,0,0,0,0,0,ND,North Dakota,Oliver
+38067,0,0,1,0,1,0,0,0,ND,North Dakota,Pembina
+38069,0,0,0,0,0,0,0,0,ND,North Dakota,Pierce
+38071,0,0,0,1,1,0,0,0,ND,North Dakota,Ramsey
+38073,0,0,0,0,0,0,0,0,ND,North Dakota,Ransom
+38075,0,0,0,0,0,0,0,0,ND,North Dakota,Renville
+38077,1,0,0,0,0,0,0,0,ND,North Dakota,Richland
+38079,0,0,0,2,0,0,1,0,ND,North Dakota,Rolette
+38081,0,0,0,0,0,0,0,0,ND,North Dakota,Sargent
+38083,0,0,0,0,0,0,0,0,ND,North Dakota,Sheridan
+38085,0,0,0,1,0,0,0,1,ND,North Dakota,Sioux
+38087,0,0,0,0,0,0,0,0,ND,North Dakota,Slope
+38089,1,0,0,0,0,0,1,2,ND,North Dakota,Stark
+38091,0,0,0,0,0,0,0,0,ND,North Dakota,Steele
+38093,0,0,0,0,1,0,0,0,ND,North Dakota,Stutsman
+38095,0,0,0,0,0,0,0,0,ND,North Dakota,Towner
+38097,0,0,0,0,0,0,0,1,ND,North Dakota,Traill
+38099,0,0,0,0,0,0,1,0,ND,North Dakota,Walsh
+38101,0,1,0,1,0,0,0,0,ND,North Dakota,Ward
+38103,0,0,0,0,0,0,0,0,ND,North Dakota,Wells
+38105,0,0,0,0,0,0,0,0,ND,North Dakota,Williams
+39001,0,0,0,0,0,0,1,0,OH,Ohio,Adams
+39003,1,0,0,1,0,0,0,1,OH,Ohio,Allen
+39005,1,0,0,0,0,2,1,0,OH,Ohio,Ashland
+39007,0,0,2,4,0,1,1,0,OH,Ohio,Ashtabula
+39009,0,0,1,0,0,0,1,1,OH,Ohio,Athens
+39011,0,0,0,0,0,0,0,0,OH,Ohio,Auglaize
+39013,0,0,0,0,1,0,2,0,OH,Ohio,Belmont
+39015,2,0,0,0,0,0,2,0,OH,Ohio,Brown
+39017,3,1,3,2,4,1,3,3,OH,Ohio,Butler
+39019,0,0,0,0,0,1,0,0,OH,Ohio,Carroll
+39021,0,0,0,0,0,0,0,0,OH,Ohio,Champaign
+39023,0,3,1,1,0,1,0,3,OH,Ohio,Clark
+39025,2,0,0,0,0,0,1,2,OH,Ohio,Clermont
+39027,0,0,0,0,0,0,0,1,OH,Ohio,Clinton
+39029,0,0,0,0,0,0,0,1,OH,Ohio,Columbiana
+39031,0,0,0,0,0,0,0,1,OH,Ohio,Coshocton
+39033,0,0,0,0,1,0,0,0,OH,Ohio,Crawford
+39035,16,16,10,14,19,16,20,22,OH,Ohio,Cuyahoga
+39037,0,0,0,0,0,1,0,0,OH,Ohio,Darke
+39039,0,0,0,0,0,1,1,0,OH,Ohio,Defiance
+39041,0,0,2,1,1,0,0,0,OH,Ohio,Delaware
+39043,0,0,0,0,0,0,0,0,OH,Ohio,Erie
+39045,0,0,1,1,0,1,0,0,OH,Ohio,Fairfield
+39047,0,0,0,0,3,0,0,0,OH,Ohio,Fayette
+39049,10,16,19,16,22,14,22,18,OH,Ohio,Franklin
+39051,0,0,0,0,0,0,0,0,OH,Ohio,Fulton
+39053,0,1,0,0,0,1,0,0,OH,Ohio,Gallia
+39055,0,1,0,0,0,0,1,0,OH,Ohio,Geauga
+39057,1,0,1,1,0,0,0,0,OH,Ohio,Greene
+39059,0,0,0,1,1,0,1,1,OH,Ohio,Guernsey
+39061,10,10,8,10,6,5,5,6,OH,Ohio,Hamilton
+39063,0,1,0,1,3,0,0,3,OH,Ohio,Hancock
+39065,0,0,1,0,0,0,0,0,OH,Ohio,Hardin
+39067,0,0,0,0,0,0,0,0,OH,Ohio,Harrison
+39069,0,0,0,0,0,0,0,0,OH,Ohio,Henry
+39071,0,0,0,0,0,0,0,0,OH,Ohio,Highland
+39073,0,0,0,0,0,2,0,0,OH,Ohio,Hocking
+39075,0,1,0,0,0,0,0,0,OH,Ohio,Holmes
+39077,0,0,0,0,0,0,0,0,OH,Ohio,Huron
+39079,0,0,1,0,0,0,0,0,OH,Ohio,Jackson
+39081,1,0,0,1,0,0,0,0,OH,Ohio,Jefferson
+39083,1,1,0,0,0,0,0,0,OH,Ohio,Knox
+39085,0,0,2,2,1,4,1,1,OH,Ohio,Lake
+39087,1,0,0,0,0,0,0,0,OH,Ohio,Lawrence
+39089,0,1,0,4,0,0,0,0,OH,Ohio,Licking
+39091,0,0,0,0,0,0,0,1,OH,Ohio,Logan
+39093,1,0,2,3,3,1,0,1,OH,Ohio,Lorain
+39095,2,4,3,2,6,1,9,7,OH,Ohio,Lucas
+39097,1,0,0,0,0,1,0,0,OH,Ohio,Madison
+39099,1,0,3,1,1,4,0,3,OH,Ohio,Mahoning
+39101,0,1,1,1,1,0,0,0,OH,Ohio,Marion
+39103,0,0,0,0,0,1,1,0,OH,Ohio,Medina
+39105,0,0,0,0,0,0,0,0,OH,Ohio,Meigs
+39107,0,1,0,0,0,0,1,0,OH,Ohio,Mercer
+39109,0,1,0,0,0,0,0,3,OH,Ohio,Miami
+39111,0,0,0,0,0,0,0,0,OH,Ohio,Monroe
+39113,8,2,9,12,14,10,8,11,OH,Ohio,Montgomery
+39115,0,0,0,0,0,0,0,0,OH,Ohio,Morgan
+39117,0,1,0,0,0,0,0,0,OH,Ohio,Morrow
+39119,0,1,0,0,0,1,0,0,OH,Ohio,Muskingum
+39121,0,0,0,0,1,0,0,0,OH,Ohio,Noble
+39123,0,0,0,0,0,0,0,0,OH,Ohio,Ottawa
+39125,0,0,0,0,1,0,0,0,OH,Ohio,Paulding
+39127,0,0,0,1,0,0,0,0,OH,Ohio,Perry
+39129,0,1,1,0,2,2,0,0,OH,Ohio,Pickaway
+39131,0,2,0,0,2,1,1,0,OH,Ohio,Pike
+39133,0,2,1,1,0,0,0,2,OH,Ohio,Portage
+39135,0,0,0,0,0,0,0,0,OH,Ohio,Preble
+39137,0,0,0,0,0,0,0,0,OH,Ohio,Putnam
+39139,2,1,0,2,0,2,1,5,OH,Ohio,Richland
+39141,0,0,2,0,0,0,0,0,OH,Ohio,Ross
+39143,1,0,0,0,0,1,0,1,OH,Ohio,Sandusky
+39145,0,0,0,0,0,0,0,0,OH,Ohio,Scioto
+39147,0,1,0,1,0,0,0,0,OH,Ohio,Seneca
+39149,0,0,1,0,0,0,0,1,OH,Ohio,Shelby
+39151,1,0,4,6,0,2,0,2,OH,Ohio,Stark
+39153,2,8,4,7,7,3,2,5,OH,Ohio,Summit
+39155,1,3,0,2,1,1,2,0,OH,Ohio,Trumbull
+39157,0,0,0,0,0,1,1,0,OH,Ohio,Tuscarawas
+39159,0,0,0,0,0,0,0,0,OH,Ohio,Union
+39161,0,0,1,0,0,1,0,0,OH,Ohio,Van Wert
+39163,0,0,0,0,0,0,0,0,OH,Ohio,Vinton
+39165,1,1,1,0,1,1,1,3,OH,Ohio,Warren
+39167,0,1,0,0,0,0,0,0,OH,Ohio,Washington
+39169,0,0,0,0,1,0,0,1,OH,Ohio,Wayne
+39171,0,0,1,0,0,0,0,0,OH,Ohio,Williams
+39173,0,0,0,0,1,0,0,0,OH,Ohio,Wood
+39175,0,0,0,0,0,0,0,0,OH,Ohio,Wyandot
+40001,0,1,0,1,0,0,0,0,OK,Oklahoma,Adair
+40003,0,0,0,0,0,0,0,0,OK,Oklahoma,Alfalfa
+40005,0,0,0,1,0,0,0,0,OK,Oklahoma,Atoka
+40007,0,0,0,0,0,0,0,0,OK,Oklahoma,Beaver
+40009,1,1,0,0,1,0,0,0,OK,Oklahoma,Beckham
+40011,0,0,0,1,0,0,0,0,OK,Oklahoma,Blaine
+40013,1,1,0,2,0,0,0,2,OK,Oklahoma,Bryan
+40015,1,0,0,1,1,0,0,3,OK,Oklahoma,Caddo
+40017,0,0,0,1,0,1,4,0,OK,Oklahoma,Canadian
+40019,2,2,0,0,1,0,0,0,OK,Oklahoma,Carter
+40021,2,2,1,0,3,2,2,1,OK,Oklahoma,Cherokee
+40023,1,0,1,0,1,1,0,0,OK,Oklahoma,Choctaw
+40025,0,0,0,0,0,0,0,0,OK,Oklahoma,Cimarron
+40027,6,2,1,4,6,0,1,3,OK,Oklahoma,Cleveland
+40029,0,1,1,0,0,0,0,0,OK,Oklahoma,Coal
+40031,2,2,1,0,3,4,1,5,OK,Oklahoma,Comanche
+40033,0,0,0,0,0,0,0,0,OK,Oklahoma,Cotton
+40035,0,0,0,0,0,0,1,0,OK,Oklahoma,Craig
+40037,0,2,1,1,2,0,4,0,OK,Oklahoma,Creek
+40039,0,0,1,2,0,0,0,0,OK,Oklahoma,Custer
+40041,0,0,0,0,3,1,3,0,OK,Oklahoma,Delaware
+40043,0,0,0,0,0,0,0,1,OK,Oklahoma,Dewey
+40045,0,0,0,1,0,0,0,0,OK,Oklahoma,Ellis
+40047,0,0,1,2,1,0,1,0,OK,Oklahoma,Garfield
+40049,0,0,0,0,0,0,0,0,OK,Oklahoma,Garvin
+40051,0,1,2,1,2,1,0,2,OK,Oklahoma,Grady
+40053,0,1,0,0,0,0,0,0,OK,Oklahoma,Grant
+40055,0,0,0,0,0,0,0,0,OK,Oklahoma,Greer
+40057,0,0,0,2,0,0,0,0,OK,Oklahoma,Harmon
+40059,0,0,0,0,0,0,0,0,OK,Oklahoma,Harper
+40061,0,0,1,0,0,0,0,0,OK,Oklahoma,Haskell
+40063,0,1,1,0,1,0,0,0,OK,Oklahoma,Hughes
+40065,1,1,0,0,0,0,0,0,OK,Oklahoma,Jackson
+40067,0,0,0,0,0,0,0,0,OK,Oklahoma,Jefferson
+40069,0,0,0,3,1,0,1,0,OK,Oklahoma,Johnston
+40071,0,0,3,0,2,1,0,0,OK,Oklahoma,Kay
+40073,0,1,0,0,1,0,0,0,OK,Oklahoma,Kingfisher
+40075,0,0,0,0,0,0,0,0,OK,Oklahoma,Kiowa
+40077,0,0,0,0,0,0,0,0,OK,Oklahoma,Latimer
+40079,1,2,1,0,1,1,2,1,OK,Oklahoma,Le Flore
+40081,0,0,1,0,0,1,0,0,OK,Oklahoma,Lincoln
+40083,0,1,0,1,2,0,0,0,OK,Oklahoma,Logan
+40085,0,1,0,1,0,0,0,0,OK,Oklahoma,Love
+40087,1,0,1,2,0,1,0,0,OK,Oklahoma,McClain
+40089,0,1,1,3,0,0,0,2,OK,Oklahoma,McCurtain
+40091,1,0,1,0,0,0,0,0,OK,Oklahoma,McIntosh
+40093,0,0,0,1,0,0,0,0,OK,Oklahoma,Major
+40095,0,0,0,0,0,0,0,1,OK,Oklahoma,Marshall
+40097,1,2,1,0,0,0,0,0,OK,Oklahoma,Mayes
+40099,0,1,0,0,0,0,0,1,OK,Oklahoma,Murray
+40101,0,2,1,1,1,4,3,6,OK,Oklahoma,Muskogee
+40103,0,1,0,0,1,0,0,0,OK,Oklahoma,Noble
+40105,1,0,0,0,0,0,0,0,OK,Oklahoma,Nowata
+40107,0,0,1,0,0,0,0,0,OK,Oklahoma,Okfuskee
+40109,14,19,10,14,13,19,19,19,OK,Oklahoma,Oklahoma
+40111,3,1,1,2,2,1,0,0,OK,Oklahoma,Okmulgee
+40113,0,1,0,2,1,0,1,0,OK,Oklahoma,Osage
+40115,0,1,1,1,0,1,0,0,OK,Oklahoma,Ottawa
+40117,0,0,0,0,0,1,1,0,OK,Oklahoma,Pawnee
+40119,0,2,0,0,2,2,0,0,OK,Oklahoma,Payne
+40121,0,2,0,2,0,2,1,0,OK,Oklahoma,Pittsburg
+40123,1,1,2,0,0,4,5,0,OK,Oklahoma,Pontotoc
+40125,0,1,0,1,3,0,0,1,OK,Oklahoma,Pottawatomie
+40127,0,0,1,0,0,0,0,2,OK,Oklahoma,Pushmataha
+40129,0,0,0,0,0,0,0,0,OK,Oklahoma,Roger Mills
+40131,0,0,2,1,2,1,3,0,OK,Oklahoma,Rogers
+40133,1,0,1,1,1,0,0,0,OK,Oklahoma,Seminole
+40135,0,0,0,4,2,1,1,0,OK,Oklahoma,Sequoyah
+40137,0,0,0,0,0,0,1,2,OK,Oklahoma,Stephens
+40139,0,0,0,1,0,0,0,0,OK,Oklahoma,Texas
+40141,0,0,0,0,0,0,0,1,OK,Oklahoma,Tillman
+40143,17,9,13,12,12,15,13,17,OK,Oklahoma,Tulsa
+40145,1,0,1,1,3,2,0,1,OK,Oklahoma,Wagoner
+40147,1,0,1,1,1,2,1,0,OK,Oklahoma,Washington
+40149,1,0,1,0,0,1,0,0,OK,Oklahoma,Washita
+40151,0,0,0,0,0,0,0,0,OK,Oklahoma,Woods
+40153,0,0,0,2,1,0,0,0,OK,Oklahoma,Woodward
+41001,0,0,0,0,0,0,0,0,OR,Oregon,Baker
+41003,0,0,0,0,1,0,0,1,OR,Oregon,Benton
+41005,2,4,4,2,1,2,6,5,OR,Oregon,Clackamas
+41007,0,1,1,0,1,0,1,0,OR,Oregon,Clatsop
+41009,1,1,0,0,0,2,0,0,OR,Oregon,Columbia
+41011,0,0,0,0,2,0,0,3,OR,Oregon,Coos
+41013,0,0,0,0,0,0,1,0,OR,Oregon,Crook
+41015,0,0,0,1,0,0,0,0,OR,Oregon,Curry
+41017,2,0,2,0,3,2,2,0,OR,Oregon,Deschutes
+41019,2,0,1,0,0,1,0,2,OR,Oregon,Douglas
+41021,0,0,0,0,0,0,0,0,OR,Oregon,Gilliam
+41023,0,0,0,0,0,0,0,0,OR,Oregon,Grant
+41025,0,0,1,0,0,0,0,0,OR,Oregon,Harney
+41027,0,0,0,0,1,0,0,1,OR,Oregon,Hood River
+41029,2,2,2,0,5,2,1,5,OR,Oregon,Jackson
+41031,0,0,0,2,0,0,1,1,OR,Oregon,Jefferson
+41033,1,2,1,2,1,1,4,1,OR,Oregon,Josephine
+41035,1,1,0,2,2,1,2,0,OR,Oregon,Klamath
+41037,1,0,0,0,0,0,1,1,OR,Oregon,Lake
+41039,0,2,1,6,4,7,7,4,OR,Oregon,Lane
+41041,1,1,0,0,0,0,2,1,OR,Oregon,Lincoln
+41043,0,1,0,0,0,1,0,1,OR,Oregon,Linn
+41045,1,0,0,2,1,1,0,2,OR,Oregon,Malheur
+41047,2,4,4,3,5,1,8,4,OR,Oregon,Marion
+41049,0,0,0,1,0,0,0,0,OR,Oregon,Morrow
+41051,5,5,6,7,12,8,8,14,OR,Oregon,Multnomah
+41053,0,0,2,1,0,1,0,2,OR,Oregon,Polk
+41055,0,0,0,0,0,0,0,0,OR,Oregon,Sherman
+41057,0,0,0,0,0,1,0,0,OR,Oregon,Tillamook
+41059,1,0,1,1,0,0,1,0,OR,Oregon,Umatilla
+41061,0,0,0,0,0,0,0,0,OR,Oregon,Union
+41063,0,0,0,0,0,0,0,0,OR,Oregon,Wallowa
+41065,0,0,0,0,0,1,0,0,OR,Oregon,Wasco
+41067,1,3,4,4,4,5,5,2,OR,Oregon,Washington
+41069,0,0,0,0,0,0,0,0,OR,Oregon,Wheeler
+41071,1,1,1,0,1,0,0,0,OR,Oregon,Yamhill
+42001,0,1,0,0,0,1,0,1,PA,Pennsylvania,Adams
+42003,7,12,10,6,13,9,7,8,PA,Pennsylvania,Allegheny
+42005,0,0,0,0,1,0,0,0,PA,Pennsylvania,Armstrong
+42007,0,1,2,0,0,1,1,0,PA,Pennsylvania,Beaver
+42009,0,0,0,0,0,0,2,1,PA,Pennsylvania,Bedford
+42011,0,3,2,3,1,3,1,4,PA,Pennsylvania,Berks
+42013,0,0,0,0,0,1,1,2,PA,Pennsylvania,Blair
+42015,0,1,0,0,0,0,0,0,PA,Pennsylvania,Bradford
+42017,0,1,0,2,3,2,2,2,PA,Pennsylvania,Bucks
+42019,1,1,0,2,2,0,1,1,PA,Pennsylvania,Butler
+42021,0,0,1,2,1,0,0,0,PA,Pennsylvania,Cambria
+42023,0,0,0,0,0,0,0,0,PA,Pennsylvania,Cameron
+42025,1,0,0,0,1,0,1,0,PA,Pennsylvania,Carbon
+42027,0,0,0,0,0,1,0,1,PA,Pennsylvania,Centre
+42029,0,1,1,0,2,0,0,1,PA,Pennsylvania,Chester
+42031,0,0,1,0,0,0,0,0,PA,Pennsylvania,Clarion
+42033,0,0,0,0,0,0,1,0,PA,Pennsylvania,Clearfield
+42035,0,0,0,0,0,0,0,1,PA,Pennsylvania,Clinton
+42037,1,1,1,0,0,1,0,0,PA,Pennsylvania,Columbia
+42039,0,0,0,1,0,3,0,1,PA,Pennsylvania,Crawford
+42041,1,0,0,2,0,0,0,0,PA,Pennsylvania,Cumberland
+42043,3,1,1,2,3,1,2,3,PA,Pennsylvania,Dauphin
+42045,5,7,4,3,4,4,1,3,PA,Pennsylvania,Delaware
+42047,0,0,0,0,0,0,0,0,PA,Pennsylvania,Elk
+42049,1,3,0,3,3,1,1,1,PA,Pennsylvania,Erie
+42051,1,4,1,2,2,0,1,1,PA,Pennsylvania,Fayette
+42053,0,0,0,0,0,0,0,0,PA,Pennsylvania,Forest
+42055,1,2,2,0,0,0,0,0,PA,Pennsylvania,Franklin
+42057,0,0,1,0,0,0,0,0,PA,Pennsylvania,Fulton
+42059,0,0,0,1,0,0,0,1,PA,Pennsylvania,Greene
+42061,0,0,1,0,0,0,0,0,PA,Pennsylvania,Huntingdon
+42063,1,1,0,0,0,0,0,0,PA,Pennsylvania,Indiana
+42065,0,0,0,0,0,0,0,1,PA,Pennsylvania,Jefferson
+42067,0,1,0,0,0,0,0,0,PA,Pennsylvania,Juniata
+42069,1,0,1,2,0,0,0,0,PA,Pennsylvania,Lackawanna
+42071,1,4,2,4,4,2,5,3,PA,Pennsylvania,Lancaster
+42073,0,1,1,1,2,0,0,4,PA,Pennsylvania,Lawrence
+42075,0,1,0,1,1,0,1,1,PA,Pennsylvania,Lebanon
+42077,1,1,1,4,3,3,2,3,PA,Pennsylvania,Lehigh
+42079,0,3,0,2,1,2,5,1,PA,Pennsylvania,Luzerne
+42081,0,0,0,1,2,0,0,2,PA,Pennsylvania,Lycoming
+42083,0,0,0,0,1,0,0,0,PA,Pennsylvania,McKean
+42085,0,0,0,1,1,1,0,0,PA,Pennsylvania,Mercer
+42087,0,0,0,1,0,0,0,0,PA,Pennsylvania,Mifflin
+42089,0,2,0,1,1,3,5,2,PA,Pennsylvania,Monroe
+42091,3,2,1,3,3,1,1,3,PA,Pennsylvania,Montgomery
+42093,0,0,0,0,0,0,0,0,PA,Pennsylvania,Montour
+42095,1,1,1,2,1,0,0,2,PA,Pennsylvania,Northampton
+42097,1,0,0,1,1,0,1,1,PA,Pennsylvania,Northumberland
+42099,1,0,1,0,0,0,0,0,PA,Pennsylvania,Perry
+42101,22,19,22,16,16,17,27,16,PA,Pennsylvania,Philadelphia
+42103,0,0,0,0,0,1,0,0,PA,Pennsylvania,Pike
+42105,0,0,0,0,0,0,0,0,PA,Pennsylvania,Potter
+42107,2,1,0,1,0,1,2,1,PA,Pennsylvania,Schuylkill
+42109,0,1,0,0,0,0,0,0,PA,Pennsylvania,Snyder
+42111,0,1,0,1,0,0,0,0,PA,Pennsylvania,Somerset
+42113,0,0,0,0,0,0,1,0,PA,Pennsylvania,Sullivan
+42115,0,0,0,0,1,0,1,0,PA,Pennsylvania,Susquehanna
+42117,0,0,0,0,0,1,1,1,PA,Pennsylvania,Tioga
+42119,0,0,0,0,0,0,0,0,PA,Pennsylvania,Union
+42121,0,0,0,1,0,0,0,0,PA,Pennsylvania,Venango
+42123,0,0,0,1,0,0,0,0,PA,Pennsylvania,Warren
+42125,0,1,1,1,1,1,0,0,PA,Pennsylvania,Washington
+42127,0,2,0,0,1,0,0,0,PA,Pennsylvania,Wayne
+42129,2,1,3,1,3,1,1,0,PA,Pennsylvania,Westmoreland
+42131,0,0,0,0,0,0,0,0,PA,Pennsylvania,Wyoming
+42133,5,7,5,3,7,3,1,1,PA,Pennsylvania,York
+44001,0,0,0,0,0,0,0,2,RI,Rhode Island,Bristol
+44003,0,0,0,0,0,1,0,2,RI,Rhode Island,Kent
+44005,0,0,1,0,1,0,0,0,RI,Rhode Island,Newport
+44007,4,1,2,4,7,2,2,1,RI,Rhode Island,Providence
+44009,0,0,0,0,0,0,1,0,RI,Rhode Island,Washington
+45001,0,0,0,0,0,0,1,1,SC,South Carolina,Abbeville
+45003,2,1,2,3,1,1,2,4,SC,South Carolina,Aiken
+45005,0,0,1,1,0,0,0,0,SC,South Carolina,Allendale
+45007,4,2,5,3,4,4,6,5,SC,South Carolina,Anderson
+45009,0,0,0,0,0,0,0,0,SC,South Carolina,Bamberg
+45011,0,0,0,0,0,0,1,2,SC,South Carolina,Barnwell
+45013,0,2,2,2,0,3,2,0,SC,South Carolina,Beaufort
+45015,1,2,2,0,3,1,4,1,SC,South Carolina,Berkeley
+45017,0,0,0,0,0,0,0,1,SC,South Carolina,Calhoun
+45019,4,7,3,5,5,4,3,5,SC,South Carolina,Charleston
+45021,1,2,0,0,1,0,0,2,SC,South Carolina,Cherokee
+45023,0,0,0,0,1,1,0,0,SC,South Carolina,Chester
+45025,1,1,1,0,0,0,0,0,SC,South Carolina,Chesterfield
+45027,0,0,0,0,0,0,0,0,SC,South Carolina,Clarendon
+45029,0,1,0,0,0,1,0,0,SC,South Carolina,Colleton
+45031,3,1,0,1,2,2,1,0,SC,South Carolina,Darlington
+45033,0,0,1,1,0,0,0,0,SC,South Carolina,Dillon
+45035,1,1,0,2,2,1,1,2,SC,South Carolina,Dorchester
+45037,0,0,0,0,1,1,0,0,SC,South Carolina,Edgefield
+45039,0,0,0,0,0,0,0,0,SC,South Carolina,Fairfield
+45041,3,1,1,0,5,1,3,3,SC,South Carolina,Florence
+45043,1,0,0,0,0,1,0,0,SC,South Carolina,Georgetown
+45045,6,7,5,5,4,8,4,7,SC,South Carolina,Greenville
+45047,0,0,0,0,0,0,1,1,SC,South Carolina,Greenwood
+45049,0,1,0,0,0,0,0,0,SC,South Carolina,Hampton
+45051,3,4,3,3,0,2,6,3,SC,South Carolina,Horry
+45053,0,0,1,2,1,0,0,1,SC,South Carolina,Jasper
+45055,1,0,0,0,1,1,0,0,SC,South Carolina,Kershaw
+45057,1,1,0,0,0,0,2,4,SC,South Carolina,Lancaster
+45059,0,0,0,3,0,2,1,2,SC,South Carolina,Laurens
+45061,0,1,0,0,0,0,0,0,SC,South Carolina,Lee
+45063,0,4,2,7,8,4,3,2,SC,South Carolina,Lexington
+45065,0,0,0,1,0,0,0,0,SC,South Carolina,McCormick
+45067,0,0,0,1,0,1,0,3,SC,South Carolina,Marion
+45069,0,0,0,0,0,0,0,1,SC,South Carolina,Marlboro
+45071,0,0,0,2,0,0,1,2,SC,South Carolina,Newberry
+45073,0,1,0,1,0,1,0,1,SC,South Carolina,Oconee
+45075,0,0,2,0,1,1,1,1,SC,South Carolina,Orangeburg
+45077,0,0,1,2,1,1,0,3,SC,South Carolina,Pickens
+45079,3,1,3,3,2,2,5,2,SC,South Carolina,Richland
+45081,0,0,0,0,0,0,0,0,SC,South Carolina,Saluda
+45083,1,4,1,3,10,6,3,10,SC,South Carolina,Spartanburg
+45085,0,0,1,1,0,0,1,1,SC,South Carolina,Sumter
+45087,0,0,0,0,0,2,0,0,SC,South Carolina,Union
+45089,1,0,0,0,0,0,0,0,SC,South Carolina,Williamsburg
+45091,4,2,2,2,1,6,2,0,SC,South Carolina,York
+46003,0,0,0,0,0,1,0,0,SD,South Dakota,Aurora
+46005,0,0,0,0,0,0,0,0,SD,South Dakota,Beadle
+46007,0,0,0,0,0,0,0,0,SD,South Dakota,Bennett
+46009,0,0,0,0,0,0,0,0,SD,South Dakota,Bon Homme
+46011,0,0,0,0,0,0,0,0,SD,South Dakota,Brookings
+46013,0,0,1,0,0,0,0,0,SD,South Dakota,Brown
+46015,0,0,0,0,0,0,0,0,SD,South Dakota,Brule
+46017,0,0,0,0,0,0,0,0,SD,South Dakota,Buffalo
+46019,0,0,0,0,0,0,0,0,SD,South Dakota,Butte
+46021,0,0,0,0,0,0,0,0,SD,South Dakota,Campbell
+46023,1,0,0,0,0,0,0,0,SD,South Dakota,Charles Mix
+46025,0,0,0,0,0,0,0,0,SD,South Dakota,Clark
+46027,0,0,0,0,0,0,0,0,SD,South Dakota,Clay
+46029,0,0,0,0,0,0,0,0,SD,South Dakota,Codington
+46031,0,0,0,0,0,0,0,0,SD,South Dakota,Corson
+46033,0,0,0,0,0,1,2,1,SD,South Dakota,Custer
+46035,1,1,0,0,0,0,0,0,SD,South Dakota,Davison
+46037,0,0,0,0,0,0,1,0,SD,South Dakota,Day
+46039,0,0,0,0,0,0,0,0,SD,South Dakota,Deuel
+46041,0,0,0,0,0,0,0,0,SD,South Dakota,Dewey
+46043,0,0,0,0,0,0,0,0,SD,South Dakota,Douglas
+46045,0,0,0,0,0,0,0,0,SD,South Dakota,Edmunds
+46047,0,0,1,0,0,0,0,0,SD,South Dakota,Fall River
+46049,0,0,0,0,0,0,0,0,SD,South Dakota,Faulk
+46051,0,0,0,0,0,0,0,0,SD,South Dakota,Grant
+46053,0,1,0,0,0,0,0,0,SD,South Dakota,Gregory
+46055,0,0,0,0,0,0,0,0,SD,South Dakota,Haakon
+46057,0,0,1,0,0,0,0,0,SD,South Dakota,Hamlin
+46059,0,0,0,0,0,0,0,0,SD,South Dakota,Hand
+46061,0,0,0,0,0,0,0,0,SD,South Dakota,Hanson
+46063,0,0,0,0,0,0,0,0,SD,South Dakota,Harding
+46065,0,0,0,0,0,0,0,0,SD,South Dakota,Hughes
+46067,0,0,0,0,0,0,0,0,SD,South Dakota,Hutchinson
+46069,0,0,0,0,0,0,0,0,SD,South Dakota,Hyde
+46071,0,0,0,0,0,0,0,0,SD,South Dakota,Jackson
+46073,0,0,0,0,0,0,0,0,SD,South Dakota,Jerauld
+46075,0,0,0,0,0,0,0,0,SD,South Dakota,Jones
+46077,0,0,0,0,0,0,0,0,SD,South Dakota,Kingsbury
+46079,0,0,0,1,0,0,1,0,SD,South Dakota,Lake
+46081,0,1,0,0,0,1,0,0,SD,South Dakota,Lawrence
+46083,0,0,0,1,0,0,0,0,SD,South Dakota,Lincoln
+46085,0,0,0,1,0,0,0,0,SD,South Dakota,Lyman
+46087,0,1,0,0,0,0,0,0,SD,South Dakota,McCook
+46089,0,0,0,0,0,0,0,0,SD,South Dakota,McPherson
+46091,0,0,0,0,0,0,0,0,SD,South Dakota,Marshall
+46093,0,0,0,1,0,0,0,0,SD,South Dakota,Meade
+46095,0,0,0,0,0,0,0,0,SD,South Dakota,Mellette
+46097,0,0,0,0,0,0,0,0,SD,South Dakota,Miner
+46099,0,1,1,1,1,2,1,2,SD,South Dakota,Minnehaha
+46101,0,0,0,0,0,0,0,0,SD,South Dakota,Moody
+46102,0,0,2,2,0,0,0,1,SD,South Dakota,Oglala Lakota
+46103,2,4,2,4,3,2,5,1,SD,South Dakota,Pennington
+46105,0,0,0,0,0,0,0,0,SD,South Dakota,Perkins
+46107,0,0,0,0,0,0,0,0,SD,South Dakota,Potter
+46109,0,0,0,0,0,0,0,0,SD,South Dakota,Roberts
+46111,0,0,0,0,0,0,0,0,SD,South Dakota,Sanborn
+46115,0,0,0,0,0,0,0,0,SD,South Dakota,Spink
+46117,0,0,0,0,0,0,0,0,SD,South Dakota,Stanley
+46119,0,0,0,0,0,0,0,0,SD,South Dakota,Sully
+46121,0,0,2,0,1,1,0,0,SD,South Dakota,Todd
+46123,0,0,0,0,0,0,0,0,SD,South Dakota,Tripp
+46125,0,0,0,0,0,0,0,0,SD,South Dakota,Turner
+46127,0,1,0,0,1,0,0,0,SD,South Dakota,Union
+46129,0,0,0,0,0,0,0,0,SD,South Dakota,Walworth
+46135,0,1,0,0,5,0,1,0,SD,South Dakota,Yankton
+46137,0,0,0,0,0,0,0,0,SD,South Dakota,Ziebach
+47001,1,0,0,1,1,1,1,0,TN,Tennessee,Anderson
+47003,0,0,1,0,1,0,1,0,TN,Tennessee,Bedford
+47005,0,0,0,0,0,0,0,0,TN,Tennessee,Benton
+47007,0,0,0,0,0,0,0,1,TN,Tennessee,Bledsoe
+47009,0,1,2,0,2,2,3,2,TN,Tennessee,Blount
+47011,1,1,0,1,0,3,0,7,TN,Tennessee,Bradley
+47013,0,2,0,0,1,1,0,2,TN,Tennessee,Campbell
+47015,0,0,0,0,0,0,1,0,TN,Tennessee,Cannon
+47017,0,1,0,0,0,0,0,0,TN,Tennessee,Carroll
+47019,0,2,1,1,0,2,1,0,TN,Tennessee,Carter
+47021,0,0,0,1,0,3,4,0,TN,Tennessee,Cheatham
+47023,0,0,0,0,1,0,0,0,TN,Tennessee,Chester
+47025,0,0,0,0,0,1,0,0,TN,Tennessee,Claiborne
+47027,0,0,0,0,0,0,0,0,TN,Tennessee,Clay
+47029,0,0,0,2,2,0,0,0,TN,Tennessee,Cocke
+47031,0,2,0,2,2,0,4,0,TN,Tennessee,Coffee
+47033,0,0,1,1,0,1,0,0,TN,Tennessee,Crockett
+47035,0,0,0,0,0,0,1,2,TN,Tennessee,Cumberland
+47037,3,7,8,6,6,4,6,18,TN,Tennessee,Davidson
+47039,0,0,1,0,0,1,0,0,TN,Tennessee,Decatur
+47041,0,0,0,0,0,0,1,0,TN,Tennessee,DeKalb
+47043,0,2,0,0,3,0,0,0,TN,Tennessee,Dickson
+47045,0,1,0,0,0,1,4,0,TN,Tennessee,Dyer
+47047,0,1,0,1,1,0,2,0,TN,Tennessee,Fayette
+47049,0,0,0,0,0,0,1,0,TN,Tennessee,Fentress
+47051,1,0,1,1,1,0,4,0,TN,Tennessee,Franklin
+47053,1,3,1,1,1,0,0,0,TN,Tennessee,Gibson
+47055,0,0,0,0,1,0,0,0,TN,Tennessee,Giles
+47057,1,0,0,0,0,0,0,2,TN,Tennessee,Grainger
+47059,1,1,1,0,1,3,2,1,TN,Tennessee,Greene
+47061,0,0,0,1,0,0,0,0,TN,Tennessee,Grundy
+47063,0,1,0,1,2,2,1,0,TN,Tennessee,Hamblen
+47065,2,3,4,9,6,10,7,4,TN,Tennessee,Hamilton
+47067,0,0,0,0,0,0,1,0,TN,Tennessee,Hancock
+47069,0,0,1,0,0,0,0,2,TN,Tennessee,Hardeman
+47071,0,0,1,0,0,0,0,0,TN,Tennessee,Hardin
+47073,0,0,0,0,2,1,2,1,TN,Tennessee,Hawkins
+47075,0,1,0,0,0,0,0,0,TN,Tennessee,Haywood
+47077,0,0,0,2,0,0,0,0,TN,Tennessee,Henderson
+47079,0,1,0,0,0,0,0,0,TN,Tennessee,Henry
+47081,1,0,1,1,0,0,1,0,TN,Tennessee,Hickman
+47083,0,0,0,0,0,0,0,0,TN,Tennessee,Houston
+47085,0,1,0,1,0,0,1,2,TN,Tennessee,Humphreys
+47087,0,0,0,0,0,1,0,0,TN,Tennessee,Jackson
+47089,0,0,1,0,0,0,0,0,TN,Tennessee,Jefferson
+47091,0,0,0,0,0,0,0,0,TN,Tennessee,Johnson
+47093,9,2,3,4,3,6,7,6,TN,Tennessee,Knox
+47095,0,0,0,0,0,0,0,0,TN,Tennessee,Lake
+47097,0,0,1,1,0,0,1,1,TN,Tennessee,Lauderdale
+47099,0,0,0,1,3,0,0,0,TN,Tennessee,Lawrence
+47101,0,1,0,1,0,0,0,0,TN,Tennessee,Lewis
+47103,0,0,0,0,0,0,0,2,TN,Tennessee,Lincoln
+47105,1,0,2,0,1,0,1,2,TN,Tennessee,Loudon
+47107,0,0,0,0,0,2,1,0,TN,Tennessee,McMinn
+47109,0,0,0,0,0,1,2,0,TN,Tennessee,McNairy
+47111,0,0,0,0,0,0,0,1,TN,Tennessee,Macon
+47113,2,0,2,4,1,2,0,1,TN,Tennessee,Madison
+47115,1,0,1,0,2,2,1,1,TN,Tennessee,Marion
+47117,0,0,0,1,0,0,0,0,TN,Tennessee,Marshall
+47119,0,2,2,2,0,0,1,1,TN,Tennessee,Maury
+47121,0,0,0,0,1,0,0,0,TN,Tennessee,Meigs
+47123,0,0,1,0,0,0,1,0,TN,Tennessee,Monroe
+47125,0,0,0,0,3,2,1,3,TN,Tennessee,Montgomery
+47127,0,0,0,0,0,0,0,0,TN,Tennessee,Moore
+47129,1,1,0,0,0,0,0,1,TN,Tennessee,Morgan
+47131,0,0,0,0,0,1,0,0,TN,Tennessee,Obion
+47133,0,1,0,1,0,0,0,1,TN,Tennessee,Overton
+47135,0,0,0,0,0,0,0,0,TN,Tennessee,Perry
+47137,0,0,0,0,0,0,0,0,TN,Tennessee,Pickett
+47139,0,0,0,0,0,0,0,0,TN,Tennessee,Polk
+47141,0,1,0,1,0,0,0,3,TN,Tennessee,Putnam
+47143,1,0,0,0,0,0,0,0,TN,Tennessee,Rhea
+47145,1,2,1,2,0,0,1,0,TN,Tennessee,Roane
+47147,0,1,0,1,2,0,0,1,TN,Tennessee,Robertson
+47149,1,1,2,1,3,4,3,3,TN,Tennessee,Rutherford
+47151,0,0,2,1,0,0,0,0,TN,Tennessee,Scott
+47153,1,0,0,0,0,0,0,0,TN,Tennessee,Sequatchie
+47155,2,0,1,1,0,4,1,1,TN,Tennessee,Sevier
+47157,9,8,12,4,14,17,7,11,TN,Tennessee,Shelby
+47159,0,0,0,1,1,1,0,0,TN,Tennessee,Smith
+47161,0,0,0,0,0,0,0,0,TN,Tennessee,Stewart
+47163,3,0,2,2,1,5,0,5,TN,Tennessee,Sullivan
+47165,3,2,1,2,2,1,2,0,TN,Tennessee,Sumner
+47167,1,0,1,0,0,0,0,0,TN,Tennessee,Tipton
+47169,0,0,0,0,0,0,0,0,TN,Tennessee,Trousdale
+47171,0,0,0,0,0,0,0,0,TN,Tennessee,Unicoi
+47173,0,0,0,0,0,0,0,0,TN,Tennessee,Union
+47175,0,0,0,0,0,0,0,0,TN,Tennessee,Van Buren
+47177,0,0,0,1,1,0,0,0,TN,Tennessee,Warren
+47179,0,0,3,2,1,0,3,2,TN,Tennessee,Washington
+47181,0,1,0,0,0,0,0,0,TN,Tennessee,Wayne
+47183,0,0,0,1,0,0,1,0,TN,Tennessee,Weakley
+47185,0,0,1,1,1,0,0,2,TN,Tennessee,White
+47187,0,0,0,2,0,1,2,0,TN,Tennessee,Williamson
+47189,0,0,0,1,0,0,1,3,TN,Tennessee,Wilson
+48001,0,2,0,0,1,1,0,1,TX,Texas,Anderson
+48003,0,0,1,0,0,0,0,0,TX,Texas,Andrews
+48005,0,0,0,3,1,0,0,8,TX,Texas,Angelina
+48007,0,1,0,0,0,0,0,0,TX,Texas,Aransas
+48009,0,0,0,0,0,0,0,0,TX,Texas,Archer
+48011,1,0,0,0,0,0,0,0,TX,Texas,Armstrong
+48013,0,1,1,0,0,1,0,1,TX,Texas,Atascosa
+48015,1,0,1,0,0,0,0,0,TX,Texas,Austin
+48017,0,0,0,0,0,0,0,0,TX,Texas,Bailey
+48019,0,0,1,1,0,0,0,0,TX,Texas,Bandera
+48021,1,0,0,0,0,0,0,0,TX,Texas,Bastrop
+48023,0,0,0,0,0,0,0,1,TX,Texas,Baylor
+48025,1,0,0,1,0,0,1,0,TX,Texas,Bee
+48027,6,1,7,6,6,2,6,5,TX,Texas,Bell
+48029,17,18,28,19,26,28,33,34,TX,Texas,Bexar
+48031,0,0,1,0,0,0,0,0,TX,Texas,Blanco
+48033,0,0,0,0,0,0,0,0,TX,Texas,Borden
+48035,0,0,0,0,0,0,0,0,TX,Texas,Bosque
+48037,2,0,0,1,1,0,1,1,TX,Texas,Bowie
+48039,1,4,1,3,3,4,2,0,TX,Texas,Brazoria
+48041,0,0,0,2,1,1,2,5,TX,Texas,Brazos
+48043,0,0,1,0,0,0,1,0,TX,Texas,Brewster
+48045,0,0,0,0,0,0,0,0,TX,Texas,Briscoe
+48047,1,0,0,0,0,0,0,0,TX,Texas,Brooks
+48049,0,0,0,0,0,0,0,0,TX,Texas,Brown
+48051,0,0,0,0,0,0,0,2,TX,Texas,Burleson
+48053,0,0,0,1,0,1,0,0,TX,Texas,Burnet
+48055,0,0,1,0,0,0,0,0,TX,Texas,Caldwell
+48057,0,0,0,0,0,0,0,0,TX,Texas,Calhoun
+48059,0,0,0,0,0,0,0,0,TX,Texas,Callahan
+48061,1,1,1,4,2,2,3,1,TX,Texas,Cameron
+48063,0,0,0,0,0,0,0,0,TX,Texas,Camp
+48065,0,1,0,1,0,0,0,0,TX,Texas,Carson
+48067,1,0,0,0,0,0,2,0,TX,Texas,Cass
+48069,0,0,0,0,0,0,0,0,TX,Texas,Castro
+48071,1,1,0,0,0,0,1,1,TX,Texas,Chambers
+48073,0,0,0,1,0,1,0,2,TX,Texas,Cherokee
+48075,0,0,2,0,1,0,0,1,TX,Texas,Childress
+48077,0,0,0,0,0,0,0,1,TX,Texas,Clay
+48079,0,0,0,1,0,1,0,0,TX,Texas,Cochran
+48081,0,0,0,0,0,0,0,0,TX,Texas,Coke
+48083,0,0,0,0,0,0,1,0,TX,Texas,Coleman
+48085,2,2,2,5,2,3,2,8,TX,Texas,Collin
+48087,0,0,0,0,0,0,0,0,TX,Texas,Collingsworth
+48089,0,0,0,0,0,0,0,0,TX,Texas,Colorado
+48091,0,1,1,1,0,2,1,1,TX,Texas,Comal
+48093,0,0,0,0,0,0,0,0,TX,Texas,Comanche
+48095,0,0,0,0,0,0,0,1,TX,Texas,Concho
+48097,0,0,1,0,0,0,0,0,TX,Texas,Cooke
+48099,0,0,2,0,0,0,0,0,TX,Texas,Coryell
+48101,0,0,1,0,0,0,0,0,TX,Texas,Cottle
+48103,0,0,0,0,0,0,0,0,TX,Texas,Crane
+48105,0,0,0,0,0,0,0,0,TX,Texas,Crockett
+48107,1,1,0,0,0,0,0,0,TX,Texas,Crosby
+48109,0,0,1,0,0,0,0,0,TX,Texas,Culberson
+48111,0,0,0,1,0,1,0,0,TX,Texas,Dallam
+48113,28,27,26,16,24,25,34,19,TX,Texas,Dallas
+48115,0,0,0,0,0,0,0,0,TX,Texas,Dawson
+48117,0,0,0,0,1,0,1,0,TX,Texas,Deaf Smith
+48119,0,0,0,0,0,0,0,0,TX,Texas,Delta
+48121,1,4,1,2,1,6,4,10,TX,Texas,Denton
+48123,0,0,0,0,0,0,0,0,TX,Texas,DeWitt
+48125,0,0,0,0,0,0,0,0,TX,Texas,Dickens
+48127,0,1,0,0,5,0,0,0,TX,Texas,Dimmit
+48129,0,0,0,0,0,0,0,0,TX,Texas,Donley
+48131,0,0,0,0,0,0,0,0,TX,Texas,Duval
+48133,1,0,0,2,0,0,0,0,TX,Texas,Eastland
+48135,0,2,4,1,3,5,7,5,TX,Texas,Ector
+48137,0,0,0,0,0,0,0,0,TX,Texas,Edwards
+48139,0,1,2,2,1,0,0,0,TX,Texas,Ellis
+48141,4,5,6,4,5,8,15,9,TX,Texas,El Paso
+48143,0,0,0,0,0,0,0,0,TX,Texas,Erath
+48145,0,0,1,0,0,0,0,0,TX,Texas,Falls
+48147,0,0,0,1,0,1,0,0,TX,Texas,Fannin
+48149,0,0,0,0,1,0,2,1,TX,Texas,Fayette
+48151,0,0,0,0,0,0,0,0,TX,Texas,Fisher
+48153,0,0,0,0,0,0,0,0,TX,Texas,Floyd
+48155,0,0,0,1,0,0,0,0,TX,Texas,Foard
+48157,3,4,4,1,4,6,3,3,TX,Texas,Fort Bend
+48159,0,0,0,0,0,0,0,0,TX,Texas,Franklin
+48161,0,0,0,0,0,3,0,0,TX,Texas,Freestone
+48163,0,1,0,0,1,0,0,0,TX,Texas,Frio
+48165,0,0,0,0,0,2,0,0,TX,Texas,Gaines
+48167,9,1,2,4,7,6,10,2,TX,Texas,Galveston
+48169,0,0,0,0,0,0,0,0,TX,Texas,Garza
+48171,0,0,1,0,0,0,0,0,TX,Texas,Gillespie
+48173,0,0,0,0,0,0,0,0,TX,Texas,Glasscock
+48175,0,0,0,0,0,0,0,0,TX,Texas,Goliad
+48177,0,0,0,1,0,0,0,0,TX,Texas,Gonzales
+48179,1,1,0,0,0,0,0,0,TX,Texas,Gray
+48181,0,0,0,1,0,0,2,1,TX,Texas,Grayson
+48183,4,7,1,1,3,3,2,0,TX,Texas,Gregg
+48185,0,0,0,0,0,0,1,0,TX,Texas,Grimes
+48187,2,0,2,1,0,3,2,2,TX,Texas,Guadalupe
+48189,0,0,0,0,0,1,0,0,TX,Texas,Hale
+48191,0,0,0,0,0,0,0,0,TX,Texas,Hall
+48193,0,0,0,0,0,0,0,0,TX,Texas,Hamilton
+48195,0,0,0,0,0,0,0,0,TX,Texas,Hansford
+48197,0,0,0,0,0,1,0,0,TX,Texas,Hardeman
+48199,0,0,0,0,1,2,0,0,TX,Texas,Hardin
+48201,51,57,52,41,62,54,67,75,TX,Texas,Harris
+48203,1,0,0,0,1,1,0,0,TX,Texas,Harrison
+48205,1,0,0,0,0,0,0,0,TX,Texas,Hartley
+48207,0,0,0,1,0,0,0,0,TX,Texas,Haskell
+48209,3,0,0,2,0,1,4,1,TX,Texas,Hays
+48211,0,0,0,0,0,0,0,0,TX,Texas,Hemphill
+48213,0,2,1,0,0,1,0,0,TX,Texas,Henderson
+48215,6,2,5,8,0,5,12,6,TX,Texas,Hidalgo
+48217,0,1,0,1,0,0,0,1,TX,Texas,Hill
+48219,1,2,0,0,0,0,1,1,TX,Texas,Hockley
+48221,0,0,0,0,0,0,0,0,TX,Texas,Hood
+48223,0,0,0,0,0,1,0,0,TX,Texas,Hopkins
+48225,0,0,0,0,0,0,0,0,TX,Texas,Houston
+48227,0,0,1,0,1,0,0,0,TX,Texas,Howard
+48229,0,1,0,0,0,0,0,1,TX,Texas,Hudspeth
+48231,1,0,2,1,2,0,2,0,TX,Texas,Hunt
+48233,0,0,0,1,0,0,0,0,TX,Texas,Hutchinson
+48235,0,0,0,0,0,0,0,0,TX,Texas,Irion
+48237,0,0,0,0,0,0,0,0,TX,Texas,Jack
+48239,0,6,0,0,0,0,1,0,TX,Texas,Jackson
+48241,0,0,0,0,0,0,1,0,TX,Texas,Jasper
+48243,0,0,0,0,0,0,0,0,TX,Texas,Jeff Davis
+48245,3,1,5,0,3,3,7,3,TX,Texas,Jefferson
+48247,0,0,0,0,0,0,0,0,TX,Texas,Jim Hogg
+48249,0,0,0,0,2,0,0,0,TX,Texas,Jim Wells
+48251,2,0,2,2,1,1,0,3,TX,Texas,Johnson
+48253,1,0,0,1,0,0,0,0,TX,Texas,Jones
+48255,0,0,0,0,0,0,0,0,TX,Texas,Karnes
+48257,0,4,6,1,0,0,0,0,TX,Texas,Kaufman
+48259,0,1,0,0,0,1,2,1,TX,Texas,Kendall
+48261,0,0,0,0,0,0,0,0,TX,Texas,Kenedy
+48263,0,0,0,0,0,0,0,0,TX,Texas,Kent
+48265,0,1,0,0,0,3,0,0,TX,Texas,Kerr
+48267,0,0,0,0,0,0,0,1,TX,Texas,Kimble
+48269,0,0,0,0,0,0,0,0,TX,Texas,King
+48271,0,0,0,0,0,2,0,0,TX,Texas,Kinney
+48273,2,0,0,0,0,1,0,1,TX,Texas,Kleberg
+48275,0,0,0,0,0,0,1,0,TX,Texas,Knox
+48277,0,1,0,0,1,0,1,2,TX,Texas,Lamar
+48279,0,0,0,1,1,0,0,0,TX,Texas,Lamb
+48281,0,0,0,0,0,0,0,0,TX,Texas,Lampasas
+48283,0,0,0,0,0,0,0,0,TX,Texas,La Salle
+48285,0,1,0,0,0,0,0,0,TX,Texas,Lavaca
+48287,0,0,1,1,0,0,1,0,TX,Texas,Lee
+48289,0,1,0,1,0,0,0,0,TX,Texas,Leon
+48291,0,1,0,0,0,1,1,0,TX,Texas,Liberty
+48293,0,0,0,0,0,0,0,0,TX,Texas,Limestone
+48295,0,0,0,0,0,0,0,0,TX,Texas,Lipscomb
+48297,0,0,0,0,0,0,1,0,TX,Texas,Live Oak
+48299,0,1,1,0,1,0,0,0,TX,Texas,Llano
+48301,0,0,0,0,0,0,0,0,TX,Texas,Loving
+48303,4,3,5,5,3,3,6,3,TX,Texas,Lubbock
+48305,0,1,0,0,0,0,0,0,TX,Texas,Lynn
+48307,0,0,0,0,0,0,0,0,TX,Texas,McCulloch
+48309,2,13,2,2,3,5,5,5,TX,Texas,McLennan
+48311,0,0,0,0,0,0,0,0,TX,Texas,McMullen
+48313,0,0,0,0,0,0,0,0,TX,Texas,Madison
+48315,0,0,0,0,0,0,0,0,TX,Texas,Marion
+48317,0,0,0,0,0,0,0,0,TX,Texas,Martin
+48319,0,0,0,0,0,0,0,0,TX,Texas,Mason
+48321,0,0,0,0,0,0,1,0,TX,Texas,Matagorda
+48323,0,0,0,0,1,0,0,3,TX,Texas,Maverick
+48325,1,0,0,0,1,0,0,0,TX,Texas,Medina
+48327,0,0,0,0,0,0,1,0,TX,Texas,Menard
+48329,6,1,1,0,3,3,4,1,TX,Texas,Midland
+48331,0,0,0,0,0,1,0,0,TX,Texas,Milam
+48333,0,0,0,0,0,0,0,0,TX,Texas,Mills
+48335,0,0,0,0,0,1,0,0,TX,Texas,Mitchell
+48337,0,2,0,0,0,1,0,0,TX,Texas,Montague
+48339,5,1,4,3,6,3,0,2,TX,Texas,Montgomery
+48341,0,0,0,0,1,0,1,0,TX,Texas,Moore
+48343,0,0,0,0,0,0,0,0,TX,Texas,Morris
+48345,0,0,0,0,0,0,0,0,TX,Texas,Motley
+48347,1,1,1,0,0,2,0,0,TX,Texas,Nacogdoches
+48349,0,0,0,0,0,1,0,0,TX,Texas,Navarro
+48351,0,0,0,1,0,0,1,0,TX,Texas,Newton
+48353,1,0,1,0,1,1,0,0,TX,Texas,Nolan
+48355,4,8,3,1,2,13,7,13,TX,Texas,Nueces
+48357,0,0,1,0,0,0,0,0,TX,Texas,Ochiltree
+48359,0,0,0,0,0,0,0,0,TX,Texas,Oldham
+48361,1,0,0,0,0,0,1,1,TX,Texas,Orange
+48363,0,0,0,0,0,0,0,0,TX,Texas,Palo Pinto
+48365,0,0,1,0,0,0,0,0,TX,Texas,Panola
+48367,1,5,3,0,1,0,0,0,TX,Texas,Parker
+48369,0,0,0,0,0,0,0,0,TX,Texas,Parmer
+48371,1,0,0,1,0,0,0,0,TX,Texas,Pecos
+48373,0,1,1,0,0,0,1,0,TX,Texas,Polk
+48375,4,3,2,3,2,2,1,4,TX,Texas,Potter
+48377,0,0,0,0,0,1,1,0,TX,Texas,Presidio
+48379,0,0,0,0,0,0,0,0,TX,Texas,Rains
+48381,0,1,3,0,3,1,0,2,TX,Texas,Randall
+48383,0,0,0,0,0,0,0,0,TX,Texas,Reagan
+48385,0,0,0,0,1,0,1,0,TX,Texas,Real
+48387,0,0,0,0,1,0,0,0,TX,Texas,Red River
+48389,0,0,0,0,0,0,2,0,TX,Texas,Reeves
+48391,0,0,0,0,0,0,1,0,TX,Texas,Refugio
+48393,0,0,0,0,0,0,0,0,TX,Texas,Roberts
+48395,1,0,0,0,0,0,0,0,TX,Texas,Robertson
+48397,0,0,0,2,0,0,2,1,TX,Texas,Rockwall
+48399,0,0,0,0,1,0,1,0,TX,Texas,Runnels
+48401,1,0,0,1,0,0,0,0,TX,Texas,Rusk
+48403,0,0,0,0,0,0,0,0,TX,Texas,Sabine
+48405,0,0,0,0,0,0,0,0,TX,Texas,San Augustine
+48407,0,0,0,1,1,0,0,0,TX,Texas,San Jacinto
+48409,1,0,1,0,2,2,2,4,TX,Texas,San Patricio
+48411,0,0,0,0,0,0,0,0,TX,Texas,San Saba
+48413,0,0,0,0,0,0,0,0,TX,Texas,Schleicher
+48415,0,0,0,0,0,1,0,2,TX,Texas,Scurry
+48417,0,0,0,0,0,0,0,0,TX,Texas,Shackelford
+48419,1,1,0,0,3,0,0,0,TX,Texas,Shelby
+48421,0,0,0,0,1,0,0,0,TX,Texas,Sherman
+48423,0,2,2,1,4,0,1,0,TX,Texas,Smith
+48425,1,0,0,0,0,0,0,0,TX,Texas,Somervell
+48427,0,1,0,0,0,0,0,1,TX,Texas,Starr
+48429,0,0,0,0,0,0,0,0,TX,Texas,Stephens
+48431,0,0,0,0,0,0,0,0,TX,Texas,Sterling
+48433,0,0,0,0,0,0,0,0,TX,Texas,Stonewall
+48435,0,1,0,0,0,0,0,0,TX,Texas,Sutton
+48437,0,0,0,1,0,0,1,0,TX,Texas,Swisher
+48439,12,19,18,18,21,20,10,15,TX,Texas,Tarrant
+48441,0,0,1,1,1,1,2,2,TX,Texas,Taylor
+48443,0,0,0,0,0,1,0,0,TX,Texas,Terrell
+48445,0,0,0,0,0,0,0,0,TX,Texas,Terry
+48447,0,0,0,0,0,0,0,0,TX,Texas,Throckmorton
+48449,0,0,0,0,0,0,0,1,TX,Texas,Titus
+48451,2,0,1,2,1,0,6,3,TX,Texas,Tom Green
+48453,9,13,10,12,16,10,8,10,TX,Texas,Travis
+48455,0,0,1,0,0,0,0,0,TX,Texas,Trinity
+48457,0,0,1,0,0,0,0,1,TX,Texas,Tyler
+48459,0,0,0,1,0,0,1,0,TX,Texas,Upshur
+48461,0,0,0,0,0,0,0,0,TX,Texas,Upton
+48463,0,0,0,0,0,0,0,1,TX,Texas,Uvalde
+48465,0,1,0,1,0,0,0,9,TX,Texas,Val Verde
+48467,0,1,0,0,0,2,1,1,TX,Texas,Van Zandt
+48469,1,1,2,0,1,0,2,3,TX,Texas,Victoria
+48471,0,0,1,0,0,1,0,1,TX,Texas,Walker
+48473,0,1,0,0,2,0,0,0,TX,Texas,Waller
+48475,0,0,0,0,0,1,1,0,TX,Texas,Ward
+48477,0,0,1,0,0,0,0,0,TX,Texas,Washington
+48479,1,3,1,5,9,1,7,3,TX,Texas,Webb
+48481,0,0,0,0,0,0,0,0,TX,Texas,Wharton
+48483,0,0,0,0,0,0,0,0,TX,Texas,Wheeler
+48485,2,0,0,2,0,3,0,5,TX,Texas,Wichita
+48487,0,0,0,0,1,1,0,0,TX,Texas,Wilbarger
+48489,0,0,0,0,0,0,0,1,TX,Texas,Willacy
+48491,0,0,0,1,2,2,5,3,TX,Texas,Williamson
+48493,0,0,2,0,0,0,1,0,TX,Texas,Wilson
+48495,0,1,0,0,0,0,0,0,TX,Texas,Winkler
+48497,0,0,0,0,0,0,0,0,TX,Texas,Wise
+48499,0,0,1,0,0,1,0,2,TX,Texas,Wood
+48501,0,0,0,0,0,0,0,0,TX,Texas,Yoakum
+48503,0,0,0,0,0,0,0,1,TX,Texas,Young
+48505,0,0,0,0,0,0,0,1,TX,Texas,Zapata
+48507,0,0,0,0,0,0,0,4,TX,Texas,Zavala
+49001,0,0,0,0,0,0,0,0,UT,Utah,Beaver
+49003,0,0,0,0,0,0,0,0,UT,Utah,Box Elder
+49005,0,2,1,1,0,0,0,0,UT,Utah,Cache
+49007,1,0,0,0,0,1,0,0,UT,Utah,Carbon
+49009,0,0,0,0,0,0,0,0,UT,Utah,Daggett
+49011,1,2,1,1,2,1,7,3,UT,Utah,Davis
+49013,0,1,0,0,0,1,0,0,UT,Utah,Duchesne
+49015,0,0,0,0,0,1,0,0,UT,Utah,Emery
+49017,0,0,0,0,0,0,0,0,UT,Utah,Garfield
+49019,0,0,0,0,0,0,2,0,UT,Utah,Grand
+49021,0,1,0,1,1,1,0,3,UT,Utah,Iron
+49023,1,0,0,0,0,0,0,0,UT,Utah,Juab
+49025,0,0,0,0,0,0,0,0,UT,Utah,Kane
+49027,1,0,1,0,0,0,1,1,UT,Utah,Millard
+49029,0,0,0,0,0,0,0,0,UT,Utah,Morgan
+49031,0,0,0,0,0,0,0,0,UT,Utah,Piute
+49033,0,0,0,0,0,0,0,0,UT,Utah,Rich
+49035,12,10,13,8,21,7,24,18,UT,Utah,Salt Lake
+49037,0,1,0,0,0,0,0,0,UT,Utah,San Juan
+49039,0,0,1,0,0,1,0,0,UT,Utah,Sanpete
+49041,0,0,0,0,0,0,0,0,UT,Utah,Sevier
+49043,0,0,0,0,0,0,0,0,UT,Utah,Summit
+49045,2,0,0,2,1,0,1,1,UT,Utah,Tooele
+49047,1,1,0,0,0,0,3,0,UT,Utah,Uintah
+49049,7,2,3,3,5,1,2,6,UT,Utah,Utah
+49051,0,0,0,0,0,0,0,1,UT,Utah,Wasatch
+49053,1,0,1,1,0,0,0,2,UT,Utah,Washington
+49055,0,0,0,0,0,0,0,0,UT,Utah,Wayne
+49057,7,1,2,2,3,7,12,5,UT,Utah,Weber
+50001,1,0,0,0,0,1,0,0,VT,Vermont,Addison
+50003,1,0,0,0,1,1,0,0,VT,Vermont,Bennington
+50005,0,0,0,0,0,0,0,0,VT,Vermont,Caledonia
+50007,0,2,2,0,0,2,1,0,VT,Vermont,Chittenden
+50009,0,0,0,0,0,0,0,0,VT,Vermont,Essex
+50011,0,0,0,0,1,0,0,0,VT,Vermont,Franklin
+50013,0,0,0,0,0,0,0,0,VT,Vermont,Grand Isle
+50015,0,0,0,0,0,0,0,0,VT,Vermont,Lamoille
+50017,0,0,0,0,0,1,1,0,VT,Vermont,Orange
+50019,2,0,0,0,0,0,0,0,VT,Vermont,Orleans
+50021,0,0,0,1,0,3,0,2,VT,Vermont,Rutland
+50023,0,1,0,0,2,1,2,0,VT,Vermont,Washington
+50025,1,0,0,0,0,1,0,0,VT,Vermont,Windham
+50027,1,0,0,0,0,1,0,2,VT,Vermont,Windsor
+51001,0,0,1,0,0,0,0,0,VA,Virginia,Accomack
+51003,0,0,0,0,1,1,1,0,VA,Virginia,Albemarle
+51005,0,0,0,0,0,0,0,1,VA,Virginia,Alleghany
+51007,0,0,0,0,0,0,0,0,VA,Virginia,Amelia
+51009,1,0,0,1,1,0,0,1,VA,Virginia,Amherst
+51011,0,0,0,0,0,0,0,0,VA,Virginia,Appomattox
+51013,0,1,0,2,1,0,0,1,VA,Virginia,Arlington
+51015,1,0,0,2,0,0,0,3,VA,Virginia,Augusta
+51017,0,0,0,0,0,0,0,0,VA,Virginia,Bath
+51019,3,0,0,0,0,0,1,1,VA,Virginia,Bedford
+51021,0,0,0,0,0,0,0,0,VA,Virginia,Bland
+51023,0,0,0,0,2,1,1,0,VA,Virginia,Botetourt
+51025,0,0,0,0,0,1,0,0,VA,Virginia,Brunswick
+51027,0,0,1,0,0,0,1,0,VA,Virginia,Buchanan
+51029,0,0,1,0,0,0,0,0,VA,Virginia,Buckingham
+51031,0,1,0,0,0,0,0,0,VA,Virginia,Campbell
+51033,0,1,0,1,0,0,0,1,VA,Virginia,Caroline
+51035,0,1,1,0,0,0,0,0,VA,Virginia,Carroll
+51036,0,0,0,0,0,0,0,0,VA,Virginia,Charles City
+51037,0,0,0,0,0,0,0,0,VA,Virginia,Charlotte
+51041,0,2,3,4,1,0,0,3,VA,Virginia,Chesterfield
+51043,0,0,0,0,0,0,0,0,VA,Virginia,Clarke
+51045,0,0,0,0,0,0,0,0,VA,Virginia,Craig
+51047,0,1,1,2,0,0,1,2,VA,Virginia,Culpeper
+51049,0,0,0,0,0,1,0,0,VA,Virginia,Cumberland
+51051,0,1,0,0,0,0,0,2,VA,Virginia,Dickenson
+51053,0,0,1,1,0,0,0,0,VA,Virginia,Dinwiddie
+51057,0,0,0,0,0,0,0,0,VA,Virginia,Essex
+51059,4,0,4,2,2,1,3,3,VA,Virginia,Fairfax
+51061,3,1,0,0,0,0,0,1,VA,Virginia,Fauquier
+51063,0,0,0,0,0,1,0,0,VA,Virginia,Floyd
+51065,0,0,0,0,0,0,0,0,VA,Virginia,Fluvanna
+51067,1,0,2,0,0,0,0,0,VA,Virginia,Franklin
+51069,0,1,1,0,1,0,1,2,VA,Virginia,Frederick
+51071,1,0,0,1,1,0,0,0,VA,Virginia,Giles
+51073,0,0,0,0,0,0,0,0,VA,Virginia,Gloucester
+51075,0,1,0,0,0,1,0,1,VA,Virginia,Goochland
+51077,0,1,0,1,0,0,0,0,VA,Virginia,Grayson
+51079,0,0,0,0,0,0,0,0,VA,Virginia,Greene
+51081,0,2,0,1,0,0,0,1,VA,Virginia,Greensville
+51083,0,0,1,0,0,0,0,0,VA,Virginia,Halifax
+51085,0,1,0,0,0,0,0,0,VA,Virginia,Hanover
+51087,3,3,0,2,5,1,2,4,VA,Virginia,Henrico
+51089,3,0,0,1,0,0,1,0,VA,Virginia,Henry
+51091,0,0,0,0,0,0,0,0,VA,Virginia,Highland
+51093,1,1,0,2,0,0,0,0,VA,Virginia,Isle of Wight
+51095,0,0,0,0,1,0,0,0,VA,Virginia,James City
+51097,0,0,0,0,1,0,0,0,VA,Virginia,King and Queen
+51099,0,1,0,0,0,0,0,3,VA,Virginia,King George
+51101,0,0,0,0,0,0,0,0,VA,Virginia,King William
+51103,0,0,0,1,0,0,0,0,VA,Virginia,Lancaster
+51105,0,0,0,0,0,0,0,0,VA,Virginia,Lee
+51107,2,0,1,2,1,2,1,1,VA,Virginia,Loudoun
+51109,0,0,1,1,0,2,0,0,VA,Virginia,Louisa
+51111,0,0,0,0,0,0,0,0,VA,Virginia,Lunenburg
+51113,0,0,1,0,0,0,0,0,VA,Virginia,Madison
+51115,0,0,0,0,0,0,0,0,VA,Virginia,Mathews
+51117,0,0,0,0,0,0,1,2,VA,Virginia,Mecklenburg
+51119,0,0,0,0,1,0,0,0,VA,Virginia,Middlesex
+51121,1,1,0,0,1,0,1,3,VA,Virginia,Montgomery
+51125,0,0,0,0,0,0,0,0,VA,Virginia,Nelson
+51127,0,0,0,0,0,0,0,1,VA,Virginia,New Kent
+51131,0,0,0,0,0,0,0,0,VA,Virginia,Northampton
+51133,0,0,0,0,0,0,0,0,VA,Virginia,Northumberland
+51135,0,0,0,0,0,0,0,0,VA,Virginia,Nottoway
+51137,0,0,0,0,0,0,0,0,VA,Virginia,Orange
+51139,0,3,0,0,0,0,0,4,VA,Virginia,Page
+51141,0,0,0,0,0,0,0,0,VA,Virginia,Patrick
+51143,0,1,0,0,0,0,2,0,VA,Virginia,Pittsylvania
+51145,0,2,0,0,0,0,1,0,VA,Virginia,Powhatan
+51147,1,0,0,0,0,0,0,0,VA,Virginia,Prince Edward
+51149,0,0,0,0,0,0,1,1,VA,Virginia,Prince George
+51153,1,2,0,3,3,1,2,5,VA,Virginia,Prince William
+51155,0,1,0,1,0,1,0,1,VA,Virginia,Pulaski
+51157,0,0,0,0,0,0,0,1,VA,Virginia,Rappahannock
+51159,0,0,0,0,0,0,1,1,VA,Virginia,Richmond
+51161,1,0,1,0,0,0,0,2,VA,Virginia,Roanoke
+51163,0,0,2,1,0,0,0,0,VA,Virginia,Rockbridge
+51165,0,0,0,0,0,2,3,0,VA,Virginia,Rockingham
+51167,0,0,0,0,0,0,0,0,VA,Virginia,Russell
+51169,0,1,1,0,1,1,0,0,VA,Virginia,Scott
+51171,0,0,0,0,0,0,0,0,VA,Virginia,Shenandoah
+51173,0,0,0,0,0,0,0,0,VA,Virginia,Smyth
+51175,0,0,0,0,0,0,0,0,VA,Virginia,Southampton
+51177,0,1,1,0,1,0,1,2,VA,Virginia,Spotsylvania
+51179,0,0,1,1,1,1,2,2,VA,Virginia,Stafford
+51181,0,0,0,0,1,0,0,0,VA,Virginia,Surry
+51183,0,0,0,0,1,2,3,1,VA,Virginia,Sussex
+51185,0,0,0,0,0,1,0,0,VA,Virginia,Tazewell
+51187,0,0,0,0,0,0,0,1,VA,Virginia,Warren
+51191,2,0,0,1,1,0,0,2,VA,Virginia,Washington
+51193,0,0,0,0,0,0,0,0,VA,Virginia,Westmoreland
+51195,0,0,0,0,1,0,0,1,VA,Virginia,Wise
+51197,0,0,1,1,1,2,1,0,VA,Virginia,Wythe
+51199,0,0,0,0,0,1,0,0,VA,Virginia,York
+51510,0,2,0,2,2,0,1,0,VA,Virginia,Alexandria city
+51515,0,0,0,0,0,0,0,0,VA,Virginia,Bedford city
+51520,0,0,0,1,1,0,0,1,VA,Virginia,Bristol city
+51530,0,1,0,0,0,0,0,0,VA,Virginia,Buena Vista city
+51540,0,0,1,1,1,0,0,0,VA,Virginia,Charlottesville city
+51550,0,1,1,1,0,1,1,9,VA,Virginia,Chesapeake city
+51570,0,0,0,0,0,0,3,0,VA,Virginia,Colonial Heights city
+51580,0,0,0,0,0,0,0,0,VA,Virginia,Covington city
+51590,0,0,1,1,2,0,0,0,VA,Virginia,Danville city
+51595,0,0,0,0,0,0,0,2,VA,Virginia,Emporia city
+51600,0,0,0,0,0,0,0,0,VA,Virginia,Fairfax city
+51610,0,0,0,0,0,0,0,0,VA,Virginia,Falls Church city
+51620,0,0,0,0,0,0,0,0,VA,Virginia,Franklin city
+51630,0,0,1,0,0,0,0,1,VA,Virginia,Fredericksburg city
+51640,0,0,0,0,0,0,0,0,VA,Virginia,Galax city
+51650,2,0,1,2,2,0,1,0,VA,Virginia,Hampton city
+51660,0,1,0,1,1,0,0,2,VA,Virginia,Harrisonburg city
+51670,1,0,1,0,1,0,0,0,VA,Virginia,Hopewell city
+51678,0,0,0,0,0,0,0,0,VA,Virginia,Lexington city
+51680,0,0,0,1,3,0,1,1,VA,Virginia,Lynchburg city
+51683,0,0,0,0,0,0,0,0,VA,Virginia,Manassas city
+51685,0,0,0,0,0,0,0,0,VA,Virginia,Manassas Park city
+51690,0,0,0,0,0,0,0,1,VA,Virginia,Martinsville city
+51700,1,2,2,2,0,3,1,1,VA,Virginia,Newport News city
+51710,5,1,8,2,0,1,3,0,VA,Virginia,Norfolk city
+51720,0,0,0,0,0,0,0,1,VA,Virginia,Norton city
+51730,0,0,0,1,0,0,3,1,VA,Virginia,Petersburg city
+51735,0,0,0,0,0,0,0,0,VA,Virginia,Poquoson city
+51740,1,3,2,1,2,1,0,1,VA,Virginia,Portsmouth city
+51750,0,0,0,0,0,0,0,0,VA,Virginia,Radford city
+51760,2,6,2,5,4,3,4,1,VA,Virginia,Richmond city
+51770,1,4,0,2,1,3,1,2,VA,Virginia,Roanoke city
+51775,0,0,0,0,0,0,0,0,VA,Virginia,Salem city
+51790,0,0,0,0,0,0,0,0,VA,Virginia,Staunton city
+51800,0,2,0,0,0,0,3,0,VA,Virginia,Suffolk city
+51810,1,5,0,1,4,4,6,1,VA,Virginia,Virginia Beach city
+51820,0,0,0,0,0,0,0,1,VA,Virginia,Waynesboro city
+51830,0,0,0,1,0,0,0,0,VA,Virginia,Williamsburg city
+51840,0,0,1,0,1,0,1,0,VA,Virginia,Winchester city
+53001,0,0,0,1,0,0,2,0,WA,Washington,Adams
+53003,0,0,0,0,0,0,0,0,WA,Washington,Asotin
+53005,1,2,0,3,3,5,2,5,WA,Washington,Benton
+53007,0,1,1,1,1,0,0,0,WA,Washington,Chelan
+53009,0,0,2,0,0,0,0,0,WA,Washington,Clallam
+53011,7,2,4,4,5,4,7,6,WA,Washington,Clark
+53013,0,0,0,0,0,0,0,0,WA,Washington,Columbia
+53015,0,1,2,1,1,1,1,0,WA,Washington,Cowlitz
+53017,0,0,1,0,0,0,1,0,WA,Washington,Douglas
+53019,0,0,0,0,0,1,0,0,WA,Washington,Ferry
+53021,3,1,0,1,0,2,2,2,WA,Washington,Franklin
+53023,0,0,0,0,0,0,0,0,WA,Washington,Garfield
+53025,0,2,2,0,1,2,1,1,WA,Washington,Grant
+53027,0,0,1,2,0,3,3,0,WA,Washington,Grays Harbor
+53029,0,0,0,2,1,0,0,0,WA,Washington,Island
+53031,0,0,0,0,0,0,0,0,WA,Washington,Jefferson
+53033,14,14,16,22,11,26,17,13,WA,Washington,King
+53035,2,0,0,5,3,1,2,0,WA,Washington,Kitsap
+53037,0,0,1,0,0,1,0,0,WA,Washington,Kittitas
+53039,0,0,0,0,0,0,0,0,WA,Washington,Klickitat
+53041,2,0,0,0,0,2,2,1,WA,Washington,Lewis
+53043,0,0,0,0,0,0,0,0,WA,Washington,Lincoln
+53045,0,2,1,0,0,0,1,0,WA,Washington,Mason
+53047,0,1,0,0,1,0,1,1,WA,Washington,Okanogan
+53049,0,0,0,0,0,0,0,0,WA,Washington,Pacific
+53051,0,0,0,0,0,0,0,0,WA,Washington,Pend Oreille
+53053,9,5,11,13,14,13,14,10,WA,Washington,Pierce
+53055,0,0,0,0,0,0,0,0,WA,Washington,San Juan
+53057,0,0,1,0,0,1,0,0,WA,Washington,Skagit
+53059,0,0,0,0,0,0,0,0,WA,Washington,Skamania
+53061,4,2,4,6,6,4,3,4,WA,Washington,Snohomish
+53063,8,8,4,9,5,7,9,8,WA,Washington,Spokane
+53065,1,1,0,2,1,0,0,1,WA,Washington,Stevens
+53067,1,3,2,3,2,2,4,2,WA,Washington,Thurston
+53069,0,0,0,0,0,0,0,0,WA,Washington,Wahkiakum
+53071,0,0,0,0,1,2,0,1,WA,Washington,Walla Walla
+53073,3,1,0,1,1,0,1,0,WA,Washington,Whatcom
+53075,0,0,0,0,0,0,0,0,WA,Washington,Whitman
+53077,7,0,2,8,2,1,4,4,WA,Washington,Yakima
+54001,0,0,0,0,0,0,1,0,WV,West Virginia,Barbour
+54003,0,0,0,2,1,0,1,2,WV,West Virginia,Berkeley
+54005,0,0,0,2,0,0,0,0,WV,West Virginia,Boone
+54007,0,0,0,1,1,0,0,0,WV,West Virginia,Braxton
+54009,0,1,0,0,0,0,0,0,WV,West Virginia,Brooke
+54011,1,2,1,1,3,2,1,0,WV,West Virginia,Cabell
+54013,0,0,0,0,0,0,0,0,WV,West Virginia,Calhoun
+54015,0,0,0,0,0,0,0,0,WV,West Virginia,Clay
+54017,0,0,0,0,0,0,0,0,WV,West Virginia,Doddridge
+54019,1,3,0,0,1,0,2,1,WV,West Virginia,Fayette
+54021,0,0,0,0,0,0,0,0,WV,West Virginia,Gilmer
+54023,0,0,0,0,0,0,0,0,WV,West Virginia,Grant
+54025,0,1,0,0,0,0,0,0,WV,West Virginia,Greenbrier
+54027,0,0,1,0,0,0,0,0,WV,West Virginia,Hampshire
+54029,0,0,1,0,0,1,0,0,WV,West Virginia,Hancock
+54031,0,0,0,0,0,0,0,3,WV,West Virginia,Hardy
+54033,2,1,1,1,1,2,1,1,WV,West Virginia,Harrison
+54035,0,0,0,0,1,0,0,0,WV,West Virginia,Jackson
+54037,0,1,0,0,0,0,1,0,WV,West Virginia,Jefferson
+54039,1,2,2,6,2,6,4,2,WV,West Virginia,Kanawha
+54041,0,2,0,0,0,0,0,2,WV,West Virginia,Lewis
+54043,0,0,0,0,0,0,0,0,WV,West Virginia,Lincoln
+54045,2,0,0,1,0,0,0,0,WV,West Virginia,Logan
+54047,0,0,1,0,0,1,0,0,WV,West Virginia,McDowell
+54049,0,0,2,3,0,0,1,0,WV,West Virginia,Marion
+54051,0,0,0,0,0,0,0,0,WV,West Virginia,Marshall
+54053,1,0,0,0,0,0,0,0,WV,West Virginia,Mason
+54055,1,2,1,3,1,1,1,2,WV,West Virginia,Mercer
+54057,0,1,0,0,0,0,2,0,WV,West Virginia,Mineral
+54059,1,0,1,0,0,0,0,1,WV,West Virginia,Mingo
+54061,0,2,2,0,2,2,0,0,WV,West Virginia,Monongalia
+54063,0,0,0,0,0,0,0,0,WV,West Virginia,Monroe
+54065,0,0,0,0,0,0,0,0,WV,West Virginia,Morgan
+54067,0,1,1,1,0,1,1,0,WV,West Virginia,Nicholas
+54069,0,0,0,0,0,0,0,0,WV,West Virginia,Ohio
+54071,0,0,0,1,0,0,0,0,WV,West Virginia,Pendleton
+54073,0,0,0,0,0,0,0,0,WV,West Virginia,Pleasants
+54075,0,0,0,0,1,1,0,0,WV,West Virginia,Pocahontas
+54077,0,0,0,0,0,0,0,0,WV,West Virginia,Preston
+54079,0,0,1,1,0,1,0,0,WV,West Virginia,Putnam
+54081,1,2,2,0,0,1,3,3,WV,West Virginia,Raleigh
+54083,0,1,1,1,0,0,0,0,WV,West Virginia,Randolph
+54085,0,0,1,0,0,0,0,0,WV,West Virginia,Ritchie
+54087,0,0,1,0,0,1,1,0,WV,West Virginia,Roane
+54089,1,0,0,0,0,0,0,0,WV,West Virginia,Summers
+54091,0,0,0,2,0,0,0,0,WV,West Virginia,Taylor
+54093,0,0,0,0,0,0,0,0,WV,West Virginia,Tucker
+54095,0,0,0,0,0,0,0,0,WV,West Virginia,Tyler
+54097,0,0,1,0,0,0,0,0,WV,West Virginia,Upshur
+54099,0,0,0,0,0,0,1,0,WV,West Virginia,Wayne
+54101,0,0,0,0,0,0,0,0,WV,West Virginia,Webster
+54103,0,0,1,0,0,0,0,0,WV,West Virginia,Wetzel
+54105,0,0,0,0,0,0,0,0,WV,West Virginia,Wirt
+54107,3,0,0,0,0,0,1,2,WV,West Virginia,Wood
+54109,0,0,2,0,1,0,0,0,WV,West Virginia,Wyoming
+55001,0,0,0,0,0,0,0,0,WI,Wisconsin,Adams
+55003,0,0,0,2,0,1,0,0,WI,Wisconsin,Ashland
+55005,0,0,0,0,1,0,0,2,WI,Wisconsin,Barron
+55007,0,0,0,0,0,0,0,0,WI,Wisconsin,Bayfield
+55009,0,2,0,1,1,1,3,4,WI,Wisconsin,Brown
+55011,0,0,0,0,0,0,0,0,WI,Wisconsin,Buffalo
+55013,0,0,0,0,0,0,0,0,WI,Wisconsin,Burnett
+55015,0,0,0,0,0,0,0,0,WI,Wisconsin,Calumet
+55017,2,0,1,0,1,1,0,1,WI,Wisconsin,Chippewa
+55019,0,0,0,0,1,2,0,0,WI,Wisconsin,Clark
+55021,0,1,0,1,1,2,0,0,WI,Wisconsin,Columbia
+55023,0,0,0,0,0,0,0,0,WI,Wisconsin,Crawford
+55025,2,1,2,1,2,3,3,4,WI,Wisconsin,Dane
+55027,2,0,1,0,1,0,0,0,WI,Wisconsin,Dodge
+55029,0,0,0,1,0,0,0,0,WI,Wisconsin,Door
+55031,1,0,0,0,1,0,0,0,WI,Wisconsin,Douglas
+55033,4,0,0,0,0,0,0,0,WI,Wisconsin,Dunn
+55035,1,2,2,3,1,1,0,2,WI,Wisconsin,Eau Claire
+55037,0,0,0,0,0,0,0,0,WI,Wisconsin,Florence
+55039,0,1,0,0,0,0,0,0,WI,Wisconsin,Fond du Lac
+55041,0,0,0,1,1,0,0,0,WI,Wisconsin,Forest
+55043,0,0,0,1,0,0,0,0,WI,Wisconsin,Grant
+55045,0,2,1,0,0,0,0,0,WI,Wisconsin,Green
+55047,0,0,0,0,0,0,0,0,WI,Wisconsin,Green Lake
+55049,0,0,0,0,0,0,0,0,WI,Wisconsin,Iowa
+55051,0,0,0,0,0,0,0,0,WI,Wisconsin,Iron
+55053,0,0,0,2,0,1,0,0,WI,Wisconsin,Jackson
+55055,0,2,0,1,1,0,3,0,WI,Wisconsin,Jefferson
+55057,0,0,0,0,0,0,0,0,WI,Wisconsin,Juneau
+55059,0,4,0,1,0,1,3,1,WI,Wisconsin,Kenosha
+55061,0,0,0,1,0,1,0,0,WI,Wisconsin,Kewaunee
+55063,0,0,1,1,0,1,0,1,WI,Wisconsin,La Crosse
+55065,0,0,0,0,0,0,0,0,WI,Wisconsin,Lafayette
+55067,0,0,2,0,0,0,0,0,WI,Wisconsin,Langlade
+55069,0,0,1,1,0,1,0,2,WI,Wisconsin,Lincoln
+55071,0,0,0,0,2,2,1,0,WI,Wisconsin,Manitowoc
+55073,0,1,1,2,1,1,1,4,WI,Wisconsin,Marathon
+55075,0,0,1,1,0,0,2,0,WI,Wisconsin,Marinette
+55077,0,2,0,0,0,1,0,0,WI,Wisconsin,Marquette
+55078,0,0,0,0,0,0,0,0,WI,Wisconsin,Menominee
+55079,8,18,10,17,17,15,26,18,WI,Wisconsin,Milwaukee
+55081,0,1,0,0,1,1,0,0,WI,Wisconsin,Monroe
+55083,0,0,0,0,0,0,1,1,WI,Wisconsin,Oconto
+55085,1,0,0,0,0,0,0,0,WI,Wisconsin,Oneida
+55087,0,0,3,1,1,4,0,0,WI,Wisconsin,Outagamie
+55089,0,0,1,0,0,0,0,0,WI,Wisconsin,Ozaukee
+55091,0,0,0,0,0,0,0,0,WI,Wisconsin,Pepin
+55093,0,0,0,0,0,0,0,0,WI,Wisconsin,Pierce
+55095,0,0,1,0,0,0,1,0,WI,Wisconsin,Polk
+55097,2,0,0,0,0,0,0,0,WI,Wisconsin,Portage
+55099,0,0,0,0,0,0,0,0,WI,Wisconsin,Price
+55101,2,1,0,0,4,3,1,2,WI,Wisconsin,Racine
+55103,0,0,0,0,0,0,0,0,WI,Wisconsin,Richland
+55105,1,0,0,0,1,1,1,1,WI,Wisconsin,Rock
+55107,0,0,1,0,1,0,0,0,WI,Wisconsin,Rusk
+55109,0,0,0,0,1,1,0,1,WI,Wisconsin,St. Croix
+55111,0,0,0,0,0,0,0,1,WI,Wisconsin,Sauk
+55113,0,0,1,0,1,0,0,0,WI,Wisconsin,Sawyer
+55115,0,0,0,1,0,0,0,1,WI,Wisconsin,Shawano
+55117,1,0,1,0,0,0,1,0,WI,Wisconsin,Sheboygan
+55119,0,0,0,0,0,0,0,0,WI,Wisconsin,Taylor
+55121,0,0,0,0,3,0,0,0,WI,Wisconsin,Trempealeau
+55123,0,0,0,0,0,0,0,0,WI,Wisconsin,Vernon
+55125,0,0,0,0,0,0,1,0,WI,Wisconsin,Vilas
+55127,0,0,3,1,1,0,1,0,WI,Wisconsin,Walworth
+55129,0,0,0,0,0,0,0,0,WI,Wisconsin,Washburn
+55131,0,0,1,1,0,0,0,2,WI,Wisconsin,Washington
+55133,2,1,1,3,2,3,4,3,WI,Wisconsin,Waukesha
+55135,0,0,0,1,0,0,0,0,WI,Wisconsin,Waupaca
+55137,0,0,0,0,0,0,0,0,WI,Wisconsin,Waushara
+55139,0,2,0,1,1,2,1,0,WI,Wisconsin,Winnebago
+55141,1,0,0,0,0,1,0,0,WI,Wisconsin,Wood
+56001,0,1,0,0,2,0,0,0,WY,Wyoming,Albany
+56003,1,0,0,0,0,0,0,1,WY,Wyoming,Big Horn
+56005,0,1,1,0,0,0,1,0,WY,Wyoming,Campbell
+56007,0,1,0,0,0,0,0,1,WY,Wyoming,Carbon
+56009,0,2,1,1,0,0,0,0,WY,Wyoming,Converse
+56011,0,0,0,0,0,0,0,0,WY,Wyoming,Crook
+56013,1,0,0,0,0,2,1,2,WY,Wyoming,Fremont
+56015,0,0,0,0,0,0,0,0,WY,Wyoming,Goshen
+56017,0,0,0,0,0,0,0,0,WY,Wyoming,Hot Springs
+56019,0,0,0,0,0,0,0,0,WY,Wyoming,Johnson
+56021,0,2,0,2,2,1,0,1,WY,Wyoming,Laramie
+56023,0,0,0,0,0,0,0,0,WY,Wyoming,Lincoln
+56025,1,1,2,3,3,1,2,2,WY,Wyoming,Natrona
+56027,0,0,0,0,0,0,0,0,WY,Wyoming,Niobrara
+56029,0,0,0,0,0,0,0,0,WY,Wyoming,Park
+56031,0,0,0,0,0,0,1,0,WY,Wyoming,Platte
+56033,0,0,0,0,0,0,1,0,WY,Wyoming,Sheridan
+56035,0,0,0,0,0,0,0,0,WY,Wyoming,Sublette
+56037,0,0,0,0,1,0,0,2,WY,Wyoming,Sweetwater
+56039,0,0,0,0,0,0,0,0,WY,Wyoming,Teton
+56041,0,0,0,0,0,0,0,0,WY,Wyoming,Uinta
+56043,0,0,0,1,0,0,0,0,WY,Wyoming,Washakie
+56045,0,0,0,0,0,0,0,0,WY,Wyoming,Weston
