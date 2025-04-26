@@ -4,7 +4,7 @@
 
 The use of lethal force by law enforcement remains a central concern in discussions around policing in the United States. While many analyses focus on individual incidents or large-scale trends, fewer have explored how internal police agency characteristics—such as training hours, gender composition, and accountability structures—might correlate with use-of-force outcomes across communities, particularly when controlling for local population and socioeconomic factors.
 
-Our project aims to investigate whether and how agency-level organizational factors contribute to county-level differences in lethal force incidents, as recorded in publicly available datasets.
+Our project aims to investigate whether and how agency-level organizational factors contribute to state-level differences in lethal force incidents, as recorded in publicly available datasets.
 
 ## Hypotheses
 
@@ -25,7 +25,7 @@ The SPOTLITE database provides data at the county level, while LEMAS provides da
 
 ### 2. LEMAS (Law Enforcement Management and Administrative Statistics) Survey
 
-- **Years**: 2013, 2016, 2020
+- **Years**: 2016 and 2020
 - **Fields**:
   - % female officers
   - Total sworn personnel
