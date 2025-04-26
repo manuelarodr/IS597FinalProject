@@ -42,3 +42,5 @@ def aggregate_spotlite_to_state_long(csv_path: str) -> pd.DataFrame:
 # df_long = aggregate_spotlite_to_state_long('SPOTLITE_US_2014_2021_1_11_2024_countycountbyyear_wide.csv')
 # df_long.to_csv('state_use_of_force_long_format.csv', index=False)
 
+df_long = aggregate_spotlite_to_state_long("Data/SPOTLITE.csv")
+print(df_long[0:5])
