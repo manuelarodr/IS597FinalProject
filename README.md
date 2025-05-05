@@ -31,8 +31,6 @@ The SPOTLITE database provides data at the county level, while LEMAS provides da
   - Civilian complaint board existence
 
 
-> **Note**: Variable coding is inconsistent across survey years, but the desired information is available for all three waves.
-
 ### 3. U.S. Census and Labor Statistics (for contextual normalization and control variables)
 
 - **Years**: 2016 & 2020
