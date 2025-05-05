@@ -27,11 +27,9 @@ The SPOTLITE database provides data at the county level, while LEMAS provides da
 
 - **Years**: 2016 and 2020
 - **Fields**:
-  - % female officers
-  - Total sworn personnel
-  - In-service training hours
+  - Full-time sworn personel demographics
   - Civilian complaint board existence
-  - Overtime restrictions (if available)
+
 
 > **Note**: Variable coding is inconsistent across survey years, but the desired information is available for all three waves.
 
