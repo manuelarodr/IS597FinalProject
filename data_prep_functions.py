@@ -3,30 +3,40 @@ import re
 
 def extract_state_total_crime(filepath: str) -> pd.DataFrame:
     """
-    Extracts estimated state-level totals for population, violent crime, and property crime
-    from "Crime in the United States by State" summarized Excel tables and calculates total
-    Part I crime estimate for each state (violent crime + property crime). Puerto Rico is
-    also reported in the original tables, but it is dropped here.
+    Extracts state-level summary statistics from Uniform Crime Reporting (UCR) "Crime in the United States
+    by State" Excel tables for a given year, pulling estimated totals for population, violent crime, and
+    property crime. It returns DataFrame with state abbreviations, year, population, and total Part I crime
+    estimate.
+
+    The tables are expected to follow a relatively consistent structure, such as those published in:
+    - Table 3 (2016): https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-3
+    - Table 5 (2020): https://cde.ucr.cjis.gov/LATEST/webapp/#
+
+    Puerto Rico is included in the original files but is excluded from the returned DataFrame.
 
     Parameters:
-        filepath (str): Path to the Excel file.
+        filepath (str): Path to the Excel file containing the UCR state summary table.
 
     Returns:
-        pd.DataFrame: Processed DataFrame with STATE, POPULATION, and TOTAL_CRIME columns.
+        pd.DataFrame: DataFrame with columns:
+            - STATE: Two-letter state abbreviation
+            - YEAR: Year of the report (inferred from header)
+            - POPULATION: Estimated state population
+            - TOTAL_CRIME: Sum of violent and property crimes
 
-        >>> df = extract_state_total_crime("Data/Table_05_Crime_in_the_United_States_by_State_2020.xlsx")
-        >>> len(df)
+        >>> crime = extract_state_total_crime("Data/Table_05_Crime_in_the_United_States_by_State_2020.xlsx")
+        >>> len(crime)
         51
-        >>> df['YEAR'].nunique()
+        >>> crime['YEAR'].nunique()
         1
-        >>> print(df['YEAR'].iloc[0])
+        >>> print(crime['YEAR'].iloc[0])
         2020
-        >>> print(df.loc[df['STATE'].str.upper() == 'NC', 'TOTAL_CRIME'].values[0])
+        >>> print(crime.loc[crime['STATE'].str.upper() == 'NC', 'TOTAL_CRIME'].values[0])
         280477
-        >>> print(df.loc[df['STATE'].str.upper() == 'WY', 'POPULATION'].values[0])
+        >>> print(crime.loc[crime['STATE'].str.upper() == 'WY', 'POPULATION'].values[0])
         582328
-        >>> df2 = extract_state_total_crime("Data/table-3.xlsx")
-        >>> df2.loc[50, ['STATE', 'TOTAL_CRIME']].to_dict()
+        >>> crime2 = extract_state_total_crime("Data/table-3.xlsx")
+        >>> crime2.loc[50, ['STATE', 'TOTAL_CRIME']].to_dict()
         {'STATE': 'WY', 'TOTAL_CRIME': 12890}
     """
 
@@ -85,23 +95,87 @@ def extract_state_total_crime(filepath: str) -> pd.DataFrame:
 
     return df
 
-def weighted_flags(df: pd.DataFrame, col: str, weight_col:str = 'FTSWORN'):
+def apply_weight(df: pd.DataFrame, columns: list, weight_col: str = 'FINALWGT', prefix: str = 'W_') -> pd.DataFrame:
     """
-        Helper function for read_lemas().
-    :param df:
-    :param col:
-    :param weight_col:
-    :return:
+    Multiplies specified columns by a weight column and adds them to the DataFrame with a prefix.
+
+    :param df: DataFrame to modify
+    :param columns: List of column names to weight
+    :param weight_col: Name of the weight column (default: 'FINALWGT')
+    :param prefix: Prefix for new weighted columns (default: 'W_')
+    :return: The original DataFrame with weighted columns added
     """
-    flagged = df[col].notna()
+    for col in columns:
+        df[f"{prefix}{col}"] = df[col] * df[weight_col]
+    return df
+
+def weighted_binary(df: pd.DataFrame, col: str, weight_col: str = 'WEIGHT') -> float:
+    """
+    Computes the weighted proportion of agencies flagged (==1) for a given binary column,
+    using the provided survey weight column.
+
+    :param df: DataFrame containing the data
+    :param col: Binary column to calculate weighted proportion for
+    :param weight_col: Column containing survey weights (e.g., 'FINALWGT')
+    :return: Weighted proportion of agencies with flag == 1
+    """
+    flagged = df[col] == 1
     return df.loc[flagged, weight_col].sum() / df[weight_col].sum()
 
 
-def read_lemas(filepath: str):
+def read_lemas(filepath: str, return_strata_counts: bool = False, verbose: bool = True):
     """
+    Reads and processes LEMAS survey data from a tab-delimited file. Returns a DataFrame providing
+    survey-weighted, state-level estimates of police agency characteristics—specifically, the
+    demographic composition of full-time sworn officers and the prevalence of community-oriented
+    accountability practices.
 
-    :param filepath:
-    :return:
+    Selected variables include:
+        - Agency characteristics: STATE, STRATA, FTSWORN (full-time sworn officers)
+        - Demographics: PERS_FEMALE, PERS_BLACK_FEM/MALE, PERS_HISP_FEM/MALE
+        - Policy flags: CCRB (civilian complaint board), CFDBK_POLICY (community feedback)
+        - Sampling weights: FINALWGT (2016), SAMPLINGWEIGHT (2020)
+
+    Processing steps:
+        - Standardizes column names across years
+        - Replaces -8/-9 nonresponse codes with NaN in binary flags
+        - Filters invalid rows (e.g., FTSWORN ≤ 0)
+        - Applies survey weights and aggregates to state level
+        - Calculates % female, % Black, and % Hispanic officers
+        - Optionally adds STRATA group counts per state
+
+    Parameters:
+    :param filepath (str): Path to the input LEMAS TSV file (e.g., 'lemas_2016.tsv')
+    :param return_strata_counts (bool): If True, includes per-state counts of agencies by STRATA group.
+
+    :return: A state-level DataFrame including:
+            - STATE: State abbreviation
+            - YEAR: Survey year, extracted from the input filename
+            - W_FTSWORN: Totals of full-time sworn officers in the state
+            - %_FEMALE: Share of full-time sworn officers in the state who are female
+            - %_BLACK: Share of sworn officers who are Black (female + male)
+            - %_HISP: Share of sworn officers who are Hispanic (female + male)
+            - CCRB: Proportion of agencies that reported having a civilian complaint board;
+            - CFDBK_POLICY: Proportion of agencies that reported using community feedback
+                            to inform internal policy decisions
+            - (Optional) STRATA_* columns: If return_strata_counts is True, includes the number of agencies
+                                           in each STRATA group for each state
+            >>> df = read_lemas("Data/LEMAS2016.tsv", verbose= False)
+            >>> len(df)
+            51
+            >>> bool(df["CCRB"].min() >= 0 and df["CCRB"].max() <= 1)
+            True
+            >>> bool(df["CFDBK_POLICY"].min() >= 0 and df["CFDBK_POLICY"].max() <= 1)
+            True
+            >>> bool(df["%_FEMALE"].min() >= 0 and df["%_FEMALE"].max() <= 1)
+            True
+            >>> bool(df["%_BLACK"].min() >= 0 and df["%_BLACK"].max() <= 1)
+            True
+            >>> bool(df["%_HISP"].min() >= 0 and df["%_HISP"].max() <= 1)
+            True
+            >>> df_strata = read_lemas("Data/LEMAS2016.tsv", return_strata_counts=True, verbose=False)
+            >>> any(col.startswith("STRATA_") for col in df_strata.columns)
+            True
     """
     columns = ['STATE',
                'STRATA',
@@ -112,22 +186,27 @@ def read_lemas(filepath: str):
                'POL_CCRB',  # civilian complaint board flag 2016
                'CIV_COMPL',  # civilian complaint board flag  2020
                'CP_SURV_POLICY',  # community feedback used for informing agency policy flag 2016
-               'FDBK_POLICY'  # community feedback used for informing agency policy flag 2020
+               'FDBK_POLICY',  # community feedback used for informing agency policy flag 2020
+               'FINALWGT',  # Survey weights 2016
+               'SAMPLINGWEIGHT', # Survey weights 2020
                ]
 
     rename_columns = {
         'POL_CCRB': 'CCRB',
         'CIV_COMPL': 'CCRB',
         'CP_SURV_POLICY': 'CFDBK_POLICY',
-        'FDBK_POLICY': 'CFDBK_POLICY'
+        'FDBK_POLICY': 'CFDBK_POLICY',
+        'FINALWGT':'WEIGHT',
+        'SAMPLINGWEIGHT':'WEIGHT'
     }
 
     lemas = pd.read_csv(filepath, usecols=lambda x: x.upper() in columns, sep='\t')
     lemas = lemas.rename(columns=rename_columns)
 
+    # set -8 and -9 to nan in binary columns
     for col in set(rename_columns.values()):
         if col in lemas.columns:
-            lemas[col] = lemas[col].where(lemas[col] == 1)
+            lemas[col] = lemas[col].replace({-8: pd.NA, -9: pd.NA})
 
     original_len = len(lemas)
 
@@ -136,51 +215,50 @@ def read_lemas(filepath: str):
 
     clean_len = len(lemas)
 
-    print(f'{original_len - clean_len} rows dropped due to FTSWORN <=0 or invalid demographic counts.')
+    if verbose:
+        print(f'{original_len - clean_len} rows dropped due to FTSWORN <=0 or invalid demographic counts.')
 
-    lemas['AG_STATE'] = lemas['STRATA'] > 300
-    lemas['AG_SHERIFF'] = (lemas['STRATA'] > 200) & (lemas['STRATA'] <= 300)
-    lemas['AG_LOCAL'] = (lemas['STRATA'] > 100) & (lemas['STRATA'] <= 200)
+    ag_demo_cols = ['FTSWORN', 'PERS_FEMALE', 'PERS_BLACK_FEM', 'PERS_BLACK_MALE', 'PERS_HISP_FEM', 'PERS_HISP_MALE']
+    lemas = apply_weight(lemas, ag_demo_cols, weight_col='WEIGHT')
 
-    dem_by_state = lemas.groupby('STATE').agg({
-        'FTSWORN': 'sum',
-        'PERS_FEMALE': 'sum',
-        'PERS_BLACK_FEM': 'sum',
-        'PERS_BLACK_MALE': 'sum',
-        'PERS_HISP_FEM': 'sum',
-        'PERS_HISP_MALE': 'sum',
-        'AG_STATE': 'sum',
-        'AG_SHERIFF': 'sum',
-        'AG_LOCAL': 'sum'
-    }).reset_index()
+    weighted_cols = [col for col in lemas.columns if col.startswith('W_')]
 
-    flagcols_by_state = lemas.groupby('STATE', group_keys=False).apply(
-        lambda x: pd.Series({
-            'CCRB': weighted_flags(x.drop(columns='STATE'), 'CCRB'),
-            'CFDBK_POLICY': weighted_flags(x.drop(columns='STATE'), 'CFDBK_POLICY')
-        })
-    ).reset_index()
+    dem_by_state = lemas.groupby('STATE', as_index=False)[weighted_cols].sum()
 
-    lemas_by_state = pd.merge(dem_by_state, flagcols_by_state, on='STATE')
+    binary_cols_by_state = (
+        lemas.groupby('STATE', as_index=False)
+        .apply(lambda x: pd.Series({
+            'CCRB': weighted_binary(x, 'CCRB', 'WEIGHT'),
+            'CFDBK_POLICY': weighted_binary(x, 'CFDBK_POLICY', 'WEIGHT')
+        }))
+        .reset_index(drop=True)
+    )
+
+    lemas_by_state = pd.merge(dem_by_state, binary_cols_by_state, on='STATE')
 
     lemas_by_state['YEAR'] = int(filepath[-8:-4])
 
-    lemas_by_state['%_FEMALE'] = lemas_by_state['PERS_FEMALE'] / lemas_by_state['FTSWORN']
-    lemas_by_state['%_BLACK'] = (lemas_by_state['PERS_BLACK_FEM'] + lemas_by_state['PERS_BLACK_MALE']) / lemas_by_state[
-        'FTSWORN']
-    lemas_by_state['%_HISP'] = (lemas_by_state['PERS_HISP_FEM'] + lemas_by_state['PERS_HISP_MALE']) / lemas_by_state[
-        'FTSWORN']
+    lemas_by_state['%_FEMALE'] = lemas_by_state['W_PERS_FEMALE'] / lemas_by_state['W_FTSWORN']
+    lemas_by_state['%_BLACK'] = (
+        lemas_by_state['W_PERS_BLACK_FEM'] + lemas_by_state['W_PERS_BLACK_MALE']
+    ) / lemas_by_state['W_FTSWORN']
+    lemas_by_state['%_HISP'] = (
+        lemas_by_state['W_PERS_HISP_FEM'] + lemas_by_state['W_PERS_HISP_MALE']
+    ) / lemas_by_state['W_FTSWORN']
 
-    ordered_columns = [
+    ordered_cols = [
         'STATE', 'YEAR',
-        'FTSWORN',
+        'W_FTSWORN',
         '%_FEMALE', '%_BLACK', '%_HISP',
-        'CCRB', 'CFDBK_POLICY',
-        'AG_STATE', 'AG_SHERIFF', 'AG_LOCAL',
-        'PERS_FEMALE', 'PERS_BLACK_FEM', 'PERS_BLACK_MALE', 'PERS_HISP_FEM', 'PERS_HISP_MALE'
+        'CCRB', 'CFDBK_POLICY'
     ]
 
-    lemas_by_state = lemas_by_state[ordered_columns]
+    lemas_by_state = lemas_by_state[ordered_cols]
+
+    if return_strata_counts:
+        strata_counts = pd.crosstab(lemas['STATE'], lemas['STRATA']).reset_index()
+        strata_counts.columns = ['STATE'] + [f'STRATA_{c}' for c in strata_counts.columns[1:]]
+        lemas_by_state = pd.merge(lemas_by_state, strata_counts, on='STATE', how='left')
 
     return lemas_by_state
 
