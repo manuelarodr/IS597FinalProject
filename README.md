@@ -8,9 +8,9 @@ Our project aims to investigate whether and how agency-level organizational fact
 
 ## Hypotheses
 
-- **Hypothesis 1**: Counties with police agencies that have a higher proportion of female officers will have a lower average count of lethal force incidents per year.
-- **Hypothesis 2**: Agencies with a civilian complaint board have significantly fewer yearly lethal force incidents than those without.
-- **Hypothesis 3**: Police agencies with a higher proportion of minority officers (Black, Latino) are less likely to be involved in lethal force incidents.
+- **Hypothesis 1**: States that have a higher proportion of female officers will have a less lethal force incidents per year.
+- **Hypothesis 2**: States that have a higher proportion of minority officers (Black, Latino) are less likely to be involved in lethal force incidents.
+- **Hypothesis 3**: States where a greater share of officers are employed in agencies with a civilian complaint review board will have a less lethal force incidents per year.
 - **Hypothesis 4**: The relationships described in H1–H3 will be stronger in 2020 than in 2016, reflecting the increasing impact of organizational accountability measures over time.
 
 ## Data Sources
