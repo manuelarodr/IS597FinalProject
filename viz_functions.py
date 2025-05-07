@@ -23,17 +23,51 @@ def plot_histogram(df, column, bins=15, color='#1f77b4', figsize=(8, 5)):
     plt.tight_layout()
     plt.show()
 
+def bar_by_state_year(df: pd.DataFrame, value_col:str , state_col: str ='STATE_NAME', year_col: str ='YEAR',
+                    label_dict: dict =None, figsize: tuple =(14, 6), color_map: dict ={2016: '#1f77b4', 2020: '#BA4A00'}):
+    """
+    Plots a bar chart of any variable across states, split by year and ordered by descending order of the variable in the
+    earliest year.
+
+    :param df: Input data.
+    :param value_col: Column name for the numeric variable to plot.
+    :param state_col: Column name for state.
+    :param year_col: Column name for year.
+    :param label_dict: Optional mapping for value_col label in title/y-axis.
+    :param figsize: Figure size for the plot.
+    :param color_map: Optional mapping for value_col label in title/y-axis.
+    """
+    value_label = label_dict.get(value_col, value_col) if label_dict else value_col
+
+    # sort states by desc order of the value in the earliest year
+    df_plot = df.copy()
+    state_order = ( df_plot[df_plot[year_col] == df_plot[year_col].min()].sort_values(by=value_col, ascending=False)[state_col].tolist())
+
+    # convert to categorical so seaborn respects order
+    df_plot[state_col] = pd.Categorical(df_plot[state_col], categories=state_order, ordered=True)
+
+    # Plot
+    plt.figure(figsize=figsize)
+    sns.barplot(data=df_plot, x=state_col, y=value_col, hue=year_col, palette= color_map)
+    plt.xticks(rotation=90)
+    plt.title(f'{value_label} by State and Year')
+    plt.xlabel('State')
+    plt.ylabel(value_label)
+    plt.tight_layout()
+    plt.legend(title='Year')
+    plt.show()
+
 def scatter_dual_year_highlight(df: pd.DataFrame, x_var: str, y_var: str, label_map: dict = None, color_map: dict = {2016: '#1f77b4', 2020: '#BA4A00'}):
     """
     Creates side-by-side scatterplots comparing two years. Each subplot shows plots data for both years and highlights
     the relevant year in color. Adds a horizontal line for the mean y-value.
 
 
-    :param df (pd.DataFrame): Combined DataFrame with at least 'YEAR', x_var, y_var columns.
-    :param x_var (str): Column name to use as x-axis.
-    :param y_var (str): Column name to use as y-axis.
-    :param label_map (dict): Optional dict mapping column names to labels. Defaults to None.
-    :param color_map (dict): Optional dict mapping each year to a color.
+    :param df: Combined DataFrame with at least 'YEAR', x_var, y_var columns.
+    :param x_var: Column name to use as x-axis.
+    :param y_var: Column name to use as y-axis.
+    :param label_map: Optional dict mapping column names to labels. Defaults to None.
+    :param color_map: Optional dict mapping each year to a color.
     """
     x_label = label_map.get(x_var, x_var.replace('_', ' ')) if label_map else x_var.replace('_', ' ')
     y_label = label_map.get(y_var, y_var.replace('_', ' ')) if label_map else y_var.replace('_', ' ')
@@ -86,16 +120,15 @@ def plot_correlation_matrix(df, figsize=(12, 10), annot_fmt=".2f"):
     plt.tight_layout()
     plt.show()
 
-def plot_quartile_boxplot(df, x_var, y_var, label_map=None, n_quartiles=4):
+def plot_quartile_boxplot(df: pd.DataFrame, x_var: str, y_var: str, label_map: dict = None, n_quartiles=4):
     """
     Plots a boxplot of y_var across quartiles of x_var.
 
-
-    :param df (pd.DataFrame): Input DataFrame.
-    :param x_var (str): The column to bin into quartiles.
-    :param y_var (str): The dependent variable to plot on the y-axis.
-    :param label_map (dict): Optional dictionary to map x_var and y_var to labels.
-    :param n_quartiles (int): Number of quantile bins (default = 4).
+    :param df: Input DataFrame.
+    :param x_var: The column to bin into quartiles.
+    :param y_var: The dependent variable to plot on the y-axis.
+    :param label_map: Optional dictionary to map x_var and y_var to labels.
+    :param n_quartiles: Number of quantile bins (default = 4).
     """
     # Quartile labels
     quartile_labels = [f'Q{i + 1}' for i in range(n_quartiles)]
