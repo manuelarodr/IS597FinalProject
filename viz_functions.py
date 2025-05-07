@@ -25,9 +25,8 @@ def plot_histogram(df, column, bins=15, color='#1f77b4', figsize=(8, 5)):
 
 def scatter_dual_year_highlight(df: pd.DataFrame, x_var: str, y_var: str, label_map: dict = None, color_map: dict = {2016: '#1f77b4', 2020: '#BA4A00'}):
     """
-    Creates side-by-side scatterplots comparing two years.
-    Each subplot shows plots data for both years and highlights the relevant year in color.
-    Adds a horizontal line for the mean y-value.
+    Creates side-by-side scatterplots comparing two years. Each subplot shows plots data for both years and highlights
+    the relevant year in color. Adds a horizontal line for the mean y-value.
 
 
     :param df (pd.DataFrame): Combined DataFrame with at least 'YEAR', x_var, y_var columns.
@@ -38,6 +37,9 @@ def scatter_dual_year_highlight(df: pd.DataFrame, x_var: str, y_var: str, label_
     """
     x_label = label_map.get(x_var, x_var.replace('_', ' ')) if label_map else x_var.replace('_', ' ')
     y_label = label_map.get(y_var, y_var.replace('_', ' ')) if label_map else y_var.replace('_', ' ')
+
+    x_title = x_label.replace(' (log1p)', '').replace(' (log1p-scaled)', '')
+    y_title = y_label.replace(' (log1p)', '').replace(' (log1p-scaled)', '')
 
     fig, axes = plt.subplots(1, 2, figsize=(14, 6), sharey=True)
 
@@ -61,7 +63,7 @@ def scatter_dual_year_highlight(df: pd.DataFrame, x_var: str, y_var: str, label_
         ax.grid(False)
 
     axes[0].set_ylabel(y_label)
-    fig.suptitle(f'{x_label} vs \n {y_label}', fontsize=16)
+    fig.suptitle(f'{x_title} vs \n {y_title}', fontsize=16)
     plt.tight_layout(rect=[0, 0, 1, 0.95])
     plt.show()
 
@@ -78,40 +80,39 @@ def plot_correlation_matrix(df, figsize=(12, 10), annot_fmt=".2f"):
                 linewidths=0.5,
                 cbar_kws={'label': 'Correlation'})
 
-    plt.title("Correlation Matrix", fontsize=16)
+    plt.title("Spearman Correlation Matrix", fontsize=16)
     plt.xticks(rotation=45, ha='right')
     plt.yticks(rotation=0)
     plt.tight_layout()
     plt.show()
 
-    def plot_quartile_boxplot(df, x_var, y_var, label_map=None, n_quartiles=4):
-        """
-        Plots a boxplot of y_var across quartiles of x_var.
+def plot_quartile_boxplot(df, x_var, y_var, label_map=None, n_quartiles=4):
+    """
+    Plots a boxplot of y_var across quartiles of x_var.
 
-        Parameters:
-            df (pd.DataFrame): Input DataFrame.
-            x_var (str): The column to bin into quartiles.
-            y_var (str): The dependent variable to plot on the y-axis.
-            label_map (dict): Optional dictionary to map x_var and y_var to labels.
-            n_quartiles (int): Number of quantile bins (default = 4).
-        """
-        # Create quartile labels
-        quartile_labels = [f'Q{i + 1}' for i in range(n_quartiles)]
-        quartile_labels[0] += ' (Lowest)'
-        quartile_labels[-1] += ' (Highest)'
 
-        # Create new quartile column
-        quartile_col = f'{x_var}_Q'
-        df[quartile_col] = pd.qcut(df[x_var], q=n_quartiles, labels=quartile_labels)
+    :param df (pd.DataFrame): Input DataFrame.
+    :param x_var (str): The column to bin into quartiles.
+    :param y_var (str): The dependent variable to plot on the y-axis.
+    :param label_map (dict): Optional dictionary to map x_var and y_var to labels.
+    :param n_quartiles (int): Number of quantile bins (default = 4).
+    """
+    # Quartile labels
+    quartile_labels = [f'Q{i + 1}' for i in range(n_quartiles)]
+    quartile_labels[0] += ' (Lowest)'
+    quartile_labels[-1] += ' (Highest)'
 
-        # Get readable axis labels if provided
-        x_label = label_map.get(x_var, x_var) if label_map else x_var
-        y_label = label_map.get(y_var, y_var) if label_map else y_var
+    quartile_col = f'{x_var}_Q'
+    df[quartile_col] = pd.qcut(df[x_var], q=n_quartiles, labels=quartile_labels)
 
-        # Plot
-        sns.boxplot(data=df, x=quartile_col, y=y_var, color='#1f77b4')
-        plt.title(f'{y_label} by {x_label} Quartile')
-        plt.xlabel(f'{x_label} Quartile')
-        plt.ylabel(y_label)
-        plt.tight_layout()
-        plt.show()
+    # Get readable axis labels if provided
+    x_label = label_map.get(x_var, x_var) if label_map else x_var
+    y_label = label_map.get(y_var, y_var) if label_map else y_var
+
+    # Plot
+    sns.boxplot(data=df, x=quartile_col, y=y_var, color='#1f77b4')
+    plt.title(f'{y_label} by {x_label} Quartile')
+    plt.xlabel(f'{x_label} Quartile')
+    plt.ylabel(y_label)
+    plt.tight_layout()
+    plt.show()
