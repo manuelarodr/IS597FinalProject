@@ -454,9 +454,44 @@ def aggregate_spotlite_to_state_long(csv_path: str) -> pd.DataFrame:
 
     return df_long
 
-# example use：
-# df_long = aggregate_spotlite_to_state_long('SPOTLITE_US_2014_2021_1_11_2024_countycountbyyear_wide.csv')
-# df_long.to_csv('state_use_of_force_long_format.csv', index=False)
+
+def aggregate_spotlite_to_county_long(csv_path: str) -> pd.DataFrame:
+    """
+    Reshapes SPOTLITE county-level data from wide to long format
+    for selected years (2016, 2020), with one row per county per year.
+
+    Parameters:
+        csv_path (str): Path to the county-level SPOTLITE data.
+
+    Returns:
+        pd.DataFrame: County-level long-format data for 2016 and 2020.
+    """
+    # Load data
+    df = pd.read_csv(csv_path)
+
+    # Select relevant columns
+    year_cols = ['y2016', 'y2020']
+    id_cols = ['fips', 'state', 'state_name', 'county_name']
+
+    # Melt to long format
+    df_long = pd.melt(
+        df,
+        id_vars=id_cols,
+        value_vars=year_cols,
+        var_name='year',
+        value_name='use_of_force_count'
+    )
+
+    # Convert 'y2016' → 2016 (int)
+    df_long['year'] = df_long['year'].str.extract(r'y(\d{4})').astype(int)
+
+    # Optional: standardize column names
+    df_long.columns = df_long.columns.str.upper()
+
+    # Optional: sort for readability
+    df_long = df_long.sort_values(['STATE', 'COUNTY_NAME', 'YEAR']).reset_index(drop=True)
+
+    return df_long
 
 def standardize(series: pd.Series) -> pd.Series:
     return (series - series.min()) / (series.max() - series.min())
