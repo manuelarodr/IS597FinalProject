@@ -122,152 +122,6 @@ def weighted_binary(df: pd.DataFrame, col: str, weight_col: str = 'WEIGHT') -> f
     flagged = df[col] == 1
     return df.loc[flagged, weight_col].sum() / df[weight_col].sum()
 
-
-def read_lemas_weight(filepath: str, return_strata_counts: bool = False, verbose: bool = True) -> pd.DataFrame:
-    """
-    Reads and processes LEMAS survey data from a tab-delimited file. Returns a DataFrame providing
-    survey-weighted, state-level estimates of police agency characteristics—specifically, the
-    demographic composition of full-time sworn officers and the prevalence of community-oriented
-    accountability practices.
-
-    Selected variables include:
-        - Agency characteristics: STATE, STRATA, FTSWORN (full-time sworn officers)
-        - Demographics: PERS_FEMALE, PERS_BLACK_FEM/MALE, PERS_HISP_FEM/MALE
-        - Policy flags: CCRB (civilian complaint board), CFDBK_POLICY (community feedback)
-        - Sampling weights: FINALWGT (2016), SAMPLINGWEIGHT (2020)
-
-    Processing steps:
-        - Standardizes column names and 'STRATA' codes across years
-        - Replaces -8/-9 nonresponse codes with NaN in binary flags
-        - Filters invalid rows (e.g., FTSWORN ≤ 0)
-        - Applies survey weights and aggregates to state level
-        - Calculates % female, % Black, and % Hispanic officers
-        - Optionally adds STRATA group counts per state
-
-    Parameters:
-    :param filepath (str): Path to the input LEMAS TSV file (e.g., 'lemas_2016.tsv')
-    :param return_strata_counts (bool): If True, includes per-state counts of agencies by STRATA group.
-
-    :return: A state-level DataFrame including:
-            - STATE: State abbreviation
-            - YEAR: Survey year, extracted from the input filename
-            - W_FTSWORN: Totals of full-time sworn officers in the state
-            - %_FEMALE: Share of full-time sworn officers in the state who are female
-            - %_BLACK: Share of sworn officers who are Black (female + male)
-            - %_HISP: Share of sworn officers who are Hispanic (female + male)
-            - CCRB: Proportion of agencies that reported having a civilian complaint board;
-            - CFDBK_POLICY: Proportion of agencies that reported using community feedback
-                            to inform internal policy decisions
-            - (Optional) STRATA_* columns: If return_strata_counts is True, includes the number of agencies
-                                           in each STRATA group for each state
-            >>> df = read_lemas_weight("Data/LEMAS2016.tsv", verbose= False)
-            >>> len(df)
-            51
-            >>> bool(df["CCRB"].min() >= 0 and df["CCRB"].max() <= 1)
-            True
-            >>> bool(df["CFDBK_POLICY"].min() >= 0 and df["CFDBK_POLICY"].max() <= 1)
-            True
-            >>> bool(df["%_FEMALE"].min() >= 0 and df["%_FEMALE"].max() <= 1)
-            True
-            >>> bool(df["%_BLACK"].min() >= 0 and df["%_BLACK"].max() <= 1)
-            True
-            >>> bool(df["%_HISP"].min() >= 0 and df["%_HISP"].max() <= 1)
-            True
-            >>> df_strata = read_lemas_weight("Data/LEMAS2016.tsv", return_strata_counts=True, verbose=False)
-            >>> any(col.startswith("STRATA_") for col in df_strata.columns)
-            True
-    """
-    columns = ['STATE',
-               'STRATA',
-               'FTSWORN',
-               'PTSWORN',
-               'PERS_FEMALE',
-               'PERS_BLACK_FEM', 'PERS_BLACK_MALE',
-               'PERS_HISP_FEM', 'PERS_HISP_MALE',
-               'POL_CCRB',  # civilian complaint board flag 2016
-               'CIV_COMPL',  # civilian complaint board flag  2020
-               'CP_SURV_POLICY',  # community feedback used for informing agency policy flag 2016
-               'FDBK_POLICY',  # community feedback used for informing agency policy flag 2020
-               'FINALWGT',  # Survey weights 2016
-               'SAMPLINGWEIGHT', # Survey weights 2020
-               'COMPLETE'
-               ]
-
-    rename_columns = {
-        'POL_CCRB': 'CCRB',
-        'CIV_COMPL': 'CCRB',
-        'CP_SURV_POLICY': 'CFDBK_POLICY',
-        'FDBK_POLICY': 'CFDBK_POLICY',
-        'FINALWGT':'WEIGHT',
-        'SAMPLINGWEIGHT':'WEIGHT'
-    }
-
-    strata_map_2016_to_2020 = {
-        101: 1, 102: 2, 103: 3, 104: 4, 105: 5, 106: 6, 107: 7,
-        201: 8, 202: 9, 203: 10, 204: 11, 205: 12,
-        206: 13, 207: 13,
-        301: 15
-    }
-
-    lemas = pd.read_csv(filepath, usecols=lambda x: x.upper() in columns, sep='\t', na_values=[-8, -9])
-    lemas = lemas.rename(columns=rename_columns)
-
-    original_len = len(lemas)
-
-    if 'COMPLETE' in lemas.columns:
-        lemas = lemas[((lemas['FTSWORN'] > 0)|(lemas['PTSWORN'] >= 2)) & (lemas['COMPLETE']>0.6)].copy()
-        clean_len = len(lemas)
-        if verbose:
-            print(f'{original_len - clean_len} rows from {original_len} dropped due to FTSWORN < 1 or survey completion rate below 60%.')
-
-    # STRATA values are in 100–300 range for 2016 coding
-    if lemas['STRATA'].max() > 15:
-        lemas['STRATA'] = lemas['STRATA'].map(strata_map_2016_to_2020).fillna(lemas['STRATA'])
-
-    ag_demo_cols = ['FTSWORN', 'PERS_FEMALE', 'PERS_BLACK_FEM', 'PERS_BLACK_MALE', 'PERS_HISP_FEM', 'PERS_HISP_MALE']
-    lemas = apply_weight(lemas, ag_demo_cols, weight_col='WEIGHT')
-
-    weighted_cols = [col for col in lemas.columns if col.startswith('W_')]
-
-    dem_by_state = lemas.groupby('STATE', as_index=False)[weighted_cols].sum()
-
-    binary_cols_by_state = (
-        lemas.groupby('STATE', as_index=False)
-        .apply(lambda x: pd.Series({
-            'CCRB': weighted_binary(x, 'CCRB', 'WEIGHT'),
-            'CFDBK_POLICY': weighted_binary(x, 'CFDBK_POLICY', 'WEIGHT')
-        }))
-        .reset_index(drop=True)
-    )
-
-    lemas_by_state = pd.merge(dem_by_state, binary_cols_by_state, on='STATE')
-
-    lemas_by_state['YEAR'] = int(filepath[-8:-4])
-
-    lemas_by_state['%_FEMALE'] = lemas_by_state['W_PERS_FEMALE'] / lemas_by_state['W_FTSWORN']
-    lemas_by_state['%_BLACK'] = (
-        lemas_by_state['W_PERS_BLACK_FEM'] + lemas_by_state['W_PERS_BLACK_MALE']
-    ) / lemas_by_state['W_FTSWORN']
-    lemas_by_state['%_HISP'] = (
-        lemas_by_state['W_PERS_HISP_FEM'] + lemas_by_state['W_PERS_HISP_MALE']
-    ) / lemas_by_state['W_FTSWORN']
-
-    ordered_cols = [
-        'STATE', 'YEAR',
-        'W_FTSWORN',
-        '%_FEMALE', '%_BLACK', '%_HISP',
-        'CCRB', 'CFDBK_POLICY'
-    ]
-
-    lemas_by_state = lemas_by_state[ordered_cols]
-
-    if return_strata_counts:
-        strata_counts = pd.crosstab(lemas['STATE'], lemas['STRATA']).reset_index()
-        strata_counts.columns = ['STATE'] + [f'STRATA_{c}' for c in strata_counts.columns[1:]]
-        lemas_by_state = pd.merge(lemas_by_state, strata_counts, on='STATE', how='left')
-
-    return lemas_by_state
-
 def read_lemas(filepath: str, return_strata_counts: bool = False, verbose: bool = True) -> pd.DataFrame:
     """
         Reads and processes LEMAS survey data from a tab-delimited file. Returns a DataFrame providing
@@ -495,3 +349,148 @@ def aggregate_spotlite_to_county_long(csv_path: str) -> pd.DataFrame:
 
 def standardize(series: pd.Series) -> pd.Series:
     return (series - series.min()) / (series.max() - series.min())
+
+# def read_lemas_weight(filepath: str, return_strata_counts: bool = False, verbose: bool = True) -> pd.DataFrame:
+#     """
+#     Reads and processes LEMAS survey data from a tab-delimited file. Returns a DataFrame providing
+#     survey-weighted, state-level estimates of police agency characteristics—specifically, the
+#     demographic composition of full-time sworn officers and the prevalence of community-oriented
+#     accountability practices.
+#
+#     Selected variables include:
+#         - Agency characteristics: STATE, STRATA, FTSWORN (full-time sworn officers)
+#         - Demographics: PERS_FEMALE, PERS_BLACK_FEM/MALE, PERS_HISP_FEM/MALE
+#         - Policy flags: CCRB (civilian complaint board), CFDBK_POLICY (community feedback)
+#         - Sampling weights: FINALWGT (2016), SAMPLINGWEIGHT (2020)
+#
+#     Processing steps:
+#         - Standardizes column names and 'STRATA' codes across years
+#         - Replaces -8/-9 nonresponse codes with NaN in binary flags
+#         - Filters invalid rows (e.g., FTSWORN ≤ 0)
+#         - Applies survey weights and aggregates to state level
+#         - Calculates % female, % Black, and % Hispanic officers
+#         - Optionally adds STRATA group counts per state
+#
+#     Parameters:
+#     :param filepath (str): Path to the input LEMAS TSV file (e.g., 'lemas_2016.tsv')
+#     :param return_strata_counts (bool): If True, includes per-state counts of agencies by STRATA group.
+#
+#     :return: A state-level DataFrame including:
+#             - STATE: State abbreviation
+#             - YEAR: Survey year, extracted from the input filename
+#             - W_FTSWORN: Totals of full-time sworn officers in the state
+#             - %_FEMALE: Share of full-time sworn officers in the state who are female
+#             - %_BLACK: Share of sworn officers who are Black (female + male)
+#             - %_HISP: Share of sworn officers who are Hispanic (female + male)
+#             - CCRB: Proportion of agencies that reported having a civilian complaint board;
+#             - CFDBK_POLICY: Proportion of agencies that reported using community feedback
+#                             to inform internal policy decisions
+#             - (Optional) STRATA_* columns: If return_strata_counts is True, includes the number of agencies
+#                                            in each STRATA group for each state
+#             >>> df = read_lemas_weight("Data/LEMAS2016.tsv", verbose= False)
+#             >>> len(df)
+#             51
+#             >>> bool(df["CCRB"].min() >= 0 and df["CCRB"].max() <= 1)
+#             True
+#             >>> bool(df["CFDBK_POLICY"].min() >= 0 and df["CFDBK_POLICY"].max() <= 1)
+#             True
+#             >>> bool(df["%_FEMALE"].min() >= 0 and df["%_FEMALE"].max() <= 1)
+#             True
+#             >>> bool(df["%_BLACK"].min() >= 0 and df["%_BLACK"].max() <= 1)
+#             True
+#             >>> bool(df["%_HISP"].min() >= 0 and df["%_HISP"].max() <= 1)
+#             True
+#             >>> df_strata = read_lemas_weight("Data/LEMAS2016.tsv", return_strata_counts=True, verbose=False)
+#             >>> any(col.startswith("STRATA_") for col in df_strata.columns)
+#             True
+#     """
+#     columns = ['STATE',
+#                'STRATA',
+#                'FTSWORN',
+#                'PTSWORN',
+#                'PERS_FEMALE',
+#                'PERS_BLACK_FEM', 'PERS_BLACK_MALE',
+#                'PERS_HISP_FEM', 'PERS_HISP_MALE',
+#                'POL_CCRB',  # civilian complaint board flag 2016
+#                'CIV_COMPL',  # civilian complaint board flag  2020
+#                'CP_SURV_POLICY',  # community feedback used for informing agency policy flag 2016
+#                'FDBK_POLICY',  # community feedback used for informing agency policy flag 2020
+#                'FINALWGT',  # Survey weights 2016
+#                'SAMPLINGWEIGHT', # Survey weights 2020
+#                'COMPLETE'
+#                ]
+#
+#     rename_columns = {
+#         'POL_CCRB': 'CCRB',
+#         'CIV_COMPL': 'CCRB',
+#         'CP_SURV_POLICY': 'CFDBK_POLICY',
+#         'FDBK_POLICY': 'CFDBK_POLICY',
+#         'FINALWGT':'WEIGHT',
+#         'SAMPLINGWEIGHT':'WEIGHT'
+#     }
+#
+#     strata_map_2016_to_2020 = {
+#         101: 1, 102: 2, 103: 3, 104: 4, 105: 5, 106: 6, 107: 7,
+#         201: 8, 202: 9, 203: 10, 204: 11, 205: 12,
+#         206: 13, 207: 13,
+#         301: 15
+#     }
+#
+#     lemas = pd.read_csv(filepath, usecols=lambda x: x.upper() in columns, sep='\t', na_values=[-8, -9])
+#     lemas = lemas.rename(columns=rename_columns)
+#
+#     original_len = len(lemas)
+#
+#     if 'COMPLETE' in lemas.columns:
+#         lemas = lemas[((lemas['FTSWORN'] > 0)|(lemas['PTSWORN'] >= 2)) & (lemas['COMPLETE']>0.6)].copy()
+#         clean_len = len(lemas)
+#         if verbose:
+#             print(f'{original_len - clean_len} rows from {original_len} dropped due to FTSWORN < 1 or survey completion rate below 60%.')
+#
+#     # STRATA values are in 100–300 range for 2016 coding
+#     if lemas['STRATA'].max() > 15:
+#         lemas['STRATA'] = lemas['STRATA'].map(strata_map_2016_to_2020).fillna(lemas['STRATA'])
+#
+#     ag_demo_cols = ['FTSWORN', 'PERS_FEMALE', 'PERS_BLACK_FEM', 'PERS_BLACK_MALE', 'PERS_HISP_FEM', 'PERS_HISP_MALE']
+#     lemas = apply_weight(lemas, ag_demo_cols, weight_col='WEIGHT')
+#
+#     weighted_cols = [col for col in lemas.columns if col.startswith('W_')]
+#
+#     dem_by_state = lemas.groupby('STATE', as_index=False)[weighted_cols].sum()
+#
+#     binary_cols_by_state = (
+#         lemas.groupby('STATE', as_index=False)
+#         .apply(lambda x: pd.Series({
+#             'CCRB': weighted_binary(x, 'CCRB', 'WEIGHT'),
+#             'CFDBK_POLICY': weighted_binary(x, 'CFDBK_POLICY', 'WEIGHT')
+#         }))
+#         .reset_index(drop=True)
+#     )
+#
+#     lemas_by_state = pd.merge(dem_by_state, binary_cols_by_state, on='STATE')
+#
+#     lemas_by_state['YEAR'] = int(filepath[-8:-4])
+#
+#     lemas_by_state['%_FEMALE'] = lemas_by_state['W_PERS_FEMALE'] / lemas_by_state['W_FTSWORN']
+#     lemas_by_state['%_BLACK'] = (
+#         lemas_by_state['W_PERS_BLACK_FEM'] + lemas_by_state['W_PERS_BLACK_MALE']
+#     ) / lemas_by_state['W_FTSWORN']
+#     lemas_by_state['%_HISP'] = (
+#         lemas_by_state['W_PERS_HISP_FEM'] + lemas_by_state['W_PERS_HISP_MALE']
+#     ) / lemas_by_state['W_FTSWORN']
+#
+#     ordered_cols = [
+#         'STATE', 'YEAR',
+#         'W_FTSWORN',
+#         '%_FEMALE', '%_BLACK', '%_HISP',
+#         'CCRB', 'CFDBK_POLICY'
+#     ]
+#
+#     lemas_by_state = lemas_by_state[ordered_cols]
+#
+#     if return_strata_counts:
+#         strata_counts = pd.crosstab(lemas['STATE'], lemas['STRATA']).reset_index()
+#         strata_counts.columns = ['STATE'] + [f'STRATA_{c}' for c in strata_counts.columns[1:]]
+#         lemas_by_state = pd.merge(lemas_by_state, strata_counts, on='STATE', how='left')
+#
+#     return lemas_by_state
