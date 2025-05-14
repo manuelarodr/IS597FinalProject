@@ -11,7 +11,7 @@ Our project aims to investigate whether and how agency-level organizational fact
 - **Hypothesis 1**: States that have a higher proportion of female officers will have a less lethal force incidents per year.
 - **Hypothesis 2**: States that have a higher proportion of minority officers (Black, Latino) are less likely to be involved in lethal force incidents.
 - **Hypothesis 3**: States where a greater share of officers are employed in agencies with a civilian complaint review board will have a less lethal force incidents per year.
-- **Hypothesis 4**: The relationships described in H1–H3 will be stronger in 2020 than in 2016, reflecting the increasing impact of organizational accountability measures over time.
+- **Hypothesis 4**: The relationships described in hypotheses 1-3 will be stronger in 2020 than in 2016, reflecting the increasing impact of organizational accountability measures over time.
 
 ## Data Sources
 
@@ -25,22 +25,22 @@ The SPOTLITE database provides data at the county level, while LEMAS provides da
 
 ### 2. LEMAS (Law Enforcement Management and Administrative Statistics) Survey
 
-- **Years**: 2016 and 2020
+- **Years**: 2016 and 2020 (conducted every four years)
 - **Fields**:
   - Full-time sworn personel demographics
   - Civilian complaint board existence
 
-
-### 3. U.S. Census and Labor Statistics (for contextual normalization and control variables)
+### 3. FBI Uniform Crime Reporting Program (for Crime and Population estimates used for normalization)
 
 - **Years**: 2016 & 2020
-- **Source**: [Census Data](https://data.census.gov/table/ACSST1Y2023.S1902?q=United+States&t=Income+(Households,+Families,+Individuals)&g=010XX00US,$0400000)
+- **Source**:
+    * **2016 Data**: Table 3 - Crime in the United States by State, 2016. Retrieved from the FBI Uniform Crime Reporting (UCR) Program:
+        https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-3
+    * **2020 Data**: Table 5 - Crime in the United States by State, 2020. Available via the FBI Crime Data Explorer:
+        https://cde.ucr.cjis.gov/LATEST/webapp/#
 - **Fields**:
-  - Resident population size (per capita normalization)
-  - Median household income
-  - Race/ethnicity proportions
-
-> **Note**: These measures will be extracted from multiple relevant tables to match the SPOTLITE and LEMAS data.
+  - State population (per capita normalization)
+  - Total number of Part I offenses reported (violent crime + property crime)
 
 ## Data Preparation
 
@@ -50,12 +50,13 @@ First, we aggregated the SPOTLITE incident data from the county level to the sta
 
 Second, from the LEMAS survey data, we extracted agency-level organizational characteristics, including the percentage of female officers, the existence of a civilian complaint board, and the proportion of minority officers. We then aggregated these attributes to the state level by calculating weighted averages, using the number of sworn personnel as the weighting factor to reflect the relative size of agencies within each state.
 
-Third, we obtained population size and crime incident counts for each state and year from U.S. Census and FBI UCR/NIBRS datasets. We matched these contextual variables with the SPOTLITE and LEMAS data by state and year identifiers.
+Third, we obtained population size and crime incident counts for each state and year from FBI UCRP yearly summary datasets. We matched these contextual variables with the SPOTLITE and LEMAS data by state and year identifiers.
+
+All datasets were merged based on state identifiers and year, with careful attention to missing data and consistency across sources.
 
 To control for differences in population size and crime environment, we computed two normalized outcome variables for each state-year observation:
 - **Lethal force incidents per 100,000 residents**, using the state’s population as the denominator.
 - **Lethal force incidents per 1,000 crime incidents**, using the state's total reported crime incidents as the denominator.
 
-By using both normalization strategies, we aim to control for the varying population sizes and baseline levels of crime across states, providing a more nuanced and robust assessment of how agency structure relates to the use of lethal force.
+By using both normalization strategies, we aim to control for the varying population sizes and baseline levels of crime across states, attempting to provide a more nuanced assessment of how agency structure relates to the use of lethal force. However, due to substantial variation within states, this level of aggregation limits the ability to draw meaningful conclusions. To address this, additional analyses at the county and agency levels are underway. Preliminary agency-level estimates are documented in the In Progress directory.
 
-All datasets were merged based on state identifiers and year, with careful attention to missing data and consistency across sources.
